@@ -1,0 +1,35 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Magdalena Target_Child, PAR María Mother, INV Cristina
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	11-AUG-1992
+@Transcriber:	AGO
+@Date:	19-JUN-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*CHI:	&=dar .
+%act:	CHI toma un bloque del suelo y se lo da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	a_ver Magdalenita vamos a guardar estos juguetes y vamos a sacar
+	otros .
+@New Episode
+@Situation:	language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	oye mira xxx .
+*PAR:	mira [/] mira [/] mira .
+*CHI:	ugg@g [= señalar] .
+%act:	CHI señala el pop up después de que PAR abre un casillero
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+V
+*PAR:	aquí [/] aquí [/] aquí mira .
+*PAR:	no [/] no aquí mira .
+@End

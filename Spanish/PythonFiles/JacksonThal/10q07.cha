@@ -1,0 +1,37 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Alfonso Target_Child, PAR Carmen Mother, INV Mary
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	27-OCT-1992
+@Transcriber:	PB
+@Date:	31-AUG-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	a_ver vamos a_ver si se oye .
+%act:	INV le pone los bloques a CHI para que los toque
+*INV:	ay qué bonito se oye a_ver los míos .
+%act:	INV sigue jugando con los bloques
+*INV:	vamos aquí ?
+%act:	INV pone los bloques en el camión y lo empieza a empujar
+*INV:	quieres que te enseñe otros juguetes ?
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	qué es hijo ?
+%act:	CHI coge los vasitos y los golpea entre sí
+*PAR:	mira .
+*PAR:	qué es gordo ?
+%act:	PAR le muestra a CHI los ensambles
+*PAR:	toma [/] toma ésto es lo que quieres ?
+%act:	CHI llora porque PAR no le permite el abaco
+*PAR:	Alfonso [/] Alfonso dónde está papá [/] papá ?
+%act:	PAR le enseña los guiñoles y ahora se junta con ellos el papá
+	CHI sólo se ríe con los guiñoles
+@End

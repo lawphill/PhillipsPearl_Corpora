@@ -1,0 +1,27 @@
+r = tap, "miRa"
+R = trill, "cigaRRo"
+B = voiced bilabial fricative, "aVe"
+x = voiceless velar fricative, "JorGe"
+D = voiced labiodental fricative, "laDo"
+G = voiced velar fricative, "haGo"
+j = voiced palatal fricative, "LLamar"
+ñ = voiced palatal nasal, "año"
+
+% = dipthon "ia", "pIAdoso"
+# = dipthong "ie", "cIElo"
+@ = dipthong "io", "mencIOnar"
+$ = dipthong "ue", "pUEde"
+& = dipthong "ua", "agUA"
+! = dipthong "ui", "hUIr"
+* = dipthong "ei", "pEInar"
++ = dipthong "au", "lAUra"
+- = dipthong "ai", "hAY"
+3 = dipthong "oi", "hOY"
+
+á to {
+é to }
+í to <
+ó to >
+ú to ^
+ñ to |
+ü to =

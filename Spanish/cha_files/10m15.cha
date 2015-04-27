@@ -1,0 +1,85 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Alejandro Target_Child, PAR Elena Mother, INV Cristina
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	26-NOV-1993
+@Transcriber:	RJD
+@Date:	02-OCT-1994
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	qué vez ?
+*INV:	qué hay ?
+*INV:	pum@o !
+*INV:	pum@o !
+*INV:	pacatelas !
+*INV:	poing@o se cayó .
+*CHI:	mira . [+ S]
+%flo:	ea
+%act:	CHI tiene la pelota en la mano y la acerca hacia la valla de blocks
+%spa:	$SP
+*INV:	mira que grandota !
+*INV:	ouch@o !
+*INV:	ay@o se va .
+*INV:	qué pasa ?
+*INV:	mira vamos a guardar estos y te voy a ense ar otros .
+*INV:	me la das por_favor .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*PAR:	&ay conejo .
+*PAR:	un perro .
+%act:	CHI juega con el pop-up
+*PAR:	está suavecito ?
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI tiene un ensamble amarillo en las manos
+%spa:	$SP
+*PAR:	mira bebé mira la casita .
+*PAR:	mira un pajarito .
+*PAR:	y el barco el osito .
+*CHI:	aum@o . [+ S]
+%flo:	aum
+%act:	se estira para tomar algo del suelo
+%spa:	$SP
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI juega con los vasitos de colores
+%spa:	$SP
+*PAR:	ven bebé ven .
+*PAR:	a_ver .
+*PAR:	mira .
+*PAR:	a_ver ponmelo .
+*PAR:	se cayó .
+*PAR:	quieres jugar con éste a_ver .
+*CHI:	&=señalar . [+ UG]
+%flo:	eiyte
+%act:	se escucha el ruido de un avión y CHI voltea señalando hacia
+	donde se escucha el ruido
+%spa:	$UG
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	GD+X
+*PAR:	el avión .
+*PAR:	a_ver .
+*PAR:	qué pasó ?
+*PAR:	pocatelas ten .
+%act:	CHI juega durante largo rato con los vasitos de colores
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHi juega con los vasitos de colores y se le cae uno
+%spa:	$SP
+*PAR:	mira quien vino a visitarte ?
+*CHI:	ih@p [= señalar] .
+%act:	CHI señala hacia el frente fuera de cuadro
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+P
+*PAR:	ellas ?
+@End

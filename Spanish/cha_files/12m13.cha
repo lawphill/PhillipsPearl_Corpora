@@ -1,0 +1,518 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Suleyma Target_Child, PAR Martha Mother, INV Cristina
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	22-MAY-1992
+@Transcriber:	BSM
+@Date:	19-JUN-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	ten mira .
+*INV:	ya vamos a guardar estos .
+*PAR:	ayudale queline guárdalas .
+%act:	CHI le ayuda a INV a guardar los juguetes en la caja .
+*INV:	gracias .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*CHI:	mira &=afirmando . [+ SG]
+%flo:	mia
+%act:	CHI voltea al sillón a_ver otras cajas y después mira a INV
+%spa:	$SG
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*INV:	qué ?
+*INV:	sí ?
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI coge una muñeca
+%spa:	$SP
+*CHI:	mira . [+ S]
+%flo:	ira
+%act:	CHI voltea a_ver a alguien
+%spa:	$SP
+*CHI:	mira ay@o . [+ S]
+%flo:	ia
+%act:	CHI coge el camión y lo levanta
+%spa:	$SP
+*INV:	mira .
+*INV:	qué es ?
+%act:	CHI coge un puerquito y se lo mete a la boca
+*INV:	sabe bueno ?
+*CHI:	&=afirmando &=mostrar .
+%act:	CHI afirma con la cabeza y le muestra a
+%gpx:	c/afirmando
+%cod:	respuesta
+%com:	Gr+Gd
+*CHI:	&=dar .
+%act:	CHI le da el muñeco que tiene en la mano a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	mh@g &=dar . [+ SG]
+%flo:	mh
+%act:	CHI le da a PAR un cepillo
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*CHI:	mh@g &=dar . [+ SG]
+%flo:	mh
+%act:	CHI le da a PAR una vaca
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI coge un espejo
+%spa:	$SP
+*INV:	mira mira quién está aquí quién es ?
+%act:	INV le enseña a CHI el espejo
+*INV:	eh quién es ?
+*INV:	a_ver a quién vamos a peinar .
+*CHI:	mira [/] mira . [+ S]
+%flo:	ia ia
+%act:	CHI coge una bolsa
+%spa:	$SP
+*INV:	mira .
+*INV:	te la quieres poner ?
+*INV:	te la quieres poner si ?
+%act:	INV le coloca la bolsa en el hombro a CHI
+*CHI:	mira [/] mira [/] mira . [+ S]
+%flo:	ira ira ia
+%act:	CHI coge unos animales
+%spa:	$SP
+*INV:	muu@o .
+*CHI:	xxx . [+ U]
+%flo:	tao
+%act:	CHI con un pollo en las manos
+%spa:	$UN
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI coge una bolsa
+%spa:	$SP
+*INV:	mira .
+%act:	CHI revuelve los juguetes
+*CHI:	mira . [+ S]
+%flo:	mira
+%act:	CHI voltea a_ver a INV
+%spa:	$SP
+*CHI:	mira [/] mira . [+ S]
+%flo:	mia mia
+%act:	CHI coge el espejo y se observa en él
+%spa:	$SP
+*CHI:	hola . [+ S]
+%flo:	hoa
+%act:	CHI se mira en el espejo
+%spa:	$SP
+*INV:	hola .
+*CHI:	mira &=mostrar . [+ SG]
+%flo:	mia
+%act:	CHI levanta la mano con el espejo hacia PAR para mostrárselo
+%spa:	$SG
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI coge el espejo y lo mira
+%spa:	$SP
+*INV:	dónde estás a_ver ?
+%act:	INV voltea el espejo para que se vea CHI
+*INV:	ahí .
+%act:	CHI se vio en el espejo
+*CHI:	&=negando .
+%act:	CHI niega con la cabeza la cabeza
+%gpx:	c/negando
+%cod:	espontáneo
+*CHI:	no &=negando .
+%flo:	no
+%act:	CHI niega con la cabeza
+%spa:	$SP
+%gpx:	c/negando
+%cod:	espontáneo
+%com:	Gr+W
+*INV:	no ?
+*CHI:	no &=negando .
+%flo:	no
+%act:	CHI niega con la cabeza
+%spa:	$SP
+%gpx:	c/negando
+%cod:	espontáneo
+%com:	Gr+W
+*CHI:	otro [//] otra .
+%flo:	oto ota
+%spa:	$SP
+*INV:	otro ?
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI coge el camión
+%spa:	$SP
+*INV:	mira .
+*INV:	qué es ya viste ?
+*CHI:	(ca)mión . [+ A]
+%flo:	mión
+%act:	CHI con el camión de volteo en las manos
+%spa:	$AN
+*INV:	sí .
+*INV:	ay@o !
+*INV:	pum@o !
+*INV:	qué ?
+*INV:	mira la gallinita .
+*INV:	oing@o [/] oing@o .
+*INV:	qué ?
+*CHI:	&=dar .
+%act:	CHI le da un bloque a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*INV:	pum@o .
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI coge el camión
+%spa:	$SP
+*INV:	qué ?
+*INV:	mira sí tiene sus llantas .
+*INV:	hola .
+*INV:	quién va ahí ?
+*INV:	hola .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI saca un abaco de una caja y lo deja en el piso
+%spa:	$SP
+*CHI:	mira [/] mira . [+ S]
+%flo:	mia mia
+%act:	CHI saca un cuento de la caja
+%spa:	$SP
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI coge otra vez el cuento
+%spa:	$SP
+*INV:	mira .
+*CHI:	mira [/] mira . [+ S]
+%flo:	mia mia
+%act:	CHI saca unos bloques y los avienta
+%spa:	$SP
+*INV:	a_ver qué vamos a hacer ?
+*INV:	a_ver vamos a_ver qué hay aquí .
+*INV:	qué es ?
+%act:	CHI mira el libro de pastas duras
+*INV:	un pato .
+%act:	CHI avienta el libro y niega con la cabeza
+*INV:	mira Zuley mira .
+*INV:	eh eh qué pasó ?
+*INV:	pum@o .
+%act:	CHI tira con su pie una torre que hace INV con unas tapas
+*INV:	otra vez sí ?
+*CHI:	sí [>] . [+ AG]
+%flo:	sí
+%spa:	$AG
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*INV:	<si> [<] ?
+%act:	CHI e INV hacen nuevamente la torre
+*INV:	eso !
+*INV:	muy bien !
+*INV:	pum@o [/] pum@o .
+%act:	CHI coge el slide and peack y tira nuevamente la torre
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI voltea a_ver el sillón
+%spa:	$SP
+*INV:	mj@o .
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI coge una tapa
+%spa:	$SP
+*CHI:	&=dar .
+%act:	CHI le da un vasito a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	a_ver lo ponemos otra vez ?
+%act:	CHI comienza a armar la torre junto con INV
+*CHI:	ah@p &=mostrar .
+%act:	CHI le muestra un bloque a una persona que está detrás del
+	sillón
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	a quién le das ?
+*CHI:	eh@p &=mostrar .
+%act:	CHI le muestra un bloque a la misma persona otra vez
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	se lo damos ?
+*INV:	pum@o .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI está armando una torre
+%spa:	$SP
+*INV:	quieres ver qué más hay ?
+*CHI:	tome &=dar . [+ SG]
+%flo:	tome
+%act:	CHI saca un ensamble de la caja y se lo da a INV
+%spa:	$SG
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	gracias .
+*INV:	ay@o tu manita .
+*INV:	vamos a guardar estos y vamos a sacar otros .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	ya viste ?
+*PAR:	pruébala .
+*PAR:	huele rico ?
+*CHI:	&=oler .
+%act:	CHI se lleva a la nariz las uvas y mira a PAR
+%gpx:	s/oler
+%cod:	espontáneo, uvas
+*PAR:	uhm@o huele rico ?
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI se aleja de con PAR y se va con INV
+%spa:	$SP
+*PAR:	mira nena Zuly .
+*PAR:	Zuleyma .
+*PAR:	mira el bebé .
+*PAR:	shshsh@o duérmelo .
+*CHI:	&=arrullar .
+%act:	CHI hace que arrulla con las manos vacías porque aparentemente PAR
+	hace que arrulla al muñeco
+%gpx:	s/arrullar
+%cod:	espontáneo
+*PAR:	pero el bebé duérmelo toma .
+*PAR:	duerme al bebé .
+%act:	CHI coge al muñeco y hace como que lo duerme
+*PAR:	ay@o pero al bebé toma .
+*PAR:	toma duerme a éste .
+*PAR:	aquí mira .
+*PAR:	ah@o [/] ah@o [/] ah@o .
+*PAR:	aquí en su camita .
+*PAR:	mira un pan el pan .
+%act:	CHI se lleva el pan a la boca y hace como si comiera
+*PAR:	ay@o qué rico pan con queso .
+*CHI:	&=dar .
+%act:	CHI le da el pan a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	beso ?
+*PAR:	no éste beso no ?
+*PAR:	mira así un sandwich le ponemos lechuga mira lechuga quesito .
+*PAR:	mira Zuleyma jitomáte ham@o cómetelo .
+*PAR:	quieres ?
+*INV:	la lechita del bebé .
+*INV:	lechita al bebé .
+*PAR:	dale lechita al bebé .
+*PAR:	dale su lechita al bebé hija .
+%act:	CHI coge la mamila y se la da al bebé
+*PAR:	ay@o qué rica .
+*PAR:	mamá [/] mamá [/] mamá .
+*PAR:	duérmelo [/] duérmelo shshsh@o .
+%act:	PAR arrulla al muñeco
+*CHI:	&=arrullar .
+%act:	CHI abraza la mamila y hace como si la arrullara
+%gpx:	s/arrullar
+%cod:	imitación, mamila
+*PAR:	toma hija dale lechita .
+*PAR:	Zuleyma dale lechita al bebé .
+*CHI:	&=arrullar .
+%act:	CHI arrulla la mamila y voltea a_ver a INV
+%gpx:	s/arrullar
+%cod:	espontáneo, mamila
+*PAR:	duermes a la leche ?
+*PAR:	el bebé hija .
+%act:	CHI avienta la mamila y la deja
+*PAR:	no mira dale su lechita al bebé .
+*CHI:	uh@p [/] uh@p &=arrullar .
+%act:	CHI coge una ciruela y la arrulla
+%gpx:	s/arrullar
+%cod:	espontáneo, ciruela
+%com:	Gr+V
+*PAR:	ay@o ésta qué es ?
+*PAR:	una ciruela .
+%act:	CHI muerde la ciruela
+*PAR:	ay@o qué rica ciruela .
+*PAR:	mira la pera .
+*PAR:	Zuly .
+*CHI:	no &=negando . [+ SG]
+%flo:	no
+%act:	PAR le acerca la pera y CHI no la quiere
+%spa:	$SG
+%gpx:	c/negando
+%cod:	espontáneo
+%com:	Gr+W
+*PAR:	no quieres pera ?
+*INV:	éste este este .
+*PAR:	run run run .
+*PAR:	el carro mira .
+*PAR:	aquí están los carros eh run@o [/] run@o .
+*PAR:	aquí está el otro .
+*PAR:	uy chocó .
+*PAR:	échamelo dámelo .
+*PAR:	dámelo hija .
+*PAR:	el carro .
+*CHI:	&=dar .
+%act:	CHI le da una plato a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	el carro dame el carro .
+%act:	PAR señala el carro y CHI lo coge
+*PAR:	ése .
+%act:	CHI le da el carro a PAR
+*PAR:	gracias .
+*PAR:	me das el otro ?
+%act:	CHI le da el otro carro a PAR
+*PAR:	gracias muy bien .
+*PAR:	es la ciruela ay qué rica mmh@o .
+%act:	CHI le da la ciruela a PAR
+*PAR:	quieres [/] quieres ?
+*CHI:	&=negando .
+%gpx:	c/negando
+%com:	Gr+W
+*PAR:	no quieres ?
+*CHI:	no &=negando . [+ AG]
+%flo:	no
+%act:	CHI niega con la cabeza también
+%spa:	$AG
+%gpx:	c/negando
+%cod:	respuesta
+%com:	Gr+W
+*PAR:	pera quieres pera ?
+*PAR:	mira Zuleyma .
+*INV:	allá con mamá .
+*PAR:	Zuleyma hay agüita .
+*PAR:	mira el bebé .
+*PAR:	está llorando el bebé .
+*PAR:	está llorando el bebé .
+*CHI:	&=arrullar .
+%act:	CHI hace que arrulla al bebé pero lo hace con una taza
+%gpx:	s/arrullar
+%cod:	espontáneo, mamila
+*PAR:	carga al bebé [/] carga al bebé toma .
+*PAR:	mamá [/] mamá .
+*PAR:	mamá nena .
+*PAR:	ven [/] ven acá está hija la mamila la tetita .
+*PAR:	no nena ven .
+*PAR:	lechita ?
+*PAR:	quieres lechita ?
+*PAR:	tomate tu lechita .
+*PAR:	ven .
+*PAR:	ven mira aquí los platitos .
+*PAR:	mira aquí los platitos .
+*PAR:	los platitos .
+*PAR:	ahí no va aquí mira .
+*PAR:	quieres lechita ?
+*PAR:	no quieres ?
+*CHI:	no &=negando . [+ AG]
+%flo:	no
+%act:	CHI coge la taza pero mueve la cabeza
+%spa:	$AG
+%gpx:	c/negando
+%cod:	respuesta
+*PAR:	dame el platito pónselo .
+*PAR:	así como éste mira el platito y la tacita .
+*PAR:	ay@o dos ira otro platito uno y dos .
+*PAR:	acá mira y tres acá ya viste tres platitos .
+*PAR:	mira las tacitas .
+*PAR:	una tacita dame la tacita .
+*PAR:	la tacita dame tacita .
+*PAR:	una uva ?
+%act:	CHI le da racimo de uvas a PAR
+*PAR:	quieres una uva ?
+*PAR:	mira mmh@o .
+*CHI:	&=negando .
+%act:	CHI observa a PAR cuando hace que se come el racimo de uvas
+%gpx:	c/negando
+%cod:	espontáneo
+*PAR:	está rica aquí la ponemos en el platito .
+*PAR:	aquí en el platito y aquí en este platito le ponemos ciruela .
+*PAR:	la jarrita así ponemos todo tu juego de té .
+*PAR:	pónlos aquí hija Zuley ?
+*PAR:	mira Zuleyma pónlos aquí mi amor .
+*CHI:	no . [+ S]
+%flo:	no
+%act:	CHI avienta un plato y se lleva a la boca una ciruela
+%spa:	$SP
+*PAR:	aquí en la mesa .
+*PAR:	ay@o qué rico .
+*PAR:	dame [/] dame .
+*PAR:	no me das ?
+*CHI:	no &=negando . [+ AG]
+%flo:	no
+%act:	CHI niega con la cabeza mirando a PAR mientra coge una pera
+%spa:	$AN
+%gpx:	c/negando
+%cod:	respuesta
+%com:	Gr+W
+*PAR:	dame pera sí [/] sí ?
+*CHI:	&=negando .
+%act:	CHI se lleva la pera a la boca y niega con la cabeza
+%gpx:	c/negando
+%cod:	respuesta
+*PAR:	no me das pera ?
+%act:	CHI estira la mano hacia la boca de INV con la pera en la mano
+*INV:	umh@o qué rico .
+*PAR:	pónla aquí en el platito .
+*PAR:	dame mi amor .
+*PAR:	pon aquí la ciruela Zuly .
+*CHI:	xxx . [+ U]
+%flo:	avo
+%act:	CHI voltea hacia la cámara
+%spa:	$UN
+*PAR:	ven dame [/] dame ciruela .
+*PAR:	ay@o qué te pasó en tus ojos eh@o ?
+*PAR:	qué estás viendo eh@o ?
+*PAR:	mira pon aquí los platitos .
+*PAR:	mira que voy a sacar eh@o ?
+*PAR:	mira que te va a enseñar mamá eh@o ?
+*PAR:	mira Zuleyma toma [/] toma .
+%act:	PAR se coloca los guiñoles
+*PAR:	hola nena ven [/] ven .
+*PAR:	el oso .
+*PAR:	ay@o que bonito camina la nena .
+*PAR:	dale un besito [/] dale un besito .
+*PAR:	baila con el oso .
+%act:	INV hace que baila el guiñol y se lo acerca a CHI
+*PAR:	ándale baila .
+*CHI:	no &=negando . [+ SG]
+%flo:	no
+%act:	CHI se aleja de los guiñoles
+%spa:	$SG
+%gpx:	c/negando
+%cod:	espontáneo
+%com:	Gr+W
+*PAR:	no quieres bailar y con el cochinito ?
+*CHI:	sí . [+ A]
+%flo:	tí
+%act:	CHI voltea a_ver el guiñol
+%spa:	$AN
+*PAR:	sí ?
+*PAR:	laralara@o .
+*PAR:	uy@o te como .
+*PAR:	uy@o te como la mano .
+*CHI:	&=negando .
+%act:	PAR le muerde a CHI la mano con el guiñol
+%gpx:	c/negando
+%cod:	espontáneo
+*PAR:	mira te come el oso ?
+*CHI:	&=negando .
+%act:	PAR le muerde a CHI la mano con el guiñol
+%gpx:	c/negando
+%cod:	espontáneo
+*PAR:	no [/] no ?
+@End

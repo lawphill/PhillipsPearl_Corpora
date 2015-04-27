@@ -1,0 +1,102 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Yolanda Target_Child, PAR Yolanda Mother, INV Patty
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	13-SEP-1994
+@Transcriber:	BSM
+@Date:	10-AUG-1995
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI golpeando unos bloques
+%spa:	$SP
+*INV:	mira .
+*INV:	qué hacemos eh ?
+*INV:	mira la mona te gusta ?
+*INV:	ven ven ven no te espantes aquí está mamá y mamá no se va .
+*INV:	mira .
+*CHI:	mira . [+ I]
+%flo:	ila
+%spa:	$IM
+*INV:	mira .
+*INV:	pónlo .
+%act:	INV manipulando unos ensambles
+*INV:	mira mira Yolis .
+*CHI:	mira . [+ S]
+%flo:	ila
+%act:	CHI voltea hacia donde está un payaso
+%spa:	$SP
+*INV:	mira mira el payasito .
+*INV:	mira la vaquita .
+%act:	PAR estornuda
+*INV:	te gusta ?
+*INV:	mira .
+*INV:	mira .
+*INV:	dónde están ?
+%act:	INV y CHI juegan con la pelota
+*INV:	ahí te va .
+*CHI:	mira &=mostrar . [+ SG]
+%act:	CHI coge la pelota y levanta la mano para mostrársela a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*CHI:	mira . [+ S]
+%flo:	ia
+%spa:	$SP
+*INV:	mira .
+*INV:	uy@o uy@o uy@o .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups, pop-up
+*PAR:	osito .
+*PAR:	mira la florecita .
+*CHI:	mira . [+ S]
+%flo:	ila
+%act:	CHI se alando hacia la pared
+%spa:	$SP
+*PAR:	mira la vaquita .
+*PAR:	mira una vaquita .
+*PAR:	mira .
+*PAR:	mira una vaquita .
+*CHI:	mira . [+ S]
+%flo:	ila
+%act:	CHI se alando hacia la pared
+%spa:	$SP
+*PAR:	mira cuacuacua@o .
+*PAR:	mira un pajarito .
+*PAR:	mira [/] mira .
+%act:	INV muestra otro cuento
+*PAR:	sí mira qué es ?
+*PAR:	qué es ?
+*PAR:	el bebé mira .
+*PAR:	quién es Yolis [/] Yolis ?
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI juega con una tacita y la lleva detrás de ella
+%spa:	$SP
+*PAR:	mira .
+*PAR:	préstamelo préstame uno a mí chiquita .
+*PAR:	Yolis [/] Yolis ?
+*PAR:	préstamelo .
+%act:	CHI juega con unas tapas
+*CHI:	ih@p &=mostrar .
+%act:	CHI muestra a INV las tapas
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+P
+*PAR:	dámelo dámelo .
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	PAR le muestra los guiñoles a CHI
+%spa:	$SP
+*PAR:	mira guaú@o .
+*PAR:	mira Yolis mira .
+@End

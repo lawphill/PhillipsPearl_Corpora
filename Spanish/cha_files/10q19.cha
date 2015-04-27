@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Miguel Target_Child, PAR Soledad Mother, INV Betty
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	06-JAN-1993
+@Transcriber:	BSM
+@Date:	24-NOV-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	Miguelito ya viste todo lo que tenemos aquí ?
+*INV:	mira .
+*INV:	mira .
+%act:	INV acerca el camión
+*CHI:	mmh@p [= señalar] .
+%act:	CHI señala con su dedo un ensamble
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+P
+*INV:	pum@o se cayó .
+%act:	CHI tira una torre que había hecho INV y se rie
+*INV:	ay este carrito se va se va a pasear .
+*INV:	oye Miguelito te enseño otros juguetes ?
+*INV:	sí ?
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*PAR:	mira Miguelin .
+%act:	PAR le enseña a CHI el ábaco
+*PAR:	mira .
+*PAR:	pupupu@o .
+%act:	PAR juega con un trenecito
+*PAR:	uu@o .
+%act:	PAR arma una torre
+*PAR:	ay se cayó se cayó se cayó .
+*PAR:	no te lo comas chiquito .
+@End

@@ -1,0 +1,108 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI José Target_Child, PAR Oliva Mother, INV Patty
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	24-JAN-1995
+@Transcriber:	BSM
+@Date:	19-FEB-1996
+@New Episode
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	truck
+*INV:	mira vamos a_ver con qué jugamos .
+*INV:	a_ver éste .
+%act:	INV y CHI juegan a aventarse la pelota durante rapport
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	el papá la mamá este también mira .
+*INV:	ya se van a pasear adios .
+*INV:	runn@o .
+%act:	INV rueda el camión y después lo imita CHI
+*INV:	eso es !
+*CHI:	e@g &=dar .
+%act:	CHI extiende la mano para darle a INV un mu eco
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	eh la nena se cayó ?
+*CHI:	e@g &=dar .
+%act:	CHI extiende la mano para darle a INV un muñeco
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	también el bebé .
+*CHI:	&=mostrar .
+%act:	CHI muestra a INV un muñeco que tiene en la mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	eh la nena .
+*INV:	mira se cayó la nena .
+*INV:	ay se cayó .
+*INV:	ésta .
+*INV:	ay .
+*CHI:	a@g &=mostrar .
+%act:	CHI muestra a INV un muñeco que tiene en la mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	la nena .
+*INV:	llévalos a pasear .
+*INV:	el papá .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	te voy a ense ar otra cosita mira .
+*INV:	este no te gusta mira .
+*INV:	tiene dibujitos mira .
+*INV:	mira un conejito .
+%act:	INV retira el pop-up dejándole al ni o el slide and peak
+*INV:	ay sí si lo quieres ?
+*INV:	así .
+*INV:	te gusta ?
+*INV:	sí el perrito quieres que salga ?
+*INV:	a_ver mira ya salió éste .
+*INV:	te gusta si ?
+*INV:	sí .
+*CHI:	xxx . [+ U]
+%flo:	yeya
+%spa:	$UN
+*INV:	sí .
+*INV:	quieres que se metan ?
+*INV:	están en la resbaladilla .
+*INV:	ya viste ?
+*CHI:	&=afirmando .
+%act:	CHI afirma con la cabeza
+%gpx:	c/afirmando
+%cod:	respuesta
+*INV:	a_ver qué están haciendo ?
+*INV:	sí .
+*INV:	mira están bailando .
+*INV:	mira .
+*CHI:	xxx . [+ U]
+%flo:	ca
+%act:	CHI lleva el libro hacia la caja de los juguetes
+%spa:	$UN
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	a la boca no .
+*PAR:	mira ten .
+%act:	PAR le da a CHI un bloque de madera
+*CHI:	a@g &=negar .
+%act:	CHI niega con la cabeza
+%gpx:	c/negando
+%cod:	espontáneo
+%com:	Gr+V
+*PAR:	no entonces ?
+*PAR:	mira aquí están estos juega con éstos .
+*PAR:	mira las papas .
+*PAR:	las papas .
+%act:	PAR le ense a a CHI varios objetos
+@End

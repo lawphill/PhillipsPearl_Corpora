@@ -1,0 +1,179 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Arturo Target_Child, PAR Estela Mother, INV Patty
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	05-APR-1995
+@Transcriber:	PB
+@Date:	09-MAY-1996
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	jugamos con la pelota .
+*INV:	échamela .
+%act:	CHI juega con la pelota y se la avienta a INV
+*INV:	cáchala ay@o se fué .
+%act:	CHI juega largo rato con la pelota sin hacer gestos ni emisiones
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	vamos a poner aquí los jarritos sale ?
+*INV:	mira .
+*INV:	para tomar agua .
+*INV:	a_ver toma agua .
+*CHI:	&=mostrar .
+%act:	CHI coge un jarrito y se lo muestra a PAR
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	mmh@o rica a_ver tú ?
+*INV:	a_ver tómale tu agüita .
+*PAR:	yo así mira así .
+%act:	PAR hace como que toma agua
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	este runrun@o a_ver también dale .
+*PAR:	ya te lo vas a llevar ?
+*PAR:	arriba .
+*CHI:	run@o run@o . [+ S]
+%flo:	run run
+%act:	CHI empuja el carrito sobre la canasta
+%spa:	$SP
+*PAR:	run@o .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira yo te lo enseño .
+*CHI:	sí . [+ S]
+%flo:	sí
+%act:	INV coge los cuentos y se los muestra a CHI
+%spa:	$SP
+*INV:	mira ya viste ?
+*CHI:	cua@o ? [+ S]
+%flo:	cua
+%act:	CHI mira en el cuento un pato
+%spa:	$SP
+*INV:	si un patito .
+*INV:	si mira aquí se puede abrir .
+*INV:	mira que tenemos aquí .
+*INV:	de aquí mira se puede abrir .
+*INV:	mira que tenemos aquí ?
+*INV:	ay@o un osito .
+*INV:	ahora por acá mira .
+*INV:	ahora por aquí .
+*INV:	ay@o mira la florecita ya viste ?
+*CHI:	sí . [+ A]
+%flo:	sí
+%act:	INV le enseña el cuento a INV
+%spa:	$AN
+*INV:	sí cuál es la flor ?
+*INV:	a_ver acá mira a_ver quién va a salir por aquí ?
+*INV:	mira la vaquita ya la viste ?
+*CHI:	sí &=afirmando . [+ AG]
+%flo:	chi
+%act:	CHI mira a INV y al cuento
+%spa:	$AN
+%gpx:	c/afirmando
+%cod:	respuesta
+%com:	Gr+W
+*INV:	sí dónde está ?
+*INV:	mira ay@o que bonitos .
+*CHI:	xxx . [+ U]
+%flo:	uh uh
+%act:	CHI intenta abrir el cuento
+%spa:	$UN
+*INV:	te gusta ?
+*INV:	quieres abrirlo ?
+*INV:	así .
+*INV:	mira .
+*INV:	él .
+*INV:	espérate .
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI abre el cuento de Enrique y Beto
+%spa:	$SP
+*INV:	sí qué hay ?
+*INV:	a_ver platícamelos .
+*INV:	mira están en la resbaladilla .
+*INV:	mira el triciclo .
+*CHI:	mira . [+ S]
+%flo:	mia
+%act:	CHI ve el cuento de Enrique y Beto
+%spa:	$SP
+*INV:	sí el triciclo .
+*INV:	por acá mira por acá es .
+*INV:	a_ver éste qué tendrá por aquí .
+*INV:	éste no lo abriste .
+%act:	INV ve otro cuento y se lo muestra a CHI
+*CHI:	&=dar .
+%act:	CHI le da un cuento a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	enséñaselo a mamá .
+*PAR:	mira [/] mira .
+*INV:	mira éste .
+*INV:	oye Arturo ?
+*INV:	mira la niña está triste .
+*PAR:	mira .
+*INV:	su ratón .
+*INV:	no verdad te gusta más ése ?
+*CHI:	Enrique [= señalar] ? [+ SG]
+%flo:	equique
+%act:	CHI ve el cuento de Enrique y Beto
+%spa:	$SG
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	sí .
+*INV:	qué hay qué están haciendo ?
+*INV:	aquí un payasito mira ya lo viste ?
+%act:	INV le da el slide a CHI
+*CHI:	&=dar .
+%act:	CHI le da slide and peak a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	bueno entonces ahora vamos a sacar éste [/] éste te va a gustar
+	mucho .
+%act:	INV saca el pop up y CHI solo lo manipula
+*INV:	tan@o tan@o quiero que salgas .
+*CHI:	mira . [+ S]
+%flo:	ira
+%act:	CHI ve como INV mueve el pop-up
+%spa:	$SP
+*INV:	sí de aquí mira por tu manita aquí .
+*PAR:	pon tu mano .
+*INV:	así .
+*INV:	quién faltaba ?
+*CHI:	xxx . [+ U]
+%flo:	uite
+%act:	CHI juega con el pop-up
+%spa:	$UN
+*INV:	sí quieres que salgan ?
+*INV:	a_ver así mira la manita aquí ésta aquí .
+*INV:	que bonitos .
+*INV:	ciérrales .
+*INV:	te gusta ?
+*INV:	qué te gusta más ?
+%act:	CHI coge un cuento
+*INV:	el libro ?
+*CHI:	xxx ? [+ U]
+%flo:	egugua
+%act:	INV cuando termina de guardar los juguetes en la casa
+%spa:	$UN
+*INV:	ya terminamos de jugar .
+*CHI:	ya [= señalar] ? [+ SG]
+%flo:	ya
+%act:	CHI extiende su mano hacia arriba
+%spa:	$SP
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	si ya terminamos .
+@End

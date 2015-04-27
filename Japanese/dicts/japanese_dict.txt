@@ -1,0 +1,2962 @@
+Akichan,a1/ki0/can1
+Baachan,bA1/can1
+Baritanku,ba1/ri0/tan1/ku0
+Butasan,bu1/ta0/san1
+Chaachaan,cA1/cAn1
+Chaachan,cA1/can1
+Daichaan,dai1/can1
+Daikun,dai1/kun1
+Daikuun,dai1/kun1
+Erikachan,e1/ri0/ka0/can1
+Erikazoosan,e1/ri0/ka0 zO1/san1
+Erkachan,e1/ri0/ka0/can1
+Fado,ha0/do1
+Hattori,hat1/to0/ri0
+Iku,I1/ku0
+Iyadamonkun,i0/ya1 da1/mon0/kun1
+Jejamarukun,Ge1/Ga0 ma1/ru0/kun1
+Jiichan,GI1/can1
+Jun,Gun1
+Junkun,Gun1/kun1
+Junkuun,Gun1/kun1
+Kaachan,kA1/can1
+Kakka,kak1/ka0
+Kakkatte,kak0/kat1/te0
+Keechan,kE1/can1
+Keegokun,kE1/go0/kun1
+Kenchan,ken1/can1
+Koro,ko1/ro0
+Kumasan,ku1/ma0/san1
+Kuraun,ku0/ra1/un0
+Kuupaa,kU1/pA0
+Kuupaa_ÅıÅg,kU1/pA0
+Kyooko,kyO1/ko0
+Mama,ma1/ma0
+Mido,mi1/do0
+Mike,mi1/ke0
+Minnii,min1/nI0
+Minniichan,min1/nI0/can1
+Mitake,mi0/ta1/ke0
+N,n1
+Nchan,ni1/can1
+Neechan,nE1/can1
+Niichan,nI1/can1
+Ninomiyasensee,ni1/no0/mi1/ya0/sen1/sE0
+Nontan,non1/tan0
+Obaachan,o0/bA1/can1
+Obaasan,o0/bA1/san1
+Ojiichan,o0/GI1/can1
+Okaa,o0/kA1
+Okaasaan,o0/kA1/sAn1
+Okaasan,o0/kA1/san1
+Oneechan,o0/nE1/can1
+Oniichaan,o0/nI1/cAn1
+Oniichan,o0/nI1/can1
+Otoosan,o0/tO1/san1
+Otooshan,o0/tO1/san1
+Papa,pa1/pa0
+Papa_ÅıÅg,pa1/pa0
+Piichan,pI1/can1
+Pororikun,po1/ro0/ri1/kun1
+Raichoogoo,rai1/cO0/gO1
+Reshi,re1/Si0
+Ryookun,ryO1/kun1
+Saechan,sa1/e0/can1
+Sanzoohooshi,san1/zO0/hO1/Si0
+Sensee,sen1/sE0
+Shinchan,Sin1/can1
+Shirokun,Si1/ro0/kun1
+Shoochan,So1/can1
+Sorao,so1/ra0 o1
+Suu,sU1
+Suuchan,sU1/can1
+Taishoo,tai1/SO0
+Taishoochin,tai1/SO0/cin1
+Taishookun,tai1/So0/kun1
+Taishooojiisan,tai1/SO0/GI1/san1
+Toosaan,tO1/sAn1
+Toosan,tO1/san1
+Totto,tot1/to0
+Yatchaan,yat1/cAn1
+Ysatchan,yat1/can1
+a,a1
+aJunkun,Gun1/kun1
+aTaishoo,tai1/SO0
+a__i,
+aa,A1
+aaa,A1/a0
+aabuu,A0/bU1
+aachan,A1/can1
+aae,A1/e0
+aagomen,go0/men1
+aai,A1/i0
+aaii,A1//I0
+aamamama,ma1/ma1/ma1
+aamotte,mot1/te0
+aan,An1
+aapaa,A1/pA0
+aaqa,A1/a0
+aare,A1/re0
+aarigatoo,a0/ri1/ga0/tO1
+aata,A1/ta0
+aato,A1/to0
+aatoo,A1/tO0
+aauu,A0/U1
+aaya,A1/ya0
+aayuute,A1 yU1/te0
+abababababa,a0/ba1/ba0/ba0 ba0/ba1
+abikkuri,bik1/ku0/ri1
+abo,a1/bo0
+abu,a1/bu0
+abunai,a1/bu0/nai1
+abuu,a0/bU1
+achiachi,a1/ci0 a1/ci0
+achichi,a1/ci0/ci0
+achichichi,a1/ci0/ci0/ci0
+achichii,a1/ci0/cI0
+achii,a1/cI0
+achira,a1/ci0/ra0
+adekita,de1/ki0/ta0
+adtasakai,
+ae,a1/e0
+aee,a1/E0
+aeoe,a1/e0 o1/e0
+agehan,a1/ge0/han1
+agei,a0/gE1
+agemashoo,a1/ge0/ma0/SO1
+agemasu,a1/ge0/ma1/sW0
+agemasukara,a1/ge0/m1a/sW0 ka0/ra1
+agena,a1/ge0/na1
+agenai,a1/ge0/nai1
+agenakucha,a1/ge0/na1/ku0/ca0
+agenakya,a0/ge1/na0/kya1
+agereba,a0/ge1/re0/ba1
+ageru,a1/ge0/ru0
+ageta,a1/ge0/ta0
+agete,a1/ge0/te0
+ageya,a0/ge0/ya1
+ageyo,a0/ge0/yo1
+ageyoo,a0/ge0/yO1
+aha,a0/ha1
+ahaha,a0/ha1/ha0
+ahaitta,hait1/ta0
+ahaq,a0/ha1
+ahehe,he0/he1
+aherikoputaa,he1/ri0/ko0/pu0/tA0
+ahora,ho1/ra0
+ai,ai1
+aida,ai1/da0
+aippai,ip1/pai0
+aita,ai1/ta0
+aitaa,ai1/tA0
+aitaaa,a1 i0/tA1/a0
+aitaai,ai0/tAi1
+aitaata,a1 i0/tA1/ta0
+aitata,a1 i0/ta1/ta0
+aitataa,a1 i0/ta1/tA0
+aitataas,a1 i0/ta1/tA
+aitatata,a1 i0/ta1/ta0/ta1
+aitatataa,a1 i0/ta1/ta0/tA1
+aitatatata,a1 i0/ta1/ta0/ta1/ta0
+aitatatataa,a1 i0/ta1/ta0/ta1/tA0
+aitatatatata,a1 i0/ta1/ta0/ta1/ta0/ta1
+aitatatattaa,a1 i0/ta1/ta0/tat1/tA0
+aite,ai1/te0
+aiueo,a1 i1 u1 e1 o1
+aiya,ai1/ya0
+aji,a1/Gi0
+ajoozu,GO1/zu0
+aka,a1/ka0
+akachan,a1/ka0/can1
+akai,a0/kai1
+akaino,a0/kai1 no1
+akairo,a0/ka1 i0/ro1
+akakatta,a0/ka0/kat1/ta0
+akakunai,a0/ka1/ku0/nai1
+akan,a0/kan1
+akanai,a1/ka0/nai1
+akashingoo,a1/ka0/Sin1/gO0
+ake,a1/ke0
+akecha,a1/ke0/ca1
+aken,a0/ken1
+akeru,a1/ke0/ru0
+aketageyo,a1/ke0/ta1/ge0/yo1/
+aketari,a1/ke0/ta0/ri1
+akete,a1/ke0/te0
+aketechoodai,a1/ke0/te0 cO1/dai0
+akeyoo,a1/ke0/yO1
+akichatta,ki0/cat1/ta0
+akita,ki0/ta1
+akowarechatta,ko0/wa1/re0/cat1/ta0
+akubi,ku1/bi0
+amai,a0/mai1
+amaiamai,a0/mai1 a0/mai1
+amam,
+amamamamamama,
+amamamamamamama,
+amata,ma1/ta0
+ame,a1/me0
+amechan,a1/me0/can1
+amekonko,a1/me0 kon1/ko0
+amesan,a1/me0/san1
+amieteru,mi1/e0/te0/ru0
+amma,am1/ma0
+ammammammammamma,
+ampamman,am1/pam0/man1
+ampammangoo,am1/pan0 man1/go0
+amuamuamauamm,a1/mu0 a1/mu0 a0/ma1/u0 am1
+amuamuamu,a1/mu0 a1/mu0 a1/mu0
+amuamuamuamu,a1/mu0 a1/mu0 a1/mu0 a1/mu0
+amuamuamuamuamu,a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0
+amuamuamuamuamuamu,a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0
+amuamuamuamuamuamuamu,a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0
+amuamuamuamuamuamuamuamuamuamuamuamu,a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0 a1/mu0
+amuamuatte,a0/mu1/a0/mu1/at0 te1
+amuq,a1/mu0
+an,an1
+anan,nan1
+anenne,nen1/ne0
+anna,an1/na0
+annya,an1/nya0
+ano,a1/no0
+anone,a1/no0 ne1
+anoo,a0/nO1
+anoohana,a1/nO0 ha1/na0
+anta,an1/ta0
+anyo,an1/yo0
+ao,a1/o0
+aoi,a1/o0/i0
+aoishii,o0/i0/shI1
+aoishikatta,o0/i0/Si0/kat1/ta0
+aoishisoo,o0/i0/Si0/sO1
+aokita,o1/ki0/ta0
+aoyasuminasai,o0/ya0/su1/mi0/na0/sai1
+appui,ap1/pu0/i0
+apuun,a0/pUn1
+aq,a1
+ara,a1/ra0
+ararararara,a0/ra1/ra0/ra0/ra0/ra0
+ararararararara,a0/ra1/ra0/ra0/ra0/ra0/ra0/ra0
+aratte,a0/rat1/te0
+are,a1/re0
+aree,a0/rE1
+areq,a1/re0
+arere,a1/re0/re0
+ari,a1/ri0
+arigato,a0/ri1/ga0/to0
+arigatoo,a0/ri1/ga0/tO0
+arimasen,a1/ri0/ma1/sen0
+arimashita,a1/ri0/ma1/Si0/ta0
+arimasu,a1/ri0/ma1/sW0
+ariq,a1/ri0
+arisan,a1/ri0/san1
+aru,a1/ru0
+aruaru,a1/ru0 a1/ru0
+arukikata,a0/ru1/ki0/ka1/ta0
+aruku,a0/ru1/ku0
+ashi,a0/Si1
+ashita,a1/Si0/ta0
+ashobimashoo,a0/so1/bi0/ma0/SO1
+ashonde,a0/son1/de0
+asko,a0/so1/ko0
+aso,a0/so1
+asobimasho,a0/so1/bi0/ma0/So1
+asobimashoo,a0/so1/bi0/ma0/SO1
+asobinasai,a0/so1/bi0/na0/sai1
+asobitai,a0/so1/bi0/tai1
+asobo,a0/so0/bo1
+asoboo,a0/so0/bO1
+asoboru,a0/so1/bo0/ru0
+asoko,a0/so1/ko0
+asokodeshoo,a0/so1/ko0 de0/SO1
+asonda,a0/son1/da0
+asonde,a0/son1/de0
+asondeimasu,a0/son1/de0 i0/ma1/sW0
+asoo,sO1
+asugoi,su0/goi1
+at^ta,at1/ta0
+ataa,a0/tA1
+atama,a1/ta0/ma0
+atarashii,a0/ta1/ra0/SI1
+atata,a1/ta0/ta0
+atchatta,at1/cat0/ta0
+atchi,a1/tci0
+atchiatchi,at1/ci0 at1/ci0
+atchichi,at1/ci0/ci0
+atchichii,at1/ci0/cI0
+atchie,a1/tci0 e1
+atchii,a1/tcI0
+atchitchi,at1/cit0/ci0
+atete,a1/te0/te0
+ato,a1/to0
+atoo,a1/tO0
+atore,to0/re1
+atsuatsu,at1/sW0/at1/sW0
+atsui,at0/su1/i0
+atsumatte,at1/su0/mat1/te0
+atta,at1/ta0
+atta_ÅıÅg,at1/ta0
+attaa,at1/tA0
+attaatta,at1/ta0 at1/ta0
+attattaa,at0/tat1/tA0
+augoita,u0/go1/i0/ta0
+auuu,a0/U1/u0
+awanwan,wan1/wan1
+awasete,a0/wa1/se0/te0
+awawawawawan,a0/wa1/wa0/wa0/wa0/wan1
+aya,a0/ya1
+ayaaa,a0/yA1/a
+ayayayaan,a0/ya1/ya0/ya0/yAn1
+ayokatta,yo0/kat1/ta0
+ayoshi,yo1/Si0
+aza,a1/za0
+b,
+ba,ba1
+baa,bA1
+baachaan,bA1/cAn1
+baachan,bA1/can1
+baan,bAn1
+baba,ba1/ba0
+babu,ba0/bu1
+babuu,ba0/bU1
+bai,bai1
+baibaai,bai1/bAi0
+baibai,bai1/bai0
+baiorin,bai0/o0/rin1
+bakkari,bak1/ka0/ri0
+bakku,bak1/ku0
+bakkun,bak0/kun1
+bambambamban,bam1/bam1 bam1/ban1
+bambambooru,bam1/ban0 bO1/ru0
+bambi,bam1/bi0
+ban,ban1
+banana,ba1/na0/na0
+banjaai,ban1/GAi0
+banzaai,ban1/zAi0
+banzai,ban1/zai0
+bara,ba1/ra0
+barabara,ba1/ra0/ba1/ra0
+bareebooru,ba0/rE1/bO1/ru0
+baritanku,ba1/ri0/tan1/ku0
+basho,ba0/So1
+bashu,ba1/Su0
+bashuu,ba1/SU0
+basu,ba1/su0
+bata,ba1/ta0
+bataan,ba0/tAn1
+batabatamo,ba1/ta0/ba1/ta0 mo1
+batan,ba0/tan1
+batchii,bat1/cI0
+batta,bat0/ta1
+battan,bat0/tan1
+be,be1
+benkyoo,ben1/kyO0
+bero,be1/ro0
+bideo,bi1/de0/o0
+bii,bI1
+biibibibibi,bI1/bi0 bi1/bi0/bi1
+biibiibii,bI1/bI1/bI1
+bikkuri,bik1/ku0/ri0
+bin,bin1
+biribiri,bi1/ri0/bi1/ri0
+biwa,bi1/wa0
+bo,bo1
+boi,boi1
+bok,bo1/ku0
+boku,bo1/ku0
+bon,bon1
+bonbonbonbonbonbon,bon1/bon1 bon1/bon1 bon1/bon1
+booru,bO1/ru0
+booshi,bO1/Si0
+boppo,bop1/po0
+bu,bu1
+bu^doo,bu0/dO1
+bua,bu0/a1
+bubbu,bub1/bu0
+bubbuu,bUb1/bU0
+bubu,bu1/bu0
+bubububu,bu1/bu0 bu1/bu0
+bububuu,bu1/bu0 bU1
+bubuu,bu0/bU1
+bubuubuu,bu0/bU1 bU1
+budoo,bu0/dO1
+bui,bu0/i1
+bukubukubuku,bu1/ku0 bu1/ku0/bu1/ku0
+bukubukubukubukubaa,bu1/ku0/bu1/ku0 bu1/ku0/bu1/ku0 bA1
+bukubukupaa,bu1/ku0/bu1/ku0 pA1
+bumbu,bum0/bu1
+bumbuun,bum0/bUn1
+buraaburaaburaa,bu0/rA1/bu0/rA1 bu0/rA1
+buramburan,bu0/ram1/bu0/ran1
+buri,bu1/ri0
+burokku,bu0/rok1/ku0
+burubu,bu1/ru0/bu0
+buruburuburubu,bu1/ru0/bu1/ru0 bu1/ru0/bu1
+burudoozaa,bu1/ru0/dO1/zA0
+buta,bu1/ta0
+butasan,bu1/ta0/san1
+butsukatchatta,but1/su0/kat0/cat1/ta0
+butsukatta,but1/su0/kat1/ta0
+butsukete,but1/su0/ke0/te0
+butta,but1/ta0
+buu,bU1
+buua,bU1/a0
+buuabuua,bU1/a0/bU1/a0
+buubu,bU1/bu0
+buubuu,bU1/bU1
+buubuubuu,bU1/bU1 bU1
+buubuubuubuu,bU1/bU1 bU1/bU1
+buucha,bU1/ca0
+buun,bUn1
+buupumo,bU1/pu0 mo1
+buuranko,bU0/ran1/ko0
+buuta,bU1/ta0
+buuwa,bU1/wa0
+buuyo,bU1/yo0
+buwaa,bu0/wA1
+buwabuwa,bu0/wa1 bu0/wa1
+byon,byon1
+byooki,byO1/ki0
+byuun,byUn1
+byuwaambyuwaan,byu0/wAm1 byu0/wAn1
+byuwaan,byu0/wAn1
+byuwaanbyuwaan,byu0/wAn1 byu0/wAn1
+chaacha,cA1/ca0
+chaachan,cA1/can1
+chacha,ca1/ca0
+chaichaai,cai0/cAi1
+chaichai,cai0/cai1
+chan,can1
+chanchan,can1/can0
+chanchanchanchan,can1/can0 can1/can0
+chanto,can1/to0
+chatchatchaq,cat1/cat0/ca0
+chau,cau1
+chauchauchau,cau1/cau0 cau1
+chauchauchauchauchauchau,
+chie,ci1/e0
+chigau,ci0/ga1/u0
+chigauchigauchigau,ci0/ga1/u0 ci0/ga1/u0 ci0/ga1/u0
+chii,cI1
+chiibappa,cI1 bap1/pa0
+chiibutachan,cI1 bu1/ta0/can1
+chiichai,cI0/cai1
+chiichiipappa,cI1/cI0 pap1/pa0
+chiin,cIn1
+chiipabba,cI1 pab1/ba0
+chiipappa,cI1 pap1/pa0
+chiisai,cI0/sai1
+chiisana,cI1/sa0 na1
+chiita,cI1/ta0
+chiizu,cI1/zu0
+chiizubaagaa,cI1/zu0/bA1/gA0
+chiizuhambaagu,cI1/zu0/ham0/bA1/gu0
+chiizupan,cI1/zu0/pan0
+chiizusan,cI1/zu0/san1
+chik,ci1/ku0
+chiku,ci1/ku0
+chikutakuchikutakuchiku,ci1/ku0/ta1/ku0 ci1/ku0/ta1/ku0 ci1/ku0
+chikutakuchikutakuchikutaku,ci1/ku0/ta1/ku0 ci1/ku0/ta1/ku0 ci1/ku0/ta1/ku0
+chin,cin1
+chinchimbuu,cin1/cin1 bU1
+chinchin,cin1/cin1
+chinchinchin,cin1/cin1 cin1
+chintan,cin1/tan0
+chiq,chi1
+chirin,ci0/rin1
+chirinchiriin,ci0/rin1/ci0/rIn1
+chirinchirin,ci0/rin1/ci0/rin1
+chitchai,cit1/cai0
+chitchi,cit1/ci0
+chodai,co1/dai0
+chokichoki,co0/ki1/co0/ki1
+chokkin,cok0/kin1
+chonchonchon,con1/con1 con1
+choodai,cO1/dai0
+choodo,cO1/do0
+chooshi,cO1/Si0
+chorochoro,co1/ro0/co1/ro0
+chotto,cot1/to0
+chu,cu1
+chuchuu,cu1/cU1
+chuitekka,cu0/i1/tek1/ka0
+chuiteru,cu0/i1/te1/ru0
+chunchun,cun1/cun1
+churuchuru,cu1/ru0/cu1/rut0
+chutchu,cut1/cu1
+chutchuchutchuu,cu1/cu1 cut1/cU1
+chutchuu,cut1/cU1
+chutteru,cut1/te0/ru0
+chuu,cU1
+chuubutachan,cU1 bu1/ta0/can1
+chuuchuu,cU1/cU1
+chuun,cUn1
+chuush,cU1/Si0
+da,da1
+da_ÅıÅg,da1
+daa,dA1
+daame,dA1/me0
+daan,dAn1
+daaq,dA1
+dadidii,da0/di0/dI1
+dae,da1/e0
+dagaan,da0/gAn1
+daiji,dai1/Gi0
+daijidaiji,dai1/Gi0 dai1/Gi0
+daijoobu,dai1/GO1/bu0
+daisuki,dai1/sW1/ki0
+dake,da1/ke0
+dakko,dak1/ko0
+dame,da1/me0
+damedame,da1/me0 da1/me0
+damee,da0/mE1
+dampukaa,dam1/pu0/kA0
+dandan,dan1/dan1
+dare,da1/re0
+dareka,da1/re0/ka0
+darme,da1/me0
+daro,da0/ro1
+daroo,da0/rO1
+dasanai,da1/sa0/nai1
+dashichaoo,da1/SY0/caO1
+dashichatte,da1/SY0/cat1/te0
+dashita,da1/SY0/ta0
+dashite,da1/SY0/te0
+dasoo,da0/sO1
+dasu,de1/sW0
+datchi,dat1/ci0
+datchidatchii,dat1/ci0 dat1/ci0
+datchii,dat1/cI0
+datta,dat1/ta0
+dattara,dat1/ta0/ra1
+datte,dat1/te0
+daye,da1 yo1
+dayo,da1 yo1
+de,de1
+dechatta,de0/cat1/ta0
+dee,dE1
+deen,dEn1
+dekinai,de1/ki0/nai1
+dekiru,de1/ki0/ru0
+dekiruka,de1/ki0/ru0 ka1
+dekita,de1/ki0/ta1
+dekitaa,de1/ki0/tA0
+dekitadekitaa,de1/ki0/ta0 de1/ki0/tA0
+dekkai,dek0/kai1
+demo,de1/mo0
+denai,de0/nai1
+denakya,de1/na0/kya1
+denchi,den1/ci0
+dendemmushi,den0/dem1/mu0/Si1
+densha,den1/Sa0
+denwa,den1/wa0
+derenaku,de1/re0/na1/ku0
+dereta,de1/re0/ta0
+deru,de1/ru0
+deshita,de1/Si0/ta0
+desho,de0/So1
+deshoo,de0/SO1
+deshoo_ÅıÅg,de0/SO1
+deshu,de1/Su0
+desu,de1/sW0
+det,de1/ta0
+deta,de1/ta0
+dete,de1/te0
+detekita,de1/te0 ki0/ta1
+detekitaa,de1/te0 ki0/tA1
+deten,de0/ten1
+dindon,din1/don1
+do,do1
+doa,do1/a0
+dohyaa,dO1 yA1
+doinannai,do1/i0/nan0/nai1
+doite,do1/i0/te0
+dok,do1/ku0
+dokan,do0/kan1
+dokka,dok1/ka0
+dokkaan,dok0/kAn1
+dokkoi,dok1/ko0/i1
+dokkoisho,dok1/ko0/i0/So1
+dokkoishoo,dok1/ko0/i0/SO1
+doko,do1/ko0
+dokoe,do1/ko0 e1
+doku,do0/ku1
+dokundokundokundokun,do0/kun1 do0/kun1 do0/kun1 do0/kun1
+don,don1
+dondokodondondon,don1 do1/ko0 don1 don1 don1
+dondondondondondondon,don1/don1 don1/don1 don1/don1 don1
+donna,don1/na0
+dono,do1/no0
+doo,dO1
+doobu,dO1/bu0
+doobutsuen,dO1/but0/su0/en1
+doojo,dO1/Go0
+doomarigatoo,dO1/mo0 a0/ri1/ga0/tO0
+doomo,dO1/mo0
+doomonai,dO1/mo0 nai1
+doon,dOn1
+dooshite,dO1/SY0/te0
+dooyuu,dO1/yU0
+doozo,dO1/zo0
+dore,do1/re0
+doree,do0/rE1
+dot,do1/ta0
+dota,do1/ta0
+dotchi,dot1/ci0
+doya,do1/ya0
+dukundukun,du0/kun1 du0/kun1
+e,e1
+eaa,e0/A1
+ebibaagaa,e1/bi0/bA1/gA0
+ebifurai,e1/bi0/fu0/rai1
+ebipan,e1/bi0/pan1
+ee,E1
+eee,E1
+eeee,E1
+eeeeshitemorainasai,shY1/te0 mo0/rai1/na0/sai1
+eei,Ei1
+eeiei,Ei1 ei1
+een,En
+eeneen,En1/En0
+eetoo,E1/tO0
+efu,e0/hu1
+ehe,e0/he1
+ehen,e0/hen1
+ei,ei1
+empitsu,em0/pit1/su0
+emudii,e0/mu0/dI1
+eq,e1
+erai,e0/rai1
+fooku,hO1/ku0
+fu,hu1
+fueta,hu1/e0/ta0
+fufu,hu1/hu1
+fuite,hu1/i0/te1
+fuitoko,hu0/i1/to1/ko0
+fukanakya,hu0/ka1/na0/kya1
+fukasete,hu0/ka1/se0/te1
+fukenai,hu1/ke0/nai1
+fuketa,hu1/ke0/ta0
+fuko,hu1/ko0
+fukuro,hu1/ku0/ro1
+funfunfunfunfun,hun1/hun1 hun1/hun1 hun1
+funifuni,hu0/ni1/hu0/ni1
+funjaisoo,hun1/jai0/sO1
+funyafunyafunya,hun1/ya0/hun1/ya0 hun1/ya0
+furaidochikin,hu0/rai1/do0/ci1/kin0
+fure,hu0/re1
+furo,hu0/ro1
+furu,hu0/ru1
+futa,hu0/ta1
+futaN,hu1/tan0
+futaachu,hu0/tA1/cu0
+futaatsu,hu0/tA1/TW0
+futari,hu0/ta1/ri0
+futatsu,hu0/tat1/sW0
+futon,hu0/ton1
+futott,hu0/tot1/sW0
+futsuu,hut0/sU1
+futte,hut1/te0
+futtekitan,hut1/te0 ki0/tan1
+futteru,hut1/te0/ru0
+fuu,hU1
+fuufuu,hU1/hU1
+fuun,hUn1
+fuusen,hU0/sen1
+fuutoto,hU1/to0/to0
+ga,ga1
+gaa,gA1
+gaaga,gA1/ga0
+gaaga_ÅıÅg,gA1/ga0
+gaagaa,gA1/gA0
+gaagasan,gA1/ga0/san1
+gaan,gAn1
+gaazede,gA1/ze0/de0
+gachan,ga1/can1
+gambare,gam0/ba0/re1
+gambatte,gam0/bat1/te0
+gan,gan1
+gao,ga1/o0
+gara,ga1/ra0
+garagara,ga1/ra0/ga1/ra0
+garigarigari,ga1/ri0/ga1/ri0 ga1/ri0
+gasu,ga1/su0
+gatan,ga0/tan1
+gatangoton,ga0/tan1 go0/ton1
+gatatan,ga1/ta0/tan1
+gawa,ga1/wa0
+genkide,gen1/ki0 de1
+giikon,gI0/kon1
+giitan,gI0/tan1
+gikkon,gik0/kon1
+gikombatan,gi0/kom1 ba0/tan1
+gikon,gi0/kon1
+go,go1
+gochisoosama,go1/ci0/sO1/sa1/ma0
+gochisoosan,go1/ci0/sO1/san1
+gohan,go0/han1
+gohon,go0/hon1
+gojogojo,go1/Go0/go1/Go0
+gojuuen,go0/GU1 en1
+gokkoosan,gok1/kO0/san1
+goko,go1/ko0
+gomakashite,go1/ma0/ka1/SY0/te0
+gomen,go0/men1
+gomenasai,go0/me1/na0/sai1
+gomennasai,go0/men1/na0/sai1
+gomibako,go0/mi1/ba0/ko1
+gomu,go1/mu0
+goo,gO1
+googoo,gO1/gO0
+gooo,gO1
+goran,go0/ran1
+gorogoro,go1/ro0/go1/ro0
+goroku,go1 ro1/ku0
+gotchun,got0/cun1
+gottsun,got0/tsun1
+gozai,go0/zai1
+guchagucha,gu1/ca0/gu1/ca0
+guguu,gu1/gU0
+guii,gu0/I1
+guq,gu1
+gurai,gu0/rai1
+guu,gU1
+guuguu,gU1/gU0
+guupiipaa,gU1 pI1/pA1
+guwa,gu0/wa1
+gyuun,gyUn1
+h__m__s,
+ha,ha1
+haa,hA1
+haai,hAi1
+haaigohon,hAi1 go0/han1
+haapu,hA1/pu0
+haaq,hA1
+haaruyokoi,hA1/ru0 yo0/koi1
+haayaku,hA1/ya0/ku0
+haburashi,ha1/bu0/ra1/shi0
+hachi,ha1/ci0
+hahaha,ha1/ha0/ha1
+hai,hai1
+haiarigatoo,hai1 a0/ri1/ga0/tO0
+haihai,hai1 hai1
+haii,haI1
+haikashite,hai1 ka1/shY0/te0
+haikoko,hai1 ko1/ko0
+haikyuu,hai1 kyU1
+hainya,hai1 nya1
+haiq,hai1
+hairahen,hai1/ra0/hen1
+hairan,hai1/ran0
+hairanai,hai1/ra0/nai1
+hairi,hai1/ri0/ma1/Su0
+hairimasen,hai1/ri0/ma0/sen1
+hairimashita,hai1/ri0/ma1/SY0/ta0
+hairimashitaa,hai1/ri0/ma1/SY0/tA0
+hairu,hai1/ru0
+haita,hai1/ta0
+haitchatta,hait0/cat1/ta0
+haite,hai1/te0
+haitta,hait1/ta0
+haittaa,hait1/tA0
+haittara,hait1/ta0/ra1
+haitte,hait1/te0
+haittemashu,hait1/te0/ma1/SW0
+haittemasu,hait1/te0/ma1/sW0
+haitten,hait1/ten0
+haitteru,hait1/te0/ru0
+haiweibasu,hai1/wei0/ba1/su0
+hakai,ha1/kai0
+hakatta,ha0/kat1/ta0
+hakatte,ha0/kat1/te0
+hakimasho,ha1/ki0/ma0/So1
+hako,ha1/ko0
+hakobemashita,ha0/ko1/be0/ma1/SY0/ta0
+hakoberu,ha0/ko1/be0/ru0
+hakobimasu,ha0/ko1/bi0/ma1/sW0
+hakobu,ha0/ko1/bu0
+hakonde,ha0/kon1/de0
+hakushon,ha1/ku0/Son1
+hamamoto,ha1/na0/mo1/to0
+haman,ha0/man1
+hamatta,ha0/mat1/ta0
+hamatte,ha0/mat1/te0
+hambaagaa,ham0/bA1/gA0
+hambaagu,ham0/bA1/gu0
+hamete,ha1/me0/te0
+hamigaki,ha1/mi0/ga1/ki0
+hamu,ha1/mu0
+hana,ha1/na0
+hanamizu,ha1/na0/mi1/zu0
+hanashinasai,ha0/na1/Si0/na0/sai1
+hanashita,ha0/na1/SY0/ta0
+hanashitene,ha0/na1/SY0/te0 ne1
+hanashu,ha0/na1/Su0
+hanasu,ha0/na1/su0
+handoru,han1/do0/ru0
+hane,ha1/ne0
+hankachi,han1/ka0/ci1
+hantai,han1/tai0
+hantaiko,han1/tai0/ko0
+haq,ha1
+hasami,ha0/sa1/mi0
+hashi,ha1/Si0
+hashigosha,ha1/Si0/go1/Sa0
+hashiru,ha1/Si0/ru0
+hashitte,ha0/Sit1/te0
+hashittekuru,ha0/Sit1/te0 ku0/ru1
+hashitteru,ha0/Sit1/te0/ru0
+hassha,has1/Sa0
+hasshin,has0/Sin1
+hata,ha1/ta0
+hato,ha1/to0
+hayai,ha0/yai1
+hayaku,ha1/ya0/ku0
+hayo,ha1/yo0
+hazurechatta,ha1/zu0/re0/cat1/ta0
+he,he1
+heddoraito,hed1/do0/rai1/to0
+hee,hE1
+hehee,he0/hE1
+hen,hen1
+henda,hen1 da1
+henshin,hen1/Sin0
+heq,he1
+hera,he1/ra0
+herikoputaa,he1/ri0/ko1/pu0/tA0
+heriru,he1/ri0/ru0
+hi,hi1
+hichi,hi0/ci1
+hiechau,hi1/e0/cau1
+hikanakute,hi1/ka0/na1/ku0/te0
+hikarechau,hi0/ka1/re0/cau1
+hikkakatta,hik1/ka0/kat1/ta0
+hikkomu,hik0/ko1/mu0
+hikkurikaesanai,hik1/ku0/ri0 ka1/e0/sa0/nai1
+hikkurikaetchatta,hik1/ku0/ri0 ka1/et0/cat1/ta0
+hikooki,hi0/kO1/ki0
+hipparanai,hip0/pa1/ra0/nai1
+hippatt,hip0/pat1/te0
+hippattara,hip0/pat1/ta0/ra1
+hippatte,hip0/pat1/te0
+hirahira,hi1/ra0/hi1/ra0
+hiraita,hi0/rai1/ta0
+hiraite,hi0/rai1/te0
+hirotte,hi0/rot1/te0
+hita,hi1/ta0
+hito,hi1/to0
+hitoochu,hi0/tO1/cu0
+hitootsu,hi0/tOt1/su0
+hitori,hi0/to1/ri0
+hitotsu,hi0/tot1/su0
+hittsuken,hit1/tsu0/ken1
+hittsuketa,hit1/tsu0/ke0/ta0
+hittsukete,hit1/tsu0/ke0/te0
+hittsuku,hit1/tsu0/ku0
+hiyuu,hi0/yU1
+ho,ho1
+hoe,ho1/e0
+hohoho,ho1/ho1/ho1
+hoi,ho1/i0
+hoide,ho1/i0/de0
+hoii,ho1/I0
+hoija,ho1/i0 Ga1
+hoka,ho1/ka0
+hommono,hom1/mo1/no0
+hon,hon1
+hona,ho1/na0
+honde,hon1/de0
+honja,hon1 Ga1
+honto,hon1/to0
+hontoo,hon1/tO0
+hontoo_ÅıÅg,hon1/tO0
+hoo,hO1
+hooch,hO1/cO0
+hoochoo,hO1/cO0
+hooku,hO1/ku0
+hooku_ÅıÅg,hO1/ku0
+hoonto,hOn1/to0
+hoora,hO1/ra0
+hoore,hO1/re0
+hoosu,hO1/su0
+hoppeta,hop1/pe0/ta0
+hoq,ho1
+hora,ho1/ra0
+horaa,ho1/rA0
+horahora,ho1/ra0 ho1/ra0
+horahorahora,ho1/ra0 ho1/ra0 ho1/ra0
+horakirinshan,ho1/ra0 ki0/rin1/can1
+horamoshimoshi,ho1/ra0 mo1/Si0/mo1/Si0
+hore,ho1/re0
+horidasu,ho1/ri0/da1/sW0
+hoshi,ho0/Si1
+hoshii,ho0/SI1
+hoshiku,ho1/Si0/ku0
+hottaan,hot0/tAn1
+hottodoggu,hot1/to0/dog1/gu0
+hottodoggupan,hot1/to0/dog1/gu0/pan1
+hu,hu1
+huu,hU1
+huuwa,hU1/wa0
+hyaa,hyA1
+hyoro,hyo1/ro0
+hyororo,hyo1/ro0/ro0
+hyu,hyu1
+hyui,hyu1/i0
+hyuu,hyU1
+hyuun,hyUn1
+i,i1
+iafon,i1/a0/hon0
+iamsu,i0/ma1/sW0
+ichi,i1/ci0
+ichiban,i1/ci0/ban0
+ichidai,i1/ci0/dai0
+ichigo,i1/ci0/go0
+ichiichi,i1/ci0 i1/ci0
+ieru,i0/e1/ru0
+ii,I1
+ii_ÅıÅg,I1
+iie,I1/e0
+iiko,I1/ko0
+iikoiiko,I1/ko0 I1/ko0
+iikoiikoshite,I1/ko0 I1/ko0 SY1/te0
+iikoiikotte,I1/ko0 I1/kot0 te1
+iinasai,I1/na0/sai1
+iine,I1 ne1
+iino,I1 no1
+iiq,I1
+iiya,I1 ya1
+iiyo,I1 yo1
+iiyoisho,I1 yo1/i0/So1
+iiyoshi,I1 yo1/SY
+ijoo,i0/GO1
+ika,i1/ka0
+ikaga,i0/ka1/ga0
+ikagadesu,i0/ka1/ga0 de1/sW0
+ikan,i0/kan1
+ikanai,i1/ka0/nai1
+ikanakute,i1/ka0/na1/ku0/te0
+ikaru,i1/ka0/ru0
+ike,i0/ke1
+ikemasen,i1/ke0/ma0/sen1
+ikenai,i1/ke0/nai1
+ikeru,i1/ke0/ru0
+ikimashita,i1/ki0/ma1/SY0/ta0
+ikimashoo,i1/ki0/ma0/SO1
+ikimasu,i1/ki0/ma1/sW0
+ikimasuka,i1/ki0/ma1/sW0 ka1
+ikina,i1/ki0/na1
+ikkai,ik1/kai0
+ikko,ik1/ko0
+ikko_ÅıÅg,ik1/ko0
+ikoikoiko,i1/ko0 i1/ko0 i1/ko0
+ikoo,i0/kO1
+iku,i1/ku0
+ikukara,i1/ku0 ka0/ra1
+ikutsu,i1/kut0/su0
+ima,i1/ma0
+imasen,i1/ma0/sen1
+imashita,i0/ma1/SY0/ta0
+imasu,i0/ma1/sW0
+in,in1
+ina,i0/na1
+inaai,i0/nAi1
+inai,i0/nai1
+inaiinaai,i0/nai1 i0/nAi1
+inaiinai,i0/nai1 i0/nai1
+inaiinaiinaiinaai,i0/nai1 i0/nai1 i0/nai1 i0/nAi1
+inaiinaiinaiinai,i0/nai1 i0/nai1 i0/nai1 i0/nai1
+inainainaibaa,i0/nai1 i0/nai1 i0/nai1 bA1
+inasai,i1/na0/sai1
+inu,i1/nu0
+ippai,ip1/pai0
+ippiki,ip1/pi0/ki0
+ira,i0/ra1
+iran,i0/ran1
+iranai,i1/ra0/nai1
+irasshai,i0/ras0/Sai1
+ire,i1/re0
+irechaoo,i1/re0/caO1
+irecharo,i1/re0/ca0/ro1
+irekaereba,i1/re0 ka1/e0/re0/ba1
+iremashu,i1/re0/ma1/sW0
+iren,i0/ren1
+irenasai,i1/re0/na0/sai1
+irereba,i1/re0/re0/ba1
+irereya,i1/re0/re0/ya1
+ireru,i1/re0/ru0
+ireta,i1/re0/ta0
+iretara,i1/re0/ta0/ra1
+irete,i1/re0/te0
+ireteageru,i1/re0/te0 a1/ge0/ru0
+iretee,i1/re0/tE0
+iretekudasai,i1/re0/te0 ku0/da0/sai1
+ireyo,i1/re0/yo1
+ireyoo,i1/re0/yO1
+irimahen,i1/ri0/ma0/hen1
+irimasen,i1/ri0/ma0/sen1
+iro,i1/ro0
+iru,i1/ru0
+iru_ÅıÅg,i1/ru0
+isho,i0/So1
+isogashii,i1/so0/ga0/SI1
+issho,is0/So1
+isshoda,is0/So1 da1
+it,i1/ta0
+ita,i0/ta1
+itaa,i0/tA1
+itaai,i0/tAi1
+itadaita,i0/ta1 da1 i0/ta1
+itadakimasu,i1/ta0/da0/ki0/ma1/sW0
+itai,i0/tai1
+itaiitaai,i0/tai1 i0/tAi1
+itaiitai,i0/tai1 i0/tai1
+itaita,i0/ta1 i0/ta1
+itaitai,i0/ta1 i0/tai1
+itakatta,i1/ta0/kat1/ta0
+itakunai,i0/ta1/ku0/nai1
+itanee,i1/ta0/nE1
+itataa,i1/ta0/tA1
+itatata,i0/ta1/ta0/ta0
+itatatatata,i0/ta1/ta0/ta0/ta0/ta0
+itatatatatata,i0/ta1/ta0/ta0/ta0/ta0/ta0
+itchaoo,it0/caO1
+itchatta,it0/cat1/ta0
+itchattaa,it0/cat1/tA0
+itchau,it0/cau1
+itchini,it1/ci0 ni1
+itsu,it1/su0
+itsumo,it1/su0/mo0
+itsutsu,it1/sut0/su1
+itt,it1/ta0
+itta,it1/ta0
+ittaa,it1/tA0
+ittara,it1/ta0/ra1
+itte,it1/te0
+ittedoo,it1/te0 dO1
+ittegoran,it1/te0 go0/ran1
+itteirasshai,it1/te0/ras0/Sai1
+ittekimaasu,it1/te0 ki0/mA1/sW0
+ittekimasu,it1/te0 ki0/ma1/sW0
+ittekinasai,it1/te0 ki1/na0/sai1
+ittekuru,it1/te0/ku0/ru1
+itten,it0/ten1
+itterasshaai,it1/te0/ras0/SAi1
+itterasshai,it1/te0/ras0/Sai1
+itteru,it1/te0/ru0
+itteta,it1/te0/ta0
+iu,yu1
+iwan,i0/wan1
+iwana,i1/wa0/na1
+iwanai,i1/wa0/nai1
+iwanakya,i0/wa1/na0/kya1
+iwashii,i0/wa0/SI1
+iya,i0/ya1
+iya_ÅıÅg,i0/ya1
+iyaa,i0/yA1
+iyaaiyaa,i0/yA1 i0/yA1
+iyaashite,i0/yA1 SY1/te0
+iyada,i0/ya1 da1
+iyahon,i0/ya1 hon1
+iyai,i0/ya1
+iyaiya,i0/ya1 i0/ya1
+iyaiyaiya,i0/ya1 i0/ya1 i0/ya1
+iyaiyaiyaa,i0/ya1 i0/ya1 i0/yA1
+iyaiyaiyaiya,i0/ya1 i0/ya1 i0/ya1 i0/ya1
+iyaiyaiyaiyaa,i0/ya1 i0/ya1 i0/ya1 i0/yA1
+iyan,i0/yan1
+iye,I1/ye0
+iyei,I1/yE0
+iyo,i1 yo1
+ja,Ga1
+jaJiichan,Ga1 GI1/can1
+jaOkaasan,Ga1 o0/kA1/san1
+jaa,GA1
+jaachan,GA1/can1
+jaajaa,GA1 GA1
+jaan,GAn1
+jabujabu,Ga1/bu0/Ga1/bu0
+jahairanai,Ga1 hai1/ra0/nai1
+jaireru,Ga1 i1/re0/ru0
+jama,Ga1/ma0
+jambo,Gam1/bo0
+jamimi,Ga1 mi1/mi0
+jamoo,Ga1 mO1
+jampu,Gam1/pu0
+jan,Gan1
+janai,Ga1 nai1
+janai_ÅıÅg,Ga1 nai1
+janakatta,Ga1 na0/kat1/ta0
+janakute,Ga1 na1/ku0/te0
+janani,Ga1 na1/ni0
+jane,Ga1 sW1/ki0
+janeeya,Ga1 nE1 ya1
+jangurujimu,Gan1/gu0/ru0/Gi1/mu0
+janjakajanjan,Gan1 Ga1/ka0 Gan1 Gan1
+janjanjanjanjan,Gan1 Gan1 Gan1 Gan1 Gan1
+jaotete,Ga1 o0/te1/te0
+jaq,GA1
+jasa,Ga1 sa1
+jasukisuki,Ga1 sW1/ki0 sW1/ki0
+jatte,Gat1 te1
+jei,Gei1
+ji,Gi1
+jibun,Gi0/bun1
+jidoosh,Gi0/dO1/Sa0
+jidoosha,Gi0/dO1/Sa0
+jidooshabaibai,Gi0/dO1/Sa0 bai1/bai1
+jii,GI1
+jiichan,GI1/can1
+jiijii,GI1/GI0
+jikan,Gi0/kan1
+jishin,Gi0/Sin1
+jitensha,Gi0/ten1/Sa0
+jitto,Git1/to0
+joide,Go1/i0/de0
+jojojojojojojojo,jo1/jo0 jo1/jo0 jo1/jo0 jo1/jo0
+jojojojon,Go1/Go0 Go1/Gon0
+jojujoju,Go1/Gu0 Go1/Gu0
+jojujojujoju,Go1/Gu0 Go1/Gu0 Go1/Gu0
+jojujojujojujoju,Go1/Gu0 Go1/Gu0 Go1/Gu0 Go1/Gu0
+jojujojujojujojujojujoju,Go1/Gu0 Go1/Gu0 Go1/Gu0 Go1/Gu0 Go1/Gu0 Go1/Gu0
+jonjonjon,Gon1 Gon1 Gon1
+joo,GO1
+jooju,GO1/Gu0
+joojudeshu,GO1/Gu0 de1/SW0
+joojujooju,GO1/Gu0 GO1/Gu0
+joojujoojujoojujooju,GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0
+joojujoojujoojujoojujooju,GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0
+joojujoojujoojujoojujoojujooju,GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0
+joojujoojujoojujoojujoojujoojujoojuu,GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/Gu0 GO1/GU0
+joojujoojuu,GO1/Gu0 GO1/GU0
+jooshan,GO1/San1
+joozu,GO1/zu0
+joozujoozu,GO1/zu0 GO1/zu0
+joozujoozujoozujoozuu,GO1/zu0 GO1/zu0 GO1/zu0 GO1/zU0
+joozuu,GO1/zU0
+jopozu,Go1/po0/zu0
+jorijori,Go1/ri0 Go1/ri0
+josan,Go1/san1
+juee,Gu0/E1
+juju,Gu1/Gu0
+jujujujujujujuju,Gu1/Gu0 Gu1/Gu0 Gu1/Gu0 Gu1/Gu0
+jumban,Gum1/ban0
+juu,GU1
+juuichi,Gu1/i0/ci0
+juukyuupoi,GU1/kyU0/po1/i0
+juun,GUn1
+juusu,GU1/su0
+ka,ka1
+ka__,ka1
+ka_ÅıÅg,ka1
+kaa,kA1
+kaachan,kA1/can1
+kaadigan,kA1/di0/gan0
+kaan,kAn1
+kaasan,kA1/san1
+kaba,ka1/ba0
+kabachan,ka1/ba0/can1
+kabun,ka1/bun1
+kabusete,ka0/bu1/se0/te1
+kabushite,ka0/bu1/shY0/te0
+kachakacha,ka1/ca0/ka1/ca0
+kachakachakacha,ka1/ca0/ka1/ca0 ka1/ca0
+kachakachakachakacha,ka1/ca0/ka1/ca0 ka1/ca0/ka1/ca0
+kachan,ka0/can1
+kachi,ka1/ci0
+kachiq,ka1/ci0
+kaerimashoo,kae1/ri0/ma0/SO1
+kaeritai,ka1/e0/ri0/tai1
+kaetta,ka1/et0/ta0
+kaette,ka1/et0/te0
+kaettekimashitaa,ka1/et0/te0 ki0/ma1/SY0/ta0
+kagami,ka1/ga0/mi0
+kagi,ka1/gi0
+kai,kai1
+kaijuusan,kai1/GU0/san1
+kaisha,kai1/Sa0
+kaita,kai1/ta0
+kaitaan,kai0/tAn1
+kaitaarahen,kai1/ta0/ra1/hen1
+kaitaaru,kai1/tA0/ru0
+kaitara,kai1/ta0/ra1
+kaite,kai1/te0
+kaitearu,kai1/te0 a1/ru0
+kaji,ka1/Gi0
+kak,ka1/ku0
+kakatta,ka0/kat1/ta1
+kakatte,ka0/kat1/te0
+kakereta,ka1/ke0/re0/ta0
+kakeru,ka1/ke0/ru0
+kaketa,ka1/ke0/ta0
+kakete,ka1/ke0/te0
+kaki,ka1/ki0
+kakkinkakkin,kak0/kin1 kak0/kin1
+kakko,kak1/ko0
+kakko_ÅıÅg,kak1/ko0
+kakkoi,kak1/ko0/i1
+kakkoii,kak1/ko0/I1
+kaku,ka1/ku0
+kakurete,ka0/ku1/re0/te0
+kamera,ka1/me0/ra0
+kami,ka1/mi0
+kamo,ka0/mo1
+kamoshirenai,ka1/mo0/shi0/re0/nai1
+kampai,kam1/pai0
+kamu,ka1/mu0
+kan,kan1
+kana,ka0/na1
+kanaa,ka0/nA1
+kanan,ka0/nan1
+kandara,kan1/da0/ra0
+kane,ka1/ne0
+kangaruu,kan1/ga0/rU1
+kani,ka1/ni0
+kankankankankan,kan1/kan1 kan1/kan1 kan1/kan1
+kanryoo,kan1/ryO0
+kao,kao1
+kaori,kao1/ri0
+kaotaan,kao1/tAn1
+kara,ka0/ra1
+karappo,ka0/rap1/po0
+kashira,ka1/Si0/ra0
+kashitage,ka1/Si0/ta1/ge0
+kashitageyo,ka1/Si0/ta1/ge0 yo1
+kashite,ka1/Si0/te0
+kasu,ka1/su0
+kata,ka1/ta0
+katachi,ka0/ta1/ci0
+katai,ka0/tai1
+katakata,ka1/ta0/ka1/ta0
+katakatakata,ka1/ta0/ka1/ta0 ka1/ta0
+katakatakataa,ka1/ta0/ka1/ta0 ka1/tA0
+katazuketa,ka1/ta0/zu1/ke0/ta0
+katazukete,ka1/ta0/zu1/ke0/te0
+katchinkatchin,kat0/cin1 kat0/cin1
+katta,kat1/ta0
+kattaa,kat1/tA0
+katte,kat1/te0
+kawai,ka0/wai1
+kawaii,ka0/waI1
+kawaiikawaii,ka0/waI1 ka0/waI1
+kawaikawai,ka0/wai1 ka0/wai1
+kawaikawaii,ka0/wai1 ka0/waI1
+kawaisoo,ka0/wai1/sO1
+kawaru,ka0/wa1/ru0
+kawatte,ka0/wat1/te0
+kayui,ka0/yu1/i0
+kayukunai,ka0/yu1/ku0/nai1
+kaze,ka1/ze0
+kazoete,ka0/zo0/e1/te0
+ke,ke1
+kedo,ke0/do1
+kedonobasu,ke0/do1 no0/ba1/sW0
+keejiban,kE1/Gi0/ban1
+keeki,kE1/ki0
+keekochan,kE1/ko0/can1
+ken,ken1
+kenkyuu,ken1/kyU0
+kerokero,ke1/ro0/ke1/ro0
+keshigomu,ke1/SY0/go1/mW0
+keshite,ke1/SY0/te0
+ki,ki1
+kichatta,ki0/cat1/ta0
+kichi,ki1/ci0
+kiee,ki1/E0
+kiekie,ki1/e0/ki1/e0
+kiekiee,ki1/e0/ki1/E0
+kiekiekiekie,ki1/e0/ki1/e0 ki1/e0/ki1/e0
+kiekiekiekiee,ki1/e0/ki1/e0 ki1/e0/ki1/E0
+kienai,ki0/e0/nai1
+kii,kI1
+kiii,kI1/i0
+kiiro,kI1/ro0
+kiiroi,kI1/ro0/i0
+kiite,kI1/te0
+kikana,ki1/ka0/na1
+kikanakya,ki0/ka1/na0/kya1
+kikansha,ki0/kan1/Sa0
+kikoeru,ki0/ko1/e0/ru0
+kimashita,ki0/ma1/SY1/ta1
+kimashoo,ki1/ma0/SO1
+kimochiwaru,ki1/mo0/ci0 wa0/ru1
+kimochiwaruu,ki1/mo0/ci0 wa0/rU1
+kingyo,kin1/gyo0
+kingyosan,kin1/gyo0/san1
+kinoo,ki0/nO1
+kira,ki1/ra0
+kirai,ki0/rai1
+kirakira,ki1/ra0/ki1/ra0
+kiranakya,ki0/ra1/na0/kya1
+kire,ki0/re1
+kiree,ki0/rE1
+kireekiree,ki0/rE1 ki0/rE1
+kireekireeshiteagenasai,ki0/rE1 ki0/rE1 SY1/te0 a1/ge0/na0/sai1
+kireena,ki0/rE1 na1
+kirei,ki0/rE1
+kirekire,ki0/re1 ki0/re1
+kirekiree,ki0/re1 ki0/rE1
+kirikiri,ki1/ri0/ki1/ri0
+kirin,ki0/rin1
+kirinsan,ki0/rin1/san1
+kirinshan,ki0/rin1/San1
+kiroo,ki0/rO1
+kiru,ki1/ru0
+kisha,ki1/Sa0
+kishapoppo,ki1/Sa0/pop1/po0
+kita,ki0/ta1
+kitanai,ki1/ta0/nai1
+kitara,ki1/ta0/ra1
+kitchatta,kit0/cat1/ta0
+kite,ki1/te0
+kitechoodai,ki1/te0 cO1/dai0
+kitegorannasai,ki1/te0 go0/ran1/na0/sai1
+kitekono,ki1/te0 ko1/no0
+kitekudasai,ki1/te0 ku1/da0/sai1
+kitekudashai,ki1/te0 ku1/da0/Sai1
+kitetoka,ki1/te0 to0/ka1
+kitsuneudon,kit1/su0/ne0 u1/don0
+kitta,kit1/ta0
+kitte,kit1/te0
+kizu,ki1/zu0
+kkai,
+kke,
+ko,ko1
+koarachan,ko0/a1/ra0/can1
+koarasan,ko0/a1/ra0/san1
+kobosanai,ko0/bo1/sa0/nai1
+kobosu,ko0/bo1/sW0
+kobuta,ko1/bu0/ta0
+kochirakara,ko1/ci0/ra0 ka0/ra1
+kochokocho,ko1/co0/ko1/co0
+kochokochokocho,ko1/co0/ko1/co0 ko1/co0
+kochokochokochokochokocho,ko1/co0/ko1/co0 ko1/co0/ko1/co0 ko1/co0
+kodt,
+koe,ko1/e0
+koi,koi1
+koide,koi1/de0
+koinu,ko1/i1/nu0
+koiwashi,ko1/i0/wa1/Si0
+kok,ko1/ke0
+kokekokokokekoko,ko1/ke0/ko1/ko0 ko1/ke0/ko1/ko0
+kokeq,ko1/ke0
+kokeru,ko1/ke0/ru0
+kokkara,kok1/ka0/ra0
+kokke,kok1/ke0
+kokko,kok1/ko0
+kokkosan,kok1/ko0/san1
+koko,ko1/ko0
+komakai,ko1/ma0/kai1
+komaru,ko0/ma1/ru0
+komatta,ko0/mat1/ta0
+kon,kon1
+konai,ko0/nai1
+konchiwa,kon1/ci0/wa0
+konchiwada,kon1/ci0/wa0 da1
+kondo,kon1/do0
+konna,kon1/na0
+konnan,kon1/nan0
+konnani,kon1/na0 ni0
+konnchiwa,kon0/ni1/ci0/wa0
+konnichiwa,kon0/ni1/ci0/wa0
+konnna,kon1/na0
+kono,ko1/no0
+konogoro,ko1/no0 go1/ro0
+konomae,ko1/no0 ma1/e0
+konsento,kon1/sen0/to0
+koo,kO1
+kooeiijeta,kO1/e0/I1/Ge0/ta0
+kooen,kO1/en0
+koohii,kO1/hI0
+kooji,kO1/Gi0
+kookan,kO1/kan0
+kootai,kO1/tai0
+koote,kO1/te0
+kooy,kO1/yU0
+kooyuu,kO1/yU0
+koppu,kop1/pu0
+kora,ko1/ra0
+koraa,ko1/rA0
+koradame,ko1/ra0 da1/me0
+korakora,ko1/ra0 ko1/ra0
+korakorakora,ko1/ra0 ko1/ra0 ko1/ra0
+kore,ko1/re0
+kore_ÅıÅg,ko1/re0
+koree,ko0/rE1
+korehikoo,ko1/re0/hi1/kO0
+koreto,ko1/re0 to1
+korokoro,ko1/ro0/ko1/ro0
+korokorokor,ko1/ro0/ko1/ro0 ko1/ro0
+korokorokoro,ko1/ro0/ko1/ro0 ko1/ro0
+korokorokorokoro,ko1/ro0/ko1/ro0 ko1/ro0/ko1/ro0
+korokorokorokorokoro,ko1/ro0/ko1/ro0 ko1/ro0/ko1/ro0 ko1/ro0
+korokorokoroo,ko1/ro0/ko1/ro0 ko1/rO0
+korokoroshite,ko1/ro0/ko1/ro0 SY1/te0
+koronjatta,ko0/ron1/Gat1/ta0
+korya,ko0/rya1
+koshokosho,ko1/So0/ko1/So0
+koshokoshokoshokosho,ko1/So0/ko1/So0 ko1/So0/ko1/So0
+koshokoshokoshokoshokosho,ko1/So0/ko1/So0 ko1/So0/ko1/So0 ko1/So0
+koshokoshokoshokoshokoshokoshokoshokosho,ko1/So0/ko1/So0 ko1/So0/ko1/So0 ko1/So0/ko1/So0 ko1/So0/ko1/So0
+kot,
+kotchi,kot1/ci0
+kotchikotchi,kot1/ci0 kot1/ci0
+kotchimuke,kot1/ci0 mu0/ke1
+koto,ko1/to0
+kotoba,ko1/to0/ba0
+koton,ko0/ton1
+kotori,ko0/to1/ri0
+kotoshi,ko1/to0/Si1
+kowa,ko0/wa1
+kowaa,ko0/wA1
+kowaai,ko0/wAi1
+kowaashi,ko0/wA1/Si0
+kowai,ko0/wai1
+kowaihodo,ko0/wai1 ho0/do1
+kowaikowai,ko0/wai1 ko0/wai1
+kowarechatta,ko0/wa1/re0/cat1/ta0
+kowarechattaa,ko0/wa1/re0/cat1/tA0
+kowarechau,ko0/wa1/re0/cau1
+kowareru,ko0/wa1/re0/ru0
+kowareta,ko0/wa1/re0/ta0
+kowaretanai,ko0/wa1/re0/ta0/nai1
+kowarete,ko0/wa1/re0/te0
+kowareten,ko0/wa1/re0/ten1
+kowaretenai,ko0/wa1/re0/te0/nai1
+kowasanai,ko0/wa1/sa0/nai1
+kowashicha,ko0/wa1/Si0/ca0
+kowashita,ko0/wa1/SY0/ta0
+kowashite,ko0/wa1/SY0/te0
+kowashiteyaro,ko0/wa1/SY0/te0 ya0/ro1
+koya,ko0/ya1
+ku,ku1
+kubi,ku1/bi0
+kuchi,ku1/ci0
+kuchukuchu,ku1/cu0/ku1/cu0
+kudamo,ku0/da1/mo0/no1
+kudasaai,ku1/da0/sAi1
+kudasai,ku1/da0/sai1
+kudashai,ku1/da0/Sai1
+kugurimasu,ku0/gu1/ri0/ma1/sW0
+kugutte,ku0/gut1/te0
+kujaku,ku1/Ga0/ku0
+kuku,ku1/ku0
+kukukukukuu,ku1/ku0 ku1/ku0 kU1
+kukuu,ku1/kU0
+kumachan,ku1/ma0/can1
+kumasan,ku1/ma0/san1
+kumo,ku1/mo0
+kure,ku0/re1
+kuren,ku0/ren1
+kurenakatta,ku1/re0/na0/kat1/ta0
+kurenakya,ku1/re0/na0/kya1
+kureru,ku1/re0/ru0
+kureta,ku1/re0/ta0
+kurete,ku1/re0/te0
+kurimogu,ku1/ri0/mo1/gu0
+kuroi,ku0/ro1/i0
+kuru,ku1/ru0
+kurukurkuru,ku1/ru0/ku1/ru0 ku1/ru0
+kurukuru,ku1/ru0/ku1/ru0
+kurukurukuru,ku1/ru0 ku1/ru0 ku1/ru0
+kurukurukurukurukurukuruu,ku1/ru0/ku1/ru0 ku1/ru0/ku1/ru0 ku1/ru0/ku1/rU0
+kurukurukuruu,ku1/ru0/ku1/ru0 ku1/rU0
+kurukuruu,ku1/ru0/ku1/rU0
+kuruma,ku0/ru1/ma0
+kusugutte,ku0/su1/gut0/te0
+kutsu,kut1/su0
+kutsushita,kut0/su1/SY0/ta0
+kuttsuichatta,kut1/tsu0/i0/cat1/ta0
+kuttsuita,kut0/tsu1/i0/ta0
+kuttsuite,kut0/tsu1/i0/te0
+kuttsukete,kut1/tsu0/ke0/te0
+kuuka,kU1 ka1
+kuukuu,kU1/kU0
+kya,kya1
+kyaa,kyA1
+kyakkya,kyak1/kya0
+kyakyakyakyaa,kya1 kya1 kya1 kyA1
+kyandikyandi,kyan1/di0 kyan1/di0
+kyoo,kyO1
+kyooryuu,kyO1/ryU0
+kyuudai,kyU1/dai0
+kyuukee,kyU1/kE0
+kyuuko,kyU1/ko0
+kyuukyuusha,kyU1/kyU1/Sa1
+kyuun,kyUn1
+maa,mA1
+maachin,mA1/cin0
+maamaa,mA1/mA0
+maate,mA1/te0
+machigaeta,ma1/ci0/ga1/e0/ta0
+mada,ma1/da0
+madaa,ma1/dA0
+madadayowa,ma1/da0 da1 yo1 wa1
+madamada,ma1/da0/ma1/da0
+madamadaa,ma1/da0/ma1/dA0
+madamadamada,ma1/da0 ma1/da0 ma1/da0
+madamadamadamada,ma1/da0 ma1/da0 ma1/da0 ma1/da0
+madamadamadamadamada,ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0
+madamadamadamadamadamada,ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0
+madamadamadamadamadamadamada,ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0 ma1/da0
+madayomadayo,ma1/da0 yo1 ma1/da0 yo1
+made,ma0/de1
+mae,ma1/e0
+maidoarigatoogozaimasu,mai1/do0 a0/ri1/ga0/tO0 go0/zai1/ma0/sW0
+maikurofon,mai1/ku0/ro0/hon1
+maimai,mai1/mai0
+maimaishinasai,mai1/mai0 Si1/na0/sai1
+makenai,ma1/ke0/nai1
+makka,mak1/ka0
+makkaka,mak1/ka0 ka1
+mam,ma1/ma0
+mama,ma1/ma0
+mamma,mam1/ma0
+mammaa,mam1/mA0
+manaita,ma0/nai1/ta0
+manama,ma1/na0/ma1
+maniyara,ma1/ni0/ya0/ra1
+mansaku,man1/sa0/ku0
+maru,ma1/ru0
+marui,ma0/ru1/i0
+mashita,to1/re0/ma1/SY0/ta0
+mashu,
+masu,
+mata,ma1/ta0
+matane,ma1/ta0 ne1
+matayaba,ma1/ta0/ya0/ba1
+matchi,mat1/ci0
+mate,ma1/te0
+matt,mat1/te0
+matte,mat1/te0
+mattenasai,mat1/te0/na0/sai1
+mattete,mat1/te0/te0
+mau,mau1
+maumau,mau1 mau1
+mawari,ma0/wa1/ri0
+mawaru,ma0/wa1/ru0
+mawashitara,ma0/wa1/SY0/ta0/ra1
+mawashite,ma0/wa1/SY0/te0
+mawasu,ma0/wa1/sW0
+mawatta,ma0/wat1/ta0
+mawattaa,ma0/wat1/tA0
+mawatte,ma0/wat1/te0
+mazu,ma1/zu0
+mazukunai,ma1/zu0/ku0/nai1
+me,me1
+mee,mE1
+mejurashii,me1/Gu0/ra0/SI1
+mekkutegoran,mek0/ku1/te0 go0/ran1
+mekuttageyo,me0/kut1/ta0/ge0/yo1
+mekuttemiyo,me0/kut1/te0/mi1/yo0
+meme,me1/me0
+mi,mi1
+midori,mi1/do0/ri0
+miehen,mi1/e0/hen1
+miemashu,mi1/e0/ma1/SW0
+miemasu,mi1/e0/ma1/sW0
+mien,mi0/en1
+mienai,mi1/e0/nai1
+mienaku,mi1/e0/na1/ku0
+mieru,mi1/e0/ru0
+mieta,mi1/e0/ta0
+mieten,mi1/e0/ten0
+mieteru,mi1/e0/te0/ru0
+migi,mi1/gi0
+miittsu,mIt1/tsu0
+mikan,mi1/kan0
+mimi,mi0/mi1
+min,min1
+mina,mi1/na0
+minai,mi0/nai1
+minakya,mi1/na0/kya1
+minasai,mi1/na0/sai1
+minikaa,mi1/ni0/kA1
+minna,min1/na0
+minnanainai,min1/na0 nai1/nai1
+minno,min1/no0
+miru,mi1/ru0
+misete,mi1/se0/te0
+misetechoodai,mi1/se0/te0 cO1/dai0
+misetekudasai,mi1/se0/te0 ku1/da0/sai1
+mishetekudashai,mi1/Se0/te0 ku1/da0/sai1
+mishite,mi1/SY0/te0
+mit,mi1/te0
+mita,mi1/ta0
+mitai,mi0/tai1
+mitchu,mit1/cu0
+mite,mi1/te0
+mitee,mi1/tE0
+mitegoran,mi1/te0 go0/ran1
+mitekudasaai,mi1/te0 ku1/da0/sai1
+miten,mi0/ten1
+miteru,mi1/te0/ru0
+miteta,mi1/te0/ta0
+mitetegoran,mi1/te0/te0 go0/ran1
+mitsukete,mit1/su0/ke0/te1
+mittsu,mit1/tsu0
+mittsume,mit1/tsu0/me0
+miyo,mi0/yo1
+miyoo,mi0/yO1
+miyou,mi0/yO1
+mm,mm
+mmaa,
+mo,mo1
+modoshita,mo0/do1/shY0/ta0
+modotta,mo0/dot1/ta0
+mogumogu,mo1/gu0/mo1/gu0
+mogumogumogu,mo1/gu0/mo1/gu0 mo1/gu0
+mohitotsu,mo1 hi0/tot1/su0
+moka,mo1/ka0
+mokkai,mok1/kai0
+momo,mo1/mo0
+mon,mon1
+mondai,mon1/dai0
+moo,mO1
+mooiikai,mO1 ik0/kai1
+moomoosan,mO1/mO0/san1
+moon,mOn1
+mooru,mO1/ru0
+moraoo,mo0/ra1/O0
+moratchaoo,mo0/rat1/ca1/O0
+moratchatta,mo0/rat1/cat1/ta0
+moratta,mo0/rat1/ta0
+moratta_ÅıÅg,mo0/rat1/ta0
+moratte,mo0/rat1/te0
+morattekita,mo0/rat1/te0 ki0/ta1
+moshi,mo1/Si0
+moshimoshi,mo1/Si0/mo1/Si0
+moshimoshitte,mo1/Si0/mo1/Sit0 te1
+moshitochu,mo1 Si0/to1/cu0
+moshitotsu,mo1 Si0/tot1/su0
+mot,mot1/te0
+moteru,mo1/te0/ru0
+motsu,mot1/su0
+mott,mot1/te0
+motta,mot1/ta0
+mottageyo,mot1/ta0/ge1/yo0
+mottainai,mot1/tai0/nai1
+mottara,mot1/ta0/ra1
+motte,mot1/te0
+motteikinasai,mot1/te0/i1/ki0/na0/sai1
+motteirasshai,mot1/te0/i1/ras0/Sai1
+mottekinasai,mot1/te0/ki1/na0/sai1
+mottekita,mot1/te0/ki0/ta1
+mottekitageru,mot1/te0/ki0/ta1/ge0/ru1
+mottekite,mot1/te0/ki1/te0
+mottekitechoodai,mot1/te0/ki0/te1 cO1/dai0
+mottekitekudasai,mot1/te0/ki0/te1 ku1/da0/sai1
+mottekudasai,mot1/te0 ku1/da0/sai1
+motten,mot0/ten1
+mottetageyo,mot1/te0/ta1/ge0/yo1
+mottetatte,mot1/te0/tat1 te1
+mottete,mot1/te0/te0
+motto,mot1/to0
+muchi,mu1/ci0
+muichatta,mu1/i0/cat1/ta0
+muitegoran,mu1/i0/te0 go0/ran1
+muke,mu1/ke0
+mukoo,mu0/kO1
+munya,mun0/ya1
+munyamunya,mun0/ya1/mun0/ya1
+munymunya,mun0/ya1/mun0/ya1
+muri,mu1/ri0
+mushi,mu1/Si0
+musunde,mu0/sun1/de0
+mutsukashi,mut1/su0/ka0/Si1
+muttsu,mut1/tsu0
+muzukashii,mu1/zu0/ka0/Si1
+n,n1
+na,na1
+naa,nA1
+naai,nAi1
+nabeyakiudon,na1/be0/ya1/ki0 u1/don0
+nabuttara,na0/but1/ta0/ra1
+naga,na0/ga1
+nagai,na0/gai1
+nagechau,na1/ge0/cau1
+nageru,na1/ge0/ru0
+nageta,na1/ge0/ta0
+nai,nai1
+nai_ÅıÅg,nai1
+nainaai,nai1 nAi1
+nainai,nai1 nai1
+nainainai,nai1 nai1 nai1
+nainaishita,nai1 nai1 SY0/ta1
+naita,nai0/tan1
+naite,nai1/te0
+naka,na1/ka0
+nakami,na1/ka0/mi1
+nakanai,na1/ka0/nai1
+nakanaka,na1/ka0/na1/ka0
+nakatta,na0/kat1/ta0
+naku,na1/ku0
+nakunatchatta,na1/ku0/nat0/cat1/ta0
+namae,na0/ma1/e0
+nambiki,nam1/bi1/ki0
+nammyoohoorengekyoo,na1/mu0 myO1/hO ren1/ge0 kyO1
+nan,nan1
+nana,na1/na0
+nanahachi,na1/na0 ha1/ci0
+nanatsu,na1/nat0/su1
+nanda,nan1 da1
+nandaka,nan1 da1 ka1
+nande,nan1/de0
+nandemo,nan1/de0/mo1
+nani,na1/ni0
+nani_ÅıÅg,na1/ni0
+naniga,na1/ni0 ga1
+nanigairuno,na1/ni0 ga1 i1/ru0 no1
+nanii,na1/nI0
+naniiro,na1/ni0 i0/ro1
+nanika,na1/ni0 ka1
+nanimo,na1/ni0 mo1
+nanimokamo,na1/ni0 mo1 ka0/mo1
+nanji,nan1/Gi1
+nanka,nan1/ka0
+nano,na0/no1
+nante,nan1/te0
+naoranai,nao1/ra0/nai1
+naoru,nao1/ru0
+naoshiageyo,nao1/Si0 a1/ge0/yo1
+naoshite,nao1/SY0/te1
+naoshitekudasai,nao1/SY0/te1 ku1/da0/sai1
+naoshiteyaru,nao1/SY0/te1 ya1/ru0
+naosu,nao1/su0
+naotta,naot1/ta0
+naottaa,naot1/tA0
+nappa,nap1/pa0
+nara,na0/ra1
+naraberu,na0/ra1/be0/ru1
+narabete,na0/ra1/be0/te0
+narabeyoo,na0/ra1/be0/yO1
+naraen,na0/ra1/en1
+naranai,na1/ra0/nai1
+naranaku,na1/ra0/na1/ku0
+naranda,na0/ran1/da0
+narankatta,na1/ran0/kat1/ta0
+narannda,na0/ran1/da0
+narasou,na1/ra0/sO1
+nareba,na1/re0/ba1
+narimashita,na1/ri0/ma1/SY0/ta1
+narimashoo,na1/ri0/ma0/SO1
+narimasu,na1/ri0/ma1/sW0
+naru,na1/ru0
+narun,na0/run1
+nasai,na0/sai1
+natchatta,nat1/cat1/ta0
+natchau,nat0/cau1
+natsumikan,nat1/su0/mi1/kan0
+natta,nat1/ta0
+nattaa,nat1/tA0
+nattara,nat1/ta0/ra1
+nattarahi,nat1/ta0/ra1/Si0
+natte,nat1/te0
+nattee,nat1/tE0
+natten,nat0/ten1
+natteru,nat1/te0/ru1
+natteta,nat1/te0/ta0
+natto,nat1/to0
+nattoo,nat1/tO0
+nchanto,n1 can1/to0
+nchi,
+nde,
+ndesu,de1/sW0
+ne,ne1
+ne_ÅıÅg,ne1
+neanoo,ne1 a0/nO1
+nebu,ne1/bu0
+nedoo,ne1 dO1
+nee,nE1
+nehaamonika,ne1 hA0/mo1/ni1/ka0
+neko,ne1/ko0
+nemata,ne1 ma1/ta0
+nemui_ÅıÅgno,ne0/mu1/i0 no1
+nemutai,ne1/mu0/tai1
+nenne,nen1/ne0
+nennee,nen1/nE0
+nenneshita,nen1/ne0 SY0/ta1
+nennesuru,nen1/ne0 su0/ru1
+neomoshiroi,ne1 o0/mo1/Si0/ro1/i0
+neta,ne1/ta0
+netabeyoo,ne1 ta1/be0/yO1
+netotte,ne1 tot1/te0
+nette,net1/te0
+neuta,ne1 u1/ta0
+nezumisan,ne1/zu0/mi1/san1
+nga,ga1
+ni,ni1
+nigechatta,ni1/ge0/cat1/ta0
+nigeta,ni1/ge0/ta0
+niichan,nI1/can1
+nijuuen,ni0/GU1 en1
+nikai,ni1/kai1
+nikaidate,ni1/kai1 da1/te0
+nikaidatebasu,ni1/kai1 da1/te0/ba1/sW0
+nimo,ni1 mo1
+nimotsu,ni1/mot0/su0
+ninjin,nin1/Gin0
+nioi,ni0/oi1
+nireru,ni1/re0/ru0
+nisan,ni1/san1
+nisanko,ni1/san0/ko1
+nita,ni1/ta0
+nite,ni1/te0
+nka,n1 ka1
+nn,n1/n0
+nni,ni1
+no,no1
+no_ÅıÅg,no1
+nobita,no1/bi0/ta0
+nobotte,no0/bot1/te0
+nojisan,no1/Gi0/san1
+noketee,no1/ke0/tE0
+noketegoran,no1/ke0/te0 go0/ran1
+nokkete,nok1/ke0/te0
+nokkeyoo,nok1/ke0/yO1
+nomanai,no1/ma0/nai1
+nomenai,no1/me0/nai1
+nomichi,no1 mi1/ci0
+nomimono,no0/mi1/mo0/no1
+nomo,no1 mo1
+nomu,no1/mu0
+nonda,non1/da0
+nonde,non1/de0
+nondekudasai,non1/de0 ku1/da0/sai1
+none,no1 ne1
+noni,no1 ni1
+nonjatta,non0/Gat1/ta0
+nonjau,non0/Gau1
+noo,nO1
+noranai,no1/ra0/nai1
+norenai,no1/re0/nai1
+norimashita,no1/ri0/ma1/SY0/ta1
+norimashitaa,no1/ri0/ma1/SY0/tA1
+norimasu,no1/ri0/ma1/sW0
+noroo,no0/rO1
+noru,no1/ru0
+nosechaoo,no1/se0/caO1
+nosen,no0/sen1
+noseru,no1/se0/ru0
+noseta,no1/se0/ta0
+nosetara,no1/se0/ta1/ra0
+nosete,no1/se0/te0
+nosetekudasaai,no1/se0/te0 ku1/da0/sai1
+noseyo,no1/se0/yo1
+noshit,no1/Sit0
+noshitageyo,no1/Si0 ta1/ge0/yo1
+noshite,no1/SY0/te0
+noste,no1/SY0/te0
+notta,not1/ta0
+nottaa,not1/tA0
+nottahan,not1/ta0/han1
+nottanotta,not1/ta0 not1/ta0
+notte,not1/te0
+nottekudasaai,not1/te0 ku1/da0/sAi1
+nottemasu,not1/te0/ma1/sW0
+notten,not0/ten1
+notteru,not1/te0/ru
+noyo,no1 yo1
+ntakusan,n1 ta1/ku0/san1
+nto,
+ntto,
+nuginugi,nu1/gi0/nu1/gi0
+nuginugii,nu1/gi0/nu1/gI0
+nugu,nu1/gu0
+nuide,nu1/i0/de1
+nukeru,nu1/ke0/ru1
+nuttan,nut1/tan0
+nutte,nut1/te0
+nya,nya1
+nyaa,nyA1
+nyaan,nyAn1
+nyaanya,nyA1 nya1
+nyaanyaa,nyA1 nyA1
+nyan,nyan1
+nyanko,nyan1/ko0
+nyankoo,nyan1/kO0
+nyannyan,nyan1 nyan1
+nyao,nyao1
+nynako,nyan1/ko0
+o,o1
+oaai,o0/Ai1
+oaea,
+oagari,o1 a1/ga0/ri1
+oayo,o1 a0/yo1
+obaachan,o0/bA1/can1
+obaachantte,o0/bA1/cant1 te1
+obachan,o1/ba0/can1
+obake,o0/ba1/ke0
+obasan,o1/ba0/san1
+obebe,o0/be1/be0
+oben,o0/ben1
+obenkyoo,o0/ben1/kyO0
+obento,o0/ben1/to0
+obentoo,o0/ben1/tO0
+oboete,o1/bo0/e1/te0
+obooshi,o0/bO1/Si0
+obu,o1/bu0
+obumbu,o0/bum1/bu0
+obuto,o0/bu1/to0
+ocha,o0/ca1
+ochichatta,o1/ci0/cat1/ta0
+ochirtu,o1/ci0/ru1
+ochiru,o1/ci0/ru1
+ochiruochiru,o1/ci0/ru1 o1/ci0/ru1
+ochiruochiruochiru,o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1
+ochiruochiruochiruochiru,o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1
+ochiruochiruochiruochiruochiru,o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1
+ochiruochiruochiruochiruu,o1/ci0/ru1 o1/ci0/ru1 o1/ci0/ru1 o1/ci0/rU1
+ochiruochiruu,o1/ci0/ru1 o1/ci0/rU1
+ochita,o1/ci0/ta1
+ochitaa,o1/ci0/tA1
+odango,o0/dan1/go0
+odekake,o0/de0/ka1/ke0
+odeko,o0/de1/ko0
+odon,o0/don1
+odotte,o0/dot1/te0
+ofune,o0/hu1/ne0
+ofunee,o0/hu1/nE0
+ofuro,o1/hu0/ro1
+ofuton,o0/hu0/ton1
+ogenkankara,o0/gen1/kan0 ka0/ra1
+ogyoogi,o0/gyO1/gi0
+ohairinasai,o0/hai1/ri0/na0/sai1
+ohana,o0/ha1/na0
+ohanashi,o0/ha0/na1/Si0
+ohashi,o0/ha1/Si0
+ohayo,o1/ha0/yo1
+ohayoo,o1/ha0/yO1
+ohige,o0/hi1/ge0
+ohisan,o0/hi1/san1
+ohoho,o0/ho1/ho0
+ohoshisama,o0/ho1/Si0/sa1/ma0
+oi,oi1
+oichatta,o1/i0/cat1/ta0
+oichi,o1/i0/ci1
+oichii,o1/i0/cI1
+oichikatta,o1/i0/ci0/kat1/ta0
+oichioishi,o1/i0/ci1 o1/i0/Si1
+oide,oi1/de0
+oideoide,oi1/de0 oi1/de0
+oideoidee,oi1/de0 oi1/dE0
+oikake,o1/i0/ka1/ke0
+oikakeyoo,o1/i0/ka1/ke0/yO1
+oioioioi,oi1 oi1 oi1 oi1
+oiru,oi1/ru0
+oishi,o1/i0/Si1
+oishii,o1/i0/SI1
+oishii_ÅıÅe,o1/i0/SI1
+oishiitte,o1/i0/SIt1/te0
+oishikatta,o1/i0/Si0/kat1/ta0
+oishikattara,o1/i0/Si0/kat1/ta0/ra1
+oishioishi,o1/i0/Si1 o1/i0/Si1
+oishioishii,o1/i0/Si1 o1/i0/SI1
+oishisoo,o1/i0/Si0/sO1
+oit,o1/i0/te0
+oitage,o1/i0/ta1/ge0
+oite,o1/i0/te0
+oitechoodai,o1/i0/te0 cO1/dai0
+oitekudasai,o1/i0/te0 ku1/da0/sai1
+ojichan,o1/Gi0/can1
+ojiichan,o0/GI1/can1
+ojiisanka,o0/GI1/san1 ka1
+ojisan,o1/Gi0/san1
+ojisantachi,o1/Gi0/san1/ta1/ci0
+oka,o0/ka1
+okaachan,o0/kA1/can1
+okaasan,o0/kA1/san1
+okaeri,o0/ka1/e0/ri1
+okami,o0/ka1/mi0
+okane,o0/ka1/ne0
+okao,o0/ka1/o0
+okashii,o1/ka0/SI1
+okatachi,o0/ka1/ta0/ci1
+okatazuke,o0/ka1/ta0/zu1/ke0
+okatazukeokatazukehai,o0/ka1/ta0/zu1/ke0 o0/ka1/ta0/zu1/ke0 hai1
+okeba,o1/ke0/ba1
+okimaashu,o1/ki0/mA1/SW0
+okita,o1/ki0/ta0
+okitara,o1/ki0/ta0/ra1
+okite,o1/ki0/te0
+okiyoo,o1/ki0/yO1
+okkei,ok1/kE0
+okki,ok1/ki0
+okkii,ok1/kI0
+okkishimashita,ok1/ki0/Si0/ma1/SY0/ta1
+okkishite,ok1/ki0/SY1/te0
+okkochicha,ok0/ko1/ci0/ca1
+okkochichatta,ok0/ko1/ci0/cat1/ta0
+okkochichau,ok0/ko1/ci0/cau1
+okkotchatta,ok0/kot1/cat1/ta0
+okku,ok1/ku0
+oko,o0/ko1
+okogai,o1/ko0/gai1
+okoo,o0/kO1
+okoranai,o0/ko1/ra1/nai1
+okoreokore,o0/ko1/re0 o0/ko1/re0
+okoru,o0/ko1/ru0
+okoshite,o0/ko1/SY1/te0
+okotte,o0/kot1/te0
+okotten,o0/kot1/ten0
+okotteru,o0/kot1/te0/ru1
+oku,o1/ku0
+okuchi,o0/ku1/ci0
+okutsu,o0/kut1/su0
+okyakusan,o0/kya1/ku0/san1
+omado,o0/ma1/do0
+omakura,o0/ma1/ku0/ra1
+omamesan,o0/ma1/me0/san1
+omawarisan,o1/ma0/wa1/ri0/san1
+ombu,om1/bu0
+ombuhimo,om0/bu1/hi0 mo1
+omeme,o0/me1/me0
+omi,o1/mi0
+omikan,o0/mi1/kan0
+omimi,o0/mi1/mi0
+omizu,o0/mi1/zu0
+omma,om1/ma0
+ommo,om1/mo0
+omocha,o1/mo0/ca1
+omoi,o0/moi1
+omoshiroi,o0/mo1/Si0/ro1/i0
+omou,o0/mO1
+omugi,o0/mu1/gi0
+omukae,o1/mu0/ka1/e0
+omuraisu,o1/mu0/rai1/su0
+omuretsu,o1/mu0/ret1/su0
+onagadori,o0/na1/ga0/do1/ri0
+onaji,o0/na1/Gi0
+onaka,o0/na1/ka0
+oneechan,o0/nE1/can1
+onenne,o0/nen1/ne0
+onenneshite,o0/nen1/ne0 SY1/te0
+onigiri,o1/ni0/gi1/ri0
+oniichan,o0/nI1/can1
+oningyosan,o0/nin1/gyo0/san1
+onnaji,on0/na1/Gi0
+oo,O1
+ooaji,O1/a1/Gi0
+oochi,O1/ci0
+oodanhodoo,O1/dan0 ho0/dO1
+oodon,O1/don0
+oodori,O1/do1/ri0
+ooen,O1/en0
+ooi,O1/i0
+ooioioi,O1/i0 oi1 oi1
+ooisho,O1/i0/So1
+ookami,O1/ka0/mi0
+ooki,O0/ki1
+ookii,O0/kI1
+ookina,O1/ki0 na1
+oooi,O1/oi1
+ooq,O1
+oorai,O1/rai0
+oota,O1/ta0
+ootatchi,O1/tat1/ci0
+ooto,O1/to0
+ootobai,O1/to0/bai1
+oppai,op1/pai0
+oq,o1
+orazu,o0/ra1/zu0
+orechau,o1/re0/cau1
+ori,o1/ri0
+orikoo,o1/ri0/kO1
+orikoosan,o1/ri0/kO1/san1
+orinasai,o1/ri0/na0/sai1
+oriq,o1/ri0
+orireru,o1/ri0/re1/ru0
+orireta,o1/ri0/re1/ta0
+oriru,o1/ri0/ru1
+orite,o1/ri0/te1
+oru,o1/ru0
+osakana,o0/sa1/ka0/na1
+osakanayasan,o0/sa1/ka0/na1/ya0/san1
+osampo,o0/sam1/po0
+osandemo,o0/san1 de0/mo1
+osara,o1/sa0/ra1
+osaraa,o1/sa0/rA1
+osarusan,o0/sa1/ru0/san1
+osatoo,o0/sa0/tO1
+osembe,o0/sem1/be0
+osentakumo,o0/sen1/ta0/ku0 mo1
+osewa,o0/se1/wa0
+oshiete,o1/Si0/e1/te0
+oshigoto,o0/Si1/go0/to1
+oshii,o0/SI1
+oshiirete,o0/SI1/re0/te1
+oshikko,o0/Sik1/ko0
+oshikkosuru,o0/Sik1/ko0 su0/ru1
+oshimaai,o1/Si0/mAi1
+oshimai,o1/Si0/mai1
+oshimashita,o1 Si0/ma1/SY0/ta0
+oshiri,o0/Si1/ri0
+oshite,o1 SY1/te0
+oshoogatsu,o1/SO0/gat1/su0
+oshuwari,o1/Su0/wa1/ri0
+oshuwarii,o1/Su0/wa1/rI0
+oshuwarishitemashu,o1/Su0/wa1/ri0 SY1/te0/ma1/SW0
+osoku,o0/so1/ku0
+osu,o1/su0
+osushi,o0/su1/Si0
+osuwari,o1/su0/wa1/ri0
+otchatta,ot0/cat1/ta0
+otete,o0/te1/te0
+otetetsunaide,o0/te1/te0 tsu0/nai1/de0
+oto,o1/to0
+otokeisan,o0/to0/kE1/san1
+otomodachi,o0/to1/mo0/da1/ci0
+otoochan,o0/tO1/can1
+otsukai,ot1/su0/kai1
+otsukisama,ot0/su1/ki0/sa1/ma0
+otsukisan,ot0/su1/ki0/san1
+otsukue,ot0/su1/ku0/e1
+otsume,ot1/su0/me1
+otta,ot1/ta0
+otte,ot1/te0
+otto,ot1/to0
+ottottotto,ot0/tot1 tot1/to0
+ottottottotto,ot0/tot1 tot1/tot0 to1
+ouchi,o0/u1/ci0
+owari,o0/wa1/ri0
+owaru,o0/wa1/ru0
+owatchatta,o1/wa0/cat1/ta0
+owatta,o0/wat1/ta0
+owatte,o0/wat1/te0
+oyaoya,o1/ya0 o1/ya0
+oyaq,o1/ya0
+oyasumi,o0/ya1/su0/mi1
+oyasuminasai,o0/ya1/su0/mi1/na0/sai1
+oyatsu,o0/yat1/su0
+oyoyoyoyoyoyoyoyo,
+oyu,o1/yu0
+pa,pa1
+paa,pA1
+paai,pAi1
+paan,pAn1
+paapiipaapiipaapii,pA1/pI1 pA1/pI1 pA1/pI1
+paapu,pA1/pu0
+pachin,pa0/cin1
+pachipachi,pa1/ci0/pa1/ci0
+pachiq,pa1/ci0
+pai,pai1
+paishita,pai1 SY1/ta0
+pakapaka,pa1/ka0/pa1/ka0
+pakupaku,pa1/ku0/pa1/ku0
+pampan,pam1/pan1
+pan,pan1
+pandasan,pan1/da0/san1
+panshite,pan1 SY1/te0
+pantsu,pant1/su0
+papa,pa1/pa0
+pappa,pap1/pa0
+pasaq,pa1/sa0
+pashan,pa0/San1
+patakan,pa1/ta0/kan1
+patan,pa0/tan1
+patokaa,pa1/to0/kA1
+pe,pe1
+pechan,pe1/can1
+pei,pE1
+pen,pen1
+peppe,pep1/pe0
+peshan,pe0/San1
+pi,pi1
+pibo,pi1/bo0
+piek,
+pii,pI1
+piihyororo,pI1 hyo1/ro0/ro0
+piii,pI1
+piipii,pI1/pI1
+piipoopiipoo,pI1/pO1 pI1/pO1
+piipopiipo,pI1/po0 pI1/po0
+pikapika,pi1/ka0/pi1/ka0
+pimpin,pim1/pin1
+pimpom,pim1/pom1
+pin,pin1
+pinku,pin1/ku0
+pinpon,pin1/pon1
+pipopipopi,pi1/po0 pi1/po0 pi1
+pipopipopipopipoo,pi1/po0 pi1/po0 pi1/po0 pi1/pO0
+pishu,pi1/Su0
+pittari,pit1/ta0/ri1
+piyopiyopiyo,pi1/yo0 pi1/yo0 pi1/yo0
+piyopiyopiyopiyo,pi1/yo0 pi1/yo0 pi1/yo0 pi1/yo0
+piyopiyopiyopiyoo,pi1/yo0 pi1/yo0 pi1/yo0 pi1/yO0
+po,po1
+poi,poi1
+poketto,po0/ket1/to0
+pokin,po0/kin1
+pokon,po0/kon1
+pompon,pom1 pon1
+pompusha,pom1/pu0/Sa1
+pon,pon1
+ponponpon,pon1 pon1 pon1
+poo,pO1
+pooi,pOi1
+poon,pOn1
+poopoopoopoo,pO1/pO0 pO1/pO0
+popo,po1/po0
+popoo,po1/pO0
+poppo,pop1/po0
+poppoo,pop1/pO0
+poppoopoppoo,pop1/pO0 pop1/pO0
+poppopoppoo,pop1/po0 pop1/pO0
+poppoppo,pop1/pop1/po0
+popposhusshu,pop1/po0 Sus1/Su0
+pu,pu1
+puchi,pu1/ci0
+puchin,pu0/cin1
+puq,pu1
+puran,pu0/ran1
+putchiin,put0/cIn1
+putchin,put0/cin1
+puu,pU1
+puun,pUn1
+pwa,pu0/wa1
+pya,pya1
+pyapya,pya1 pya1
+pyo,pyo1
+pyompyon,pyom1 pyon1
+pyoon,pyOn1
+pyu,pyu1
+pyuppyu,pyup1/pyu1
+pyuu,pyU1
+pyuun,pyUn1
+raion,rai1/on0
+raionsan,rai1/on0/san1
+raitaa,rai1/tA0
+rappa,rap1/pa0
+rasshai,ras0/Sai1
+re,re1
+reeshingukaa,rE1/Sin0/gu0/kA1
+reezooko,rE1/zO1/ko0
+reji,re1/Gi0
+rin,rin1
+ringo,rin1/go0
+ringoori,rin1/gO0 ri1
+ro,ro1
+roketto,ro0/ket1/to0
+rokkakukee,rok1/ka0/ku0/kE1
+roklu,ro1/ku0
+roku,ro1/ku0
+ronron,ron1/ron1
+roo,rO1
+ru,ru1
+ryaa,ryA1
+ryoohoo,ryO1/hO0
+s,sa1
+sa,sa1
+saa,sA1
+sagashite,sa0/ga1/SY0/te0
+sagasoo,sa1/ga0/sO1
+saigo,sai1/go0
+saikoro,sai1/ko0/ro1
+saisho,sai1/So0
+sakana,sa1/ka0/na1
+sakanasan,sa1/ka0/na1/san1
+saki,sa1/ki0
+sakitcho,sa1/kit0/co1
+sakki,sak1/ki0
+sakurambo,sa1/ku0/ram1/bo0
+sambiki,sam1/bi1/ki0
+sampo,sam1/po0
+samui,sa0/mu1/i0
+samuisamuii,sa0/mu1/i0 sa0/mu1/I0
+samukunai,sa1/mu0/ku0/nai1
+san,san1
+sankaku,san1/ka1/ku0
+sanko,san1/ko0
+sanshi,san1 Si1
+sarada,sa1/ra0/da1
+sas,sa1/se0
+sasetageru,sa1/se0/ta1/ge0/ru0
+sashite,sa1/SY0/te0
+satte,sat1/te0
+sawattara,sa0/wat1/ta0/ra1
+sayonara,sa0/yo1/na/ra1
+seejisan,sE1/ji0/san1
+seeno,sE1/no1
+seenode,sE1/no1 de1
+sekkaku,sek1/ka1/ku0
+sekken,sek0/ken1
+senaka,se0/na1/ka0
+sh,
+shaan,SAn1
+shabetta,Sa0/bet1/ta0
+shabette,Sa0/bet1/te0
+shagamenai,Sa0/ga1/me0/nai1
+shagande,Sa0/gan1/de0
+shake,Sa1/ke0
+shashin,Sa0/Sin1
+shi,Si1
+shichatta,Si0/cat1/ta0
+shichau,Si0/cau1
+shichi,Si1/ci0
+shii,SI1
+shika,Si1/ka0
+shikaku,Si0/ka1/ku0
+shikakui,Si1/ka0/ku1/i0
+shikimashoo,Si1/ki0/ma0/SO1
+shikkari,Sik1/ka0/ri0
+shikkarimotte,Sik1/ka0/ri0 mot1/te0
+shikko,Sik1/ko0
+shimaeba,Si0/ma1/e0/ba1
+shimai,Si0/mai1
+shimaimashoo,Si0/mai1/ma0/SO1
+shimaoo,Si0/maO1
+shimashita,Si0/ma1/SY0/ta0
+shimashoo,Si1/ma0/SO1
+shimashoone,Si1/ma0/SO1 ne1
+shimashu,Si0/ma1/SW0
+shimasu,Si0/ma1/sW0
+shimatta,Si0/mat1/ta0
+shimatte,Si0/mat1/te0
+shimatten,Si0/mat1/ten1
+shimau,Si0/mau1
+shimbun,Sim1/bun0
+shimeru,Si1/me0/ru0
+shimetari,Si1/me0/ta1/ri0
+shimete,Si1/me0/te0
+shimeyoo,Si1/me0/yO1
+shinai,Si0/nai1
+shinakucha,Si0/na1/ku0/ca1
+shinakya,Si1/na0/kya1
+shinasai,Si1/na0/sai1
+shindoi,Sin1/doi0
+shingoo,Sin1/gO0
+shinkansen,Sin1/kan0/sen1
+shinkonryokoo,Sin1/kon0/ryo1/kO0
+shippo,Sip1/po0
+shiranai,Si1/ra0/nai1
+shiro,Si1/ro0
+shirobai,Si1/ro0 bai1
+shit,SY1/te0
+shita,SY1/ta0
+shita_ÅıÅgno,SY1/ta0 no1
+shitaa,SY1/tA0
+shitage,SY0/ta1/ge0
+shitageta,SY0/ta1/ge0/ta0
+shitagete,SY0/ta1/ge0/te0
+shitageyo,SY0/ta1/ge0/yo1
+shitahan,SY1/ta0/han1
+shitaharu,SY1/ta0/ha1/ru0
+shitai,SY0/tai1
+shitan,SY0/tan1
+shitara,SY0/ta1/ra0
+shitaro,SY0/ta1/ro0
+shite,SY1/te0
+shiteagenasai,SY1/te0 a1/ge0/na0/sai1
+shitechoodai,SY1/te0 cO1/dai0
+shitee,SY1/tE0
+shitegoran,SY1/te0 go0/ran1
+shitehen,SY1/te0/hen1
+shiteiru,SY1/te0 i1/ru0
+shiteita,SY1/te0 i1/ta0
+shitekita,SY1/te0 ki1/ta0
+shitekudasaai,SY1/te0 ku1/da0/sAi1
+shitekudasai,SY1/te0 ku1/da0/sai1
+shitemorainasai,SY1/te0 mo0/rai1/na0/sai1
+shiten,SY0/ten1
+shitenai,SY1/te0/nai1
+shitenne,SY0/ten1 ne1
+shiteru,SY1/te0/ru0
+shiteta,SY1/te0/ta0
+shitete,SY1/te0/te0
+shiteyaro,SY1/te0 ya0/ro1
+shitoite,SY1/te1 o1/i0/de1
+shitokimashoo,SY1/te0 o1/ki0/ma0/SO1
+shiyo,Si1/yo1
+shiyoo,Si1/yO1
+sho,So1
+shoberukaa,So1/be0/ru0 kA1
+shoko,So1/ko0
+shokoshoko,So1/ko0 So1/ko0
+shoo,SO1
+shooboojidoosha,SO0/bO1/Gi0/dO1/Sa0
+shooboosha,SO0/bO1/Sa0
+shoototsu,SO0/tot1/su0
+shore,So1/re0
+shoshoshoshoshosho,
+shugoi,Su0/go1/i0
+shuiu,Su1/i1/u0
+shukishuki,SW1/ki0 SW1/ki0
+shumihareechan,Su1/mi0/ha1/rE0/can1
+shun,Sun1
+shuq,Su1
+shuru,Su1/ru0
+shurushuru,Su1/ru0 Su1/ru0
+shushu,Sus1/Su0
+shusshupoppo,Sus1/Su0 pop1/po0
+shusshuppoppo,Sus1/Sup0/pop1/po0
+shusshuupoppo,Sus1/SU0/pop1/po0
+shusshuupoppoo,Sus1/SU0 pop1/pO0
+shuu,SU1
+shuun,SUn1
+shuupoppo,SU1 pop1/po0
+shuushishuushi,SU1/Si0 SU1/Si0
+so,so1
+soid,soi1/de0
+soide,soi1/de0
+sok,so1/ko0
+soko,so1/ko0
+sonna,son1/na0
+sonnani,son1/na0 ni1
+sonnna,son1/na0
+sono,so1/no0
+soo,sO1
+soo_ÅıÅg,sO1
+sooda,sO1 da1
+sooka,sO1 ka1
+soora,sO1/ra0
+sooseeji,sO1/sE0/Gi1
+soosoo,sO1 sO1
+soosoosoo,sO1 sO1 sO1
+soosoosoosoo,sO1 sO1 sO1 sO1
+soososooso,sO1 so1 sO1 so1
+sootto,sOt1 to1
+sooy,sO1 yo1
+sora,so1/ra0
+sore,so1/re0
+sorede,so1/re0/de1
+soreja,so1/re0 ja1
+sorekara,so1/re0/ka1/ra0
+sorekaraa,so1/re0/ka1/rA0
+soroban,so1/ro0/ban1
+soshitara,so1/SY0/ta0/ra1
+sotchi,sot1/ci0
+soto,so1/to0
+ss,
+su,su1
+su^i^ka,sui1/ka0
+suberidai,su0/be1/ri0/dai1
+suberu,su0/be1/ru0
+subetchatta,su0/bet1/cat1/ta0
+subetta,su0/bet1/ta0
+sugoi,su0/go1/i0
+sugoku,su0/go1/ku0
+sugu,su1/gu0
+suharechan,su0/ha1/re0/can1
+suika,sui1/ka0
+suimasen,su1/i0/ma0/sen1
+suisoo,sui1/sO0
+suita,sui1/ta0
+suki,sW1/ki0
+sukida,sW1/ki0 da1
+sukina,sW1/ki0 na1
+sukisuki,sW1/ki0 sW1/ki0
+sukisukini,sW1/ki0 sW1/ki0 ni1
+sukisukishite,sW1/ki0 sW1/ki0 SY1/te0
+sukisukiwa,sW1/ki0 sW1/ki0 wa1
+sukoppu,su0/kop1/pu0
+sukutta,su0/kut1/ta0
+sumiharechaan,su1/mi0/ha1/re0/cAn1
+sumiharechan,su1/mi0/ha1/re0/can1
+sun,sun1
+supagetti,su1/pa0/get1/ti0
+supesharu,su0/pe1/Sa0/ru1
+supo,su0/po1
+supootsukaa,su0/pOt1/su0/kA1
+supun,su0/pun1
+supuun,su0/pUn1
+sureba,su1/re0/ba1
+suru,su1/ru
+sutoppu,su0/top1/pu0
+suwan,su0/wan1
+suwarinasai,su0/wa1/ri0/na0/sai1
+suwaru,su0/wa1/ru0
+suwatte,su0/wat1/te0
+suwattenasai,su0/wat1/te0/na0/sai1
+ta,ta1
+taa,tA1
+taan,tAn1
+taata,tA1/ta0
+tabechatta,ta1/be0/cat1/ta0
+tabechatte,ta1/be0/cat1/te0
+tabechau,ta1/be0/cau1
+tabenasai,ta1/be0/na0/sai1
+tabereru,ta1/be0/re0/ru1
+tabero,ta1/be0/ro1
+taberu,ta1/be0/ru0
+tabesahite,ta1/be0/sa1/SY0/te1
+tabesasete,ta1/be0/sa1/se0/te1
+tabesashite,ta1/be0/sa1/SY0/te1
+tabeta,ta1/be0/ta0
+tabetai,ta1/be0/tai1
+tabete,ta1/be0/te0
+tabetekudasaai,ta1/be0/te0 ku1/da0/sAi1
+tabetekudasai,ta1/be0/te0 ku1/da0/sai1
+tabetekudashai,ta1/be0/te0 ku1/da0/sai1
+tabeten,ta1/be0/ten1
+tabeteru,ta1/be0/te0/ru1
+tabeyo,ta1/be0/yo1
+tabeyoo,ta1/be0/yO1
+tabun,ta1/bun0
+tachi,ta1/ci0
+tachitatchi,ta1/ci0 tat1/ci0
+tachitatchii,ta1/ci0 tat1/cI0
+tadaima,ta0/dai1/ma0
+taihen,tai1/hen0
+taionkee,tai1/on0/kE1
+taitai,tai1/tai1
+taiya,tai1/ya0
+takai,ta0/kai1
+takaitaka,ta0/kai1 ta0/ka1
+takaitakaai,ta0/kai1 ta0/kAi1
+takaitakai,ta0/kai1 ta0/kai1
+takaitakaii,ta0/kai1 ta0/kaI1
+takaitakaitakaitakaai,ta0/kai1 ta0/kai1 ta0/kai1 ta0/kAi1
+takaitakii,ta0/kai1 ta0/kI1
+takaku,ta0/ka1/ku0
+takataka,ta0/ka1 ta0/ka1
+takatakaai,ta0/ka1 ta0/kAi1
+takatakai,ta0/ka1 ta0/kai1
+takigi,ta0/ki1/gi0
+takitakaai,ta0/ki1 ta0/kAi1
+takitakaaiai,ta0/ki1 ta0/kAi1/ai1
+takitaki,ta1/ki0/ta1/ki0
+takitakisuru,ta1/ki0/ta1/ki0 su0/ru1
+takotako,ta1/ko0 ta1/ko0
+taku,ta1/ku0
+takusan,ta1/ku0/san1
+takushan,ta1/ku0/San1
+takushii,ta1/ku0/SI1
+tamatama,ta1/ma0/ta1/ma0
+tan,tan1
+tankuroorii,tan1/ku0/rO1/rI0
+tantan,tan1/tan1
+tanukisan,ta0/nu1/ki0/san1
+taoreru,tao1/re0/ru0
+taosu,tao1/su0
+taranai,ta1/ra0/nai1
+tarin,ta1/rin0
+tashika,ta1/Si0/ka1
+tat,
+tatahen,ta1/ta0/hen1
+tataitara,ta0/ta1/i0/ta0/ra1
+tataku,ta0/ta1/ku0
+tatanakya,ta0/ta1/na0/kya1
+tatashite,ta1/ta1 SY1/te0
+tatata,ta1 ta1 ta1
+tatchatta,tat0/cat1/ta0
+tatchi,tat1/ci0
+tatchii,tat1/cI0
+tatchiii,tat1/cI1/i0
+tatchitachii,tat1/ci0 ta1/cI0
+tatchitatchi,tat1/ci0 tat1/ci0
+tatchitatchii,tat1/ci0 tat1/cI0
+tatchitatchiiii,tat1/cI0 tat1/cI0/I0
+tateru,ta1/te0/ru0
+tatetara,ta1/te0/ta0/ra1
+tatete,ta1/te0/te0
+tatsu,tat1/su0
+tatta,tat1/ta0
+tatte,tat1/te0
+tchaoo,
+tchatta,
+te,te1
+tearatte,te1 a0/rat1/te0
+tebukuro,te1/bu1/ku0/ro1
+teeburu,tE1/bu0/ru1
+teepu,tE1/pu0
+tei,tE1
+tempuku,tem1/pu1/ku0
+ten,ten1
+tenraku,ten1/ra1/ku0
+tenten,ten1/ten0
+terebi,te1/re0/bi1
+tete,te1/te0
+tette,tet1/te0
+tisshu,tis1/Su0
+to,to1
+to^ke^i,to0/kE1
+tobikoechatta,to1/bi0/ko1/e0/cat1/ta0
+tobira,to1/bi0/ra1
+toboo,to0/bO1
+todoku,to0/do1/ku0
+toka,to0/ka1
+tokee,to0/kE1
+tokei,to0/kE1
+toki,to1/ki0
+toko,mot1/to0/ko1
+tokoro,to1/ko0/ro1
+tokui,to0/ku1/i0
+tomare,to0/ma1/re0
+tomatchatta,to0/mat1/cat1/ta0
+tombo,tom1/bo0
+ton,ton1
+tonari,to0/na1/ri0
+tonaridooshi,to0/na1/ri0/ dO1/Si0
+tonchin,ton1/cin0
+tond,ton1/de0
+tonde,ton1/de0
+tonden,ton1/den0
+tonderu,ton1/de0/ru0
+tonneru,ton1/ne0/ru1
+tonton,ton1/ton0
+toochaku,tO1/ca1/ku0
+toochan,tO1/can1
+toon,tOn1
+tooreru,tO1/re0/ru0
+toorimashita,tO1/ri0/ma1/SY0/ta0
+toorimashu,tO1/ri0/ma1/SW0
+toorimasu,tO1/ri0/ma1/sW0
+toosan,tO1/san1
+tootaa,tO1/tA0
+tootta,tOt1/ta0
+toottaa,tOt1/tA0
+tootte,tOt1/te0
+toottekitaa,tOt1/te0 ki0/tA1
+toottekudasaai,tOt1/te0 ku1/da0/sAi1
+toottekudasai,tOt1/te0 ku1/da0/sai1
+torakku,to1/rak0/ku0
+tore,to1/re0
+toreba,to1/re0/ba0
+torecha,to1/re0/ca0
+torechatta,to1/re0/cat1/ta0
+torechattaa,to1/re0/cat1/tA0
+torehen,to1/re0/hen1
+toremasen,to1/re0/ma0/sen1
+toremashita,to1/re0/ma1/SY0/ta0
+torenai,to1/re0/nai1
+toreru,to1/re0/ru0
+toreruu,to1/re0/rU0
+toreta,to1/re0/ta0
+toretaa,to1/re0/tA0
+tori,to1/ri0
+torinai,to1/ri0/nai1
+torisan,to1/ri0/san1
+toru,to1/ru0
+totan,to0/tan1
+totcha,tot1/ca0
+toto,to1/to0
+totta,tot1/ta0
+tottageta,tot1/ta0/ge0/ta1
+tottageyo,tot1/ta0/ge0/yo1
+tottara,tot1/ta0/ra1
+tottaro,tot1/ta0/ro0
+totte,tot1/te0
+tottee,tot1/tE0
+tottekinasai,tot1/te0/ki1/na0/sai1
+tottekitageyo,tot1/te0/ki0/ta1/ge0/yo1
+tottekite,tot1/te0/ki0/te1
+tottekoi,tot1/te0/koi1
+tottemo,tot1/te1/mo0
+tsitsi,ci1/ci0
+tsu,tsu1
+tsuburan,tsu1/bu0/ran1
+tsugi,tsu1/gi0
+tsugo,tsu0/go1
+tsuichatta,tsu1/i0/cat1/ta0
+tsuichau,tsui0/cau1
+tsuita,tsu1/i0/ta0
+tsuite,tsu1/i0/te0
+tsuiteru,tsu1/i0/te0/ru1
+tsukaeru,tsu0/ka1/e0/ru1
+tsukamu,tsu0/ka1/mu0
+tsukareta,tsu0/ka1/re0/ta1
+tsukau,tsu0/ka1/u0
+tsuke,tsu0/ke1
+tsukechatta,tsu1/ke0/cat1/ta0
+tsukemashoo,tsu1/ke0/ma0/SO1
+tsuken,tsu0/ken1
+tsukenai,tsu1/ke0/nai1
+tsukereba,tsu0/ke1/re0/ba1
+tsukeru,tsu0/ke1/ru0
+tsuketa,tsu1/ke0/ta0
+tsuketageyo,tsu1/ke0/ta1/ge0/yo1
+tsuketara,tsu0/ke1/ta0/ra1
+tsukete,tsu1/ke0/te1
+tsukeyoo,tsu1/ke0/yO1
+tsuku,tsu0/ku1
+tsukue,tsu1/ku0/e1
+tsukureru,tsu0/ku1/re0/ru1
+tsukuroo,tsu1/ku0/rO1
+tsukutta,tsu0/kut1/ta0
+tsukutte,tsu0/kut1/te0
+tsuman,tsu0/man1
+tsume,tsu0/me1
+tsumekonjattari,tsu1/me0/kon0/jat1/ta0/ri1
+tsumen,tsu0/men1
+tsumenai,tsu1/me0/nai1
+tsumeru,tsu0/me1/ru0
+tsumeta,tsu1/me0/ta0
+tsumetai,tsu1/me0/tai1
+tsumetaideshoo,tsu1/me0/tai1 de0/SO1
+tsumiagete,tsu1/mi0 a1/ge0/te0
+tsumiki,tsu1/mi0/ki1
+tsumoo,tsu0/mO1
+tsumu,tsu0/mu1
+tsunagatte,tsu1/na0/gat1/te0
+tsunagu,tsu0/na1/gu0
+tsunaide,tsu0/nai1/de0
+tsunda,tsun1/da0
+tsunde,tsun1/de0
+tsundeitadaita,tsun1/de0 i1/ta0/da1/i0/ta0
+tsururin,tsu1/ru0/rin1
+tsurutsuru,tsu1/ru0/tsu1/ru0
+tsuu,tsU1
+tsuujinai,
+tsuuka,tsU0/ka1
+tt,
+tta,
+ttan,tan1
+tte,te1
+tto,to1
+turinai,to1/ri0/nai1
+tya,ca
+tyatyatya,ca1/ca0/ca0
+u,u1
+ua,u0/a1
+uaa,u0/A1
+uahaha,u0/a1/ha0/ha0
+ubaguruma,u1/ba0/gu0/ru1/ma0
+uchi,u1/ci0
+ue,u1/e0
+ueenyii,u0/E1/nyI1
+ueta,u1/e0/ta0
+ugoichatta,u0/go1/i0/cat1/ta0
+ugoita,u0/go1/i0/ta0
+ugoite,u0/go1/i0/te0
+ugok,u0/go1/ku0
+ugokan,u0/go1/kan0
+ugokanai,u0/go1/ka0/nai1
+ugokashit,u0/go1/ka0/SY1/te0
+ugokashitaroo,u0/go1/ka0/SY1/ta0/rO1
+ugokashite,u0/go1/ka0/SY1/te0
+ugotandesu,u0/go1/tan1 de1/sW0
+uhun,u0/hun1
+ui^nnaa,u0/in1/nA1
+uii,u0/I1
+uinna,u0/in1/na1
+uinnaa,u0/in1/nA1
+ukecha,u1/ke0/ca0
+uketa,u1/ke0/ta0
+umaku,u1/ma0/ku1
+umauma,u0/ma1/u0/ma1
+un,un1
+unbuubuu,un1 bU1/bU1
+unchi,un1 chi1
+unchitte,un1 cit1/te1
+unda,un1 da1
+unde,un1 de1
+undoobusoku,un1/dO0/bu0/so1/ku0
+undookai,un1/dO0/kai1
+undooshite,un1/dO0 SY1/te0
+unkore,un1 ko1/re0
+unten,un1/ten0
+untenshusan,un1/ten0/Su1/san1
+unterebi,un1 te1/re0/bi1
+unun,un1 un1
+uoq,u0/o1
+ura,u0/ra1
+ureshii,u1/re0/SI1
+ureshisoo,u1/re0/Si0/sO1
+urusai,u1/ru0/sai1
+usachan,u1/sa0/can1
+usagisan,u0/sa1/gi0/san1
+ushiro,u1/Si0/ro1
+utaeba,u0/ta1/e0/ba1
+utaen,u0/ta1/en0
+utainasai,u0/tai1/na0/sai1
+utaoo,u0/ta1/O0
+utatte,u0/tat1/te0
+uu,U1
+uua,U1/a0
+uue,U1/e0
+uukiyaayaa,U1/ki0 yA1/yA0
+uun,Un1
+uunda,Un1 da1
+uunuun,Un1 Un1
+uuu,U1/u0
+uuun,U1/un0
+uuuu,U1/U0
+uuuun,U1/Un0
+uuuuuu,U
+uuwa,U0/wa1
+uwa,u0/wa1
+uwaa,u0/wA1
+uwakje,u0/wa1
+uwauwa,u0/wa1 u0/wa1
+uwauwaan,u0/wa1 u0/wAn1
+video,bi1/de0/o1
+wa,wa1
+wa_ÅıÅg,wa1
+waa,wA1
+waabu,wA1/bu0
+waai,wA1/i0
+waan,wAn1
+waaq,wA1
+wadoko,wa1 do1/ko0
+wagomu,wa0/go1/mu0
+wakannai,wa0/kan1/nai1
+wakaran,wa1/ka0/ran1
+wakaranai,wa0/ka1/ra0/nai1
+wakaranakatta,wa0/ka1/ra0/na0/kat1/ta0
+wakarimashita,wa0/ka1/ri0/ma1/SY0/ta0
+wakaru,wa0/ka1/ru0
+wakatta,wa0/kat1/ta0
+waku,wa1/ku0
+wan,wan1
+wanage,wa0/na1/ge0
+wanchan,wan1/can1
+wanwa,wan1/wa1
+wanwaan,wan1/wAn1
+wanwan,wan1/wan1
+wanwanchan,wan1/wan1/can1
+wanwanwanwan,wan1/wan1 wan1/wan1
+waq,wa
+warui,wa0/ru1/i0
+wassho,was1/So0
+wataroo,wa1/ta0/rO1
+wataru,wa0/ta1/ru0
+watashinasai,wa0/ta1/Si0/na0/sai1
+watatte,wa0/tat1/te0
+wau,wa1/u0
+wawa,wa1/wa1
+wazato,wa1/za0/to1
+wee,wE1
+whoopeng,
+whoopseng,
+wii,wI1
+wo,wo1
+won,won1
+woo,wO1
+wuuwuuwuu,wU1/wU1/wU1
+www,
+ya,ya1
+yaa,yA1
+yaai,yA1/i0
+yabutta,ya0/but1/ta0
+yabuttaa,ya0/but1/tA0
+yabuttara,ya0/but1/ta0/ra1
+yahan,ya0/han1
+yaharu,ya1/ha0/ru0
+yai,yai
+yama,ya1/ma0
+yame,ya1/me0
+yameta,ya1/me0/ta0
+yametan,ya1/me0/tan1
+yamete,ya1/me0/te0
+yan,yan1
+yanka,yan1 ka1
+yappari,yap1/pa0/ri1
+yappon,yap0/pon1
+yaq,ya1
+yaranai,ya1/ra0/nai1
+yarareta,ya0/ra1/re0/ta0
+yareba,ya1/re0/ba1
+yarimashoo,ya1/ri0/ma0/SO1
+yarinasai,ya1/ri0/na0/sai1
+yarinikui,ya1/ri0/ni0/ku1/i0
+yaritai,ya1/ri0/tai1
+yaro,ya0/ro1
+yaroo,ya0/rO1
+yaru,ya1/ru0
+yasashiku,ya0/sa1/Si0/ku1
+yasui,ya0/sui1
+yatsu,yat1/su0
+yatt,yat1/ta0
+yatta,yat1/ta0
+yattaa,yat1/tA0
+yattara,yat1/ta0/ra1
+yattatte,yat0/tat1/te0
+yatte,yat1/te0
+yattee,yat1/tE0
+yattekinasai,yat1/te0 ki1/na0/sai1
+yatten,yat0/ten1
+ye,ye1
+yee,yE1
+yei,yei1
+yii,yI1
+yo,yo1
+yodare,yo1 da1/re0
+yohora,yo1 ho1/ra0
+yoi,yo1/i0
+yoichoo,yo1/i0/CO1
+yoishi,yo1/i0/Si1
+yoisho,yo1/i0/So1
+yoishoo,yo1/i0/SO1
+yoishooo,yo1/i0/SO1
+yoishoooo,yo1/i0/SO1
+yoissho,yo1/is0/So1
+yoitokosho,yo1/i0/to1/ko0/So1
+yoitosho,yo1/i0/to0/So1
+yoji,yo1/Gi0
+yokatta,yo0/kat1/ta0
+yokattane,yo0/kat1/ta0 ne1
+yokkorasho,yok1/ko0/ra0/So1
+yoko,yo1/ko0
+yoku,yo1/ku0
+yomanai,yo1/ma0/nai1
+yomimasu,yo1/mi0/ma1/sW0
+yomo,yo1/mo0
+yomoo,yo1/mO0
+yomu,yo1/mu0
+yon,yon1
+yondagete,yon1/da0/ge1/te0
+yonde,yon1/de0
+yondechoodai,yon1/de0 cO1/dai0
+yondekudasai,yon1/de0 ku1/da0/sai1
+yonden,yon1/den0
+yone,yo1 ne1
+yoo,yO1
+yooidon,yO1/i0/don1
+yooisho,yO1/i0/So1
+yoojin,yO1/jin0
+yooku,yO1/ku0
+yooshi,yO1/SY0
+yooshiyoshi,yO1/SY0  yo1/SY0
+yootte,yOt1/te0
+yooyoo,yO0/yO1
+yori,yo1/ri0
+yoro,yo1/ro0
+yorokondeiru,yo1/ro0/kon1/de0 i0/ru1
+yoroshii,yo1/ro0/SI1
+yoru,yo1/ru0
+yoshi,yo1/SY0
+yoshii,yo1/SI0
+yoshikochan,yo1/Si0/ko1/can1
+yoshiyoshi,yo1/SY0 yo1/SY0
+yoshiyoshii,yo1/SY0  yo1/SI0
+yoshiyoshiyoshi,yo1/SY0  yo1/SY0  yo1/SY0
+yoshiyoshiyoshiyoshi,yo1/SY0  yo1/SY0  yo1/SY0  yo1/SY0
+yotte,yot1/te0
+yottsu,yot1/tsu0
+you,yO1
+yubi,yu1/bi0
+yubiwa,yu1/bi0/wa1
+yukeba,yu1/ke0/ba1
+yuki,yu1/ki0
+yureteru,yu1/re0/te0/ru1
+yutta,yut1/ta0
+yutte,yut1/te0
+yutteru,yut1/te0/ru1
+yuu,yU1
+yuubin,yU1/bin0
+yuuenchi,yU1/en0/ci1
+yuuta,yU1/ta0
+yuute,yU1/te0
+yuutehan,yU1/te0/han1
+yuuten,yU0/ten1
+yuuteru,yU1/te0/ru1
+yuwanai,yu1/wa0/nai1
+zaa,zA1
+zaatto,zAt1 to1
+zaazaazaa,zA1 zA1 zA1
+zabuton,za1/bu0/ton1
+zembu,zem1/bu0
+zembubarabara,zem1/bu0 ba1/ra0/ba1/ra0
+zenzen,zen1/zen1
+zero,ze1/ro0
+zettai,zet1/tai0
+zhide,
+zo,zo1
+zojan,zo1 Gan1
+zoo,zO1
+zoochan,zO1/can1
+zookin,zO0/kin1
+zoosan,zO1/san1
+zooshan,zO1/san1
+zutsu,zut1/su0
+zuzuzuzuzuzuzuzu,

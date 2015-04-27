@@ -1,0 +1,800 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Ariela Target_Child, PAR Judith Mother, INV Karen
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;8.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	04-JUN-1991
+@Transcriber:	MBSM
+@Date:	17-FEB-1993
+@Situation:	Languaje sample 2
+@Comment:	books, pop-up, slide and peak
+@New Episode
+*INV:	a_ver cuéntamelo .
+*INV:	bueno luego .
+%act:	deja el libro para tomar el pop-up
+*INV:	a_ver picale el azul [/] el azul eso: .
+*INV:	a_ver para allá .
+*INV:	iii qué es ?
+*CHI:	éste [/] éste . [+ A]
+%flo:	ete ete
+%act:	CHI se ala el pop up
+%spa:	$AN
+*PAR:	quién es ?
+*PAR:	qué es esto ?
+*CHI:	éste . [+ A]
+%flo:	ethe
+%act:	CHI se ala el pop up
+%spa:	$AN
+*INV:	tu di .
+*INV:	un +...
+*PAR:	tu di .
+*CHI:	éste . [+ A]
+%flo:	ethe
+%spa:	$AN
+*INV:	hay .
+*PAR:	tu di .
+*CHI:	que es ? [+ S]
+%flo:	kes
+%spa:	$SP
+*PAR:	tu di .
+*CHI:	qué es . [+ S]
+%flo:	que es
+%spa:	$SP
+*CHI:	que . [+ S]
+%flo:	que
+%act:	juega con el pop up
+%spa:	$SP
+*INV:	yo no se .
+*CHI:	un guaguau@o . [+ S]
+%flo:	un gua guau
+%act:	CHI se ala el pop up
+%spa:	$SP
+*INV:	un gua guau .
+*PAR:	y éste .
+*CHI:	tigre . [+ A]
+%flo:	tigre
+%act:	CHI se ala el gato
+%spa:	$AN
+*INV:	un tigre muy <bien> [>] .
+*CHI:	<éste> [<] . [+ S]
+%flo:	este
+%spa:	$SP
+*PAR:	asi dale vueltecita .
+*CHI:	asi va . [+ S]
+%flo:	ai va
+%act:	CHI presiona el pop up
+%spa:	$SP
+*PAR:	asi va .
+*CHI:	sí . [+ A]
+%flo:	si
+%act:	INV ayuda a CHI a destapar un animal del pop up
+%spa:	$AN
+*INV:	iii que es .
+*INV:	un que .
+*CHI:	otro . [+ S]
+%flo:	oto
+%act:	CHI se ala al pop up
+%spa:	$SP
+*INV:	para aqui he: .
+*INV:	para allá .
+*INV:	para aquí Arielita asi .
+*INV:	eso !
+*CHI:	un conejo . [+ S]
+%flo:	un conejo
+%spa:	$SP
+*INV:	un conejo: .
+*PAR:	y éste .
+*CHI:	pollito . [+ A]
+%flo:	pollito
+%spa:	$AN
+*INV:	ya se fué .
+*INV:	ya se fue .
+*CHI:	guau guau@o . [+ S]
+%flo:	guau guau
+%spa:	$SP
+*INV:	ya se fue .
+*CHI:	tigre . [+ S]
+%flo:	tigre
+%spa:	$SP
+*INV:	eso y ya se fue .
+*CHI:	pollito . [+ S]
+%flo:	pollito
+%act:	destapa el conejo del pop up
+%spa:	$SP
+*INV:	bravo !
+%act:	INV le ense a los libros a CHI
+*INV:	me los cuentas .
+*INV:	a_ver cuentanos un cuento Arielita .
+*INV:	cual quieres de los dos .
+*CHI:	xxx . [+ U]
+%flo:	est
+%spa:	$UN
+*CHI:	xxx . [+ U]
+%flo:	ico
+%act:	CHI se ala el pop up
+%spa:	$UN
+*INV:	a_ver para allá .
+*CHI:	ese . [+ S]
+%flo:	ese
+%act:	CHI se ala el pop up
+%spa:	$SP
+*INV:	<a ver> [>] ?
+*CHI:	en cuál ? [+ S]
+%flo:	en cual
+%spa:	$SP
+*PAR:	para allá .
+*CHI:	ese . [+ S]
+%flo:	ese
+%spa:	$SP
+*INV:	e ese dale vueltas .
+*CHI:	ese . [+ S]
+%flo:	ese
+%spa:	$SP
+*INV:	hay que darle la vueta .
+*PAR:	a_ver a cual .
+*CHI:	ese . [+ S]
+%flo:	ese
+%spa:	$SP
+*INV:	hay .
+*CHI:	ese . [+ S]
+%flo:	ese
+%spa:	$SP
+*INV:	ya .
+*INV:	ahora vas a contar un cuento: .
+*INV:	hay si: .
+*CHI:	conejo . [+ S]
+%flo:	iejo
+%spa:	$SP
+*INV:	el conejo adios .
+*CHI:	pollito . [+ S]
+%flo:	polli poi
+%act:	cierra el pop up
+%spa:	$SP
+*INV:	hay ya se fué .
+*INV:	hay y ahora que estan ssh dormiditos vamos a contarles un cuento .
+*PAR:	los pongo aquí que se duerman en su cuna .
+*INV:	vamos a contarles un cuento .
+*CHI:	éste . [+ S]
+%flo:	ete
+%act:	CHI se ala el slide up
+%spa:	$SP
+*INV:	ha bueno ese .
+*INV:	para acá míra .
+*INV:	ese para aca .
+*INV:	y este para aca .
+*CHI:	éste ese . [+ S]
+%flo:	ete ese
+%spa:	$SP
+*INV:	este .
+*INV:	hay qué es esto .
+*INV:	ya viste qué es .
+*INV:	un pollito .
+*CHI:	ese . [+ S]
+%flo:	ese
+%act:	CHI se ala el slide up
+%spa:	$SP
+*INV:	que es .
+*INV:	a ti te gustan los plátanos .
+*CHI:	no . [+ A]
+%flo:	no
+%spa:	$AN
+*INV:	es un plátano ?
+*CHI:	no . [+ A]
+%flo:	no
+%spa:	$AN
+*INV:	dile a Karen que es .
+*INV:	no es un plátano .
+*INV:	que es .
+*INV:	dile !
+*INV:	si es un plátano .
+*INV:	no !
+*INV:	y aca hay otro .
+*INV:	no .
+*PAR:	dile que es Arielita .
+*CHI:	una manzana . [+ A]
+%flo:	una manzana
+%spa:	$AN
+*INV:	hay si es cierto es una manzana .
+*INV:	y éste .
+*CHI:	pollito . [+ A]
+%flo:	pollito
+%spa:	$AN
+*PAR:	donde vive el pollito .
+*INV:	quieres éste .
+*CHI:	éste [/] éste ese . [+ S]
+%flo:	este este ese
+%act:	CHI va por el pop up
+%spa:	$SP
+*INV:	a_ver yo voy a_ver el cuento eh a_ver .
+*PAR:	la volteamos .
+%act:	CHI está dando la espalda a la cámara
+*CHI:	sí yo [/] yo . [+ S]
+%flo:	si yo yo
+%act:	CHI toma el pop up
+%spa:	$SP
+*INV:	hay: eso !
+*INV:	pareces remolino ya: .
+*CHI:	no puedo . [+ S]
+%flo:	no puedo
+%act:	CHI presiona un boton del pop up
+%spa:	$SP
+*PAR:	xxx xxx xxx .
+*INV:	xxx xxx xxx .
+*CHI:	no puedo . [+ S]
+%flo:	no puedo
+%spa:	$SP
+*PAR:	ya pudiste ya ves .
+*CHI:	esta dormido . [+ S]
+%flo:	ya nomido
+%act:	CHI cierra la tapa del pop up
+%spa:	$SP
+*INV:	hay dormidos ahora duermelos vamos a contarles un cuento .
+*PAR:	para que se duerman .
+*PAR:	a_ver cual les vas a contar arielita .
+%act:	CHI se lleva el pop up y lo coloca en la mesa
+*INV:	aqui [/] aqui .
+*PAR:	quiere ponerlo en la cuna .
+*INV:	a la cuna .
+*CHI:	hay [/] hay . [+ S]
+%flo:	hay hay
+%act:	CHI coloca el pop up en la mesa
+%spa:	$SP
+*PAR:	cuál te gusta este o éste ?
+*CHI:	éste . [+ A]
+%flo:	ete
+%act:	CHI se ala un libro
+%spa:	$AN
+*PAR:	a_ver cuentales un cuento .
+*INV:	xxx xxx xxx .
+*PAR:	qué se puede ir preguntando ?
+*INV:	si .
+*PAR:	que es esto mira un +...
+*CHI:	pollito . [+ A]
+%flo:	pollito
+%spa:	$AN
+*PAR:	paja:rito !
+*INV:	hay !
+*PAR:	y esto cómo hace .
+*CHI:	mu:@o . [+ A]
+%flo:	mu:
+%act:	CHI se ala la vaca
+%spa:	$AN
+*PAR:	que es una que .
+*CHI:	la vaca . [+ A]
+%flo:	la vaca
+%act:	CHI se ala la vaca
+%spa:	$AN
+*INV:	una vaca .
+*INV:	a_ver ahora cuentame este .
+*INV:	ya se despertaron .
+*CHI:	ya . [+ A]
+%flo:	ya
+%act:	CHI va por el pop up
+%spa:	$AN
+*INV:	ya traelos .
+*PAR:	traelos para que les cuentes un cuento .
+*CHI:	mira . [+ A]
+%flo:	ia
+%act:	CHI ve el pop up
+%spa:	$SP
+*INV:	cuentales un cuento .
+*INV:	hay !
+*INV:	ya salio .
+*INV:	mira ense ales diles .
+*PAR:	esto es un +...
+*CHI:	oso . [+ A]
+%flo:	olo
+%act:	CHI ve el cuento
+%spa:	$AN
+*INV:	un que: .
+*CHI:	oso . [+ A]
+%flo:	olo
+%spa:	$AN
+*INV:	ha !
+*PAR:	y este dile al pollo que es este .
+*INV:	a_ver que es este [//] que es este Ariela .
+*INV:	te está preguntando el pollo .
+*INV:	que es .
+*INV:	cuéntales el cuento al pollito Arielita .
+*INV:	a_ver yo .
+*INV:	había una vez iii que llevaban un perro bien grande .
+*PAR:	el remolino .
+*INV:	a_ver vamos a_ver este cuento si: .
+*INV:	te voy a contar este cuento Arielita .
+*INV:	mira quieres oir este cuento te lo voy a contar .
+*CHI:	no puedo . [+ S]
+%flo:	no puedo
+%act:	CHI juega con el pop up
+%spa:	$SP
+*INV:	no puedo hay !
+*INV:	a_ver quedense aqui les vamos a contar un cuento yo y arielita he:
+	.
+*INV:	diles tu .
+*INV:	una dos tres cuentalo .
+%act:	INV le da a CHI el cuento
+*CHI:	un gua guau@o . [+ S]
+%flo:	un gua guau
+%spa:	$SP
+*INV:	aja: .
+*CHI:	grande . [+ S]
+%flo:	grande
+%spa:	$SP
+*CHI:	xxx . [+ U]
+%flo:	jen
+%act:	CHI ve el libro
+%spa:	$UN
+*INV:	y luego .
+*CHI:	xxx . [+ U]
+%flo:	ie
+%act:	CHI se ala el libro
+%spa:	$UN
+*INV:	Beto [/] Beto .
+*CHI:	este .
+%flo:	ete
+%spa:	$SP
+*INV:	Enrique ?
+*INV:	se llama .
+*INV:	llevan al perro .
+*INV:	a donde lo llevan a_ver .
+*INV:	cuentame .
+*CHI:	con Beto . [+ A]
+%flo:	con yeto
+%spa:	$AN
+@New Episode
+@Situation:	Languaje Sample 1.
+@Comment:	Stimuli are books abacus rattle car puppets stacking blocks
+	stacking blocks pop-up fisher price farm
+*PAR:	que hago con esto mira te voy a dar para que le des al bebé .
+*INV:	toma mira .
+%act:	PAR le da a CHI una taza, juegan con el bebé y las frutas
+*PAR:	hazme por_favor de comer .
+*CHI:	ya [/] ya [/] ya . [+ S]
+%flo:	ya ya ya
+%act:	CHI le da la taza al bebé
+%spa:	$UN
+*CHI:	ya [/] ya [/] ya . [+ S]
+%flo:	ya ia yo
+%spa:	$SP
+*INV:	mira cuantas cosas .
+*CHI:	no llores [/] no llores . [+ S]
+%flo:	noiyo noiores
+%act:	CHI arrulla al bebé
+%spa:	$SP
+*CHI:	ni ito . [+ S]
+%flo:	niito
+%spa:	$SP
+*INV:	huy .
+*CHI:	xxx . [+ U]
+%flo:	aio a:
+%act:	alza a el bebé
+%spa:	$UN
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%spa:	$SP
+*PAR:	a_ver .
+*CHI:	ay@o ese [/] ese . [+ S]
+%flo:	ai ese ese
+%act:	CHI toma la colcha del bebé
+%spa:	$SP
+*PAR:	ok si te lo voy a poner bonito .
+*PAR:	ya orale .
+*CHI:	no [/] no . [+ S]
+%flo:	no no
+%spa:	$SP
+*PAR:	cómo son .
+*CHI:	acuesta . [+ S]
+%flo:	cueta
+%spa:	$SP
+*PAR:	aquí se acuesta .
+*CHI:	xxx xxx guardate . [+ P]
+%flo:	m: guardate
+%spa:	$PI
+*PAR:	lo guardas ?
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	aquí m: .
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*CHI:	voy a acostar a(l) bebé . [+ S]
+%flo:	vo a cota a bebe
+%spa:	$SP
+*PAR:	acostar al bebé .
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	acuestalo esta es su cunita chiquita .
+*CHI:	ya mamá: [/] mamá otro mono . [+ S]
+%flo:	ya mamá mamá otro mono
+%act:	CHI acuesta al bebé
+%spa:	$SP
+*PAR:	otro que .
+*CHI:	bebé . [+ S]
+%flo:	babé
+%spa:	$SP
+*PAR:	el otro bebé ?
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	ya se fué ?
+*CHI:	no . [+ A]
+%flo:	no
+%spa:	$AN
+*PAR:	ya no está .
+*CHI:	aquí tengo la mano . [+ S]
+%flo:	qui tengo la mano
+%spa:	$SP
+*PAR:	<ha lo tienes en la mano> [>] .
+*INV:	<ha es cierto> [<] .
+*INV:	ahí está el bebé .
+*CHI:	<no llores> [>] . [+ S]
+%flo:	no iores
+%act:	CHI arrulla al bebé
+%spa:	$SP
+*PAR:	<oye hazle> [<] de comer un pastel .
+*PAR:	dale una uvita .
+*CHI:	no . [+ A]
+%flo:	no
+%spa:	$AN
+*CHI:	ay@o . [+ S]
+%flo:	ai
+%spa:	$SP
+*PAR:	o qué le vas a hacer de comer .
+*CHI:	xxx toma . [+ S]
+%flo:	xxx toma
+%act:	CHI toma las uvas
+%spa:	$SP
+*CHI:	no [/] no . [+ S]
+%flo:	no no
+%spa:	$SP
+*CHI:	ay sacar . [+ S]
+%flo:	ai sacar
+%act:	intenta arrancar una uva
+%spa:	$SP
+*PAR:	dile que es de mentiritas .
+*CHI:	xxx . [+ U]
+%flo:	uia
+%spa:	$UN
+*PAR:	no se comen verdad .
+*CHI:	quieres . [+ S]
+%flo:	quiedes
+%spa:	$SP
+*PAR:	mejor hazle un pastel de chocolate .
+*CHI:	uvas quieres . [+ S]
+%flo:	uvas quiedes
+%spa:	$SP
+*CHI:	ay@o . [+ S]
+%flo:	ai
+%spa:	$SP
+*CHI:	mono . [+ S]
+%flo:	mono
+%spa:	$SP
+*PAR:	ya lo logro .
+*PAR:	ya [//] ya Ariel .
+*CHI:	uvita . [+ S]
+%flo:	iuta
+%spa:	$SP
+*PAR:	dile como está ?
+*CHI:	rico . [+ A]
+%flo:	ico
+%spa:	$AN
+*CHI:	ya o no . [+ S]
+%flo:	ya o no
+%spa:	$SP
+*INV:	dale un pan .
+*CHI:	pan . [+ I]
+%flo:	pan
+%spa:	$IM
+*PAR:	te va a deshacer el racimo .
+*PAR:	oye no le quieres dar un [//] en en un [//] de comer Ariela mejor
+	un huevo como en la ma ana para desayunar .
+*CHI:	quieres . [+ S]
+%flo:	quiedeth
+%spa:	$SP
+*CHI:	y la olla . [+ S]
+%flo:	e e oiya mi olla
+%act:	CHI busca la olla
+%spa:	$SP
+*PAR:	la olla .
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*INV:	aquí .
+*PAR:	o aquí mira esta es grande .
+*CHI:	esta es grande . [+ I]
+%flo:	etha eth grande
+%spa:	$IM
+*CHI:	a_ver . [+ S]
+%flo:	a ve
+%spa:	$SP
+*CHI:	al bebé . [+ S]
+%flo:	al bebé
+%spa:	$SP
+*PAR:	qué le estás haciendo .
+%act:	CHI toma la olla y la cuchara meneandola dentro de la olla
+*CHI:	huevo . [+ A]
+%flo:	huevo
+%spa:	$AN
+*INV:	m: tiene hambre el bebé .
+*CHI:	xxx cucharita . [+ P]
+%flo:	xxx coshorita
+%spa:	$PI
+%act:	PAR le da un cepillo
+*CHI:	no . [+ S]
+%flo:	no
+%act:	CHI rechaza el cepillo
+%spa:	$SP
+*PAR:	no esa no .
+*CHI:	no es esa . [+ S]
+%flo:	no e esa
+%spa:	$SP
+*PAR:	cual .
+*CHI:	es ésta . [+ S]
+%flo:	e etho
+%act:	CHI toma una cucharita
+%spa:	$SP
+*PAR:	<ha la chiquita> [>] .
+*INV:	<ha la chiquita> [<] .
+*CHI:	saco . [+ S]
+%flo:	aco
+%act:	CHI saca el bebé de su cuna
+%spa:	$SP
+*CHI:	saco . [+ S]
+%flo:	aco
+%spa:	$SP
+*PAR:	ya .
+*CHI:	la sillita . [+ S]
+%flo:	a shillita
+%spa:	$SP
+%act:	PAR sienta al bebé
+*PAR:	aquí .
+*CHI:	xxx xxx . [+ U]
+%flo:	aco aco
+%spa:	$UN
+*PAR:	oye pero quiere con captsup .
+*PAR:	dice que [/] que [//] que le [//] que no está caliente que está
+	fria donde lo vas a meter .
+*CHI:	en el horno . [+ A]
+%flo:	ie nel horno
+%spa:	$AN
+*PAR:	en el horno como hace el horno .
+*CHI:	pi [/] pi [/] pi . [+ A]
+%flo:	pi pi pi
+%spa:	$AN
+@New Episode
+@Situation:	Languaje Sample 3.
+@Comment:	Stimuli are comb and brush mirror purse farm animals truck
+	family blocks puppets tools fisher price house.
+*INV:	Ariela nos va a llevar a pasear .
+%act:	INV y CHI juegan con los animales y los colocan sobre el camión .
+*INV:	Arielita nos va a llevar a pasear .
+*INV:	a dónde los vas a llevar ?
+*INV:	al zoológico .
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*INV:	a_ver .
+*PAR:	y a la feria .
+*CHI:	te acuerdas . [+ S]
+%flo:	ti acuerdas
+%spa:	$SP
+*PAR:	eh ?
+*CHI:	te acuerdas . [+ S]
+%flo:	ti acuerdas
+%spa:	$SP
+*CHI:	te acuerdas . [+ S]
+%flo:	ti acuerdas
+%spa:	$SP
+*INV:	<te acuerdas> [>] .
+*PAR:	<te acuerdas> [<] .
+*PAR:	si me acuerdo .
+%act:	INV le ense a a CHI los mu ecos
+*INV:	hay aquí yo también e [//] yo también quiero ir .
+*PAR:	hay mira .
+*PAR:	aquí está la mamá .
+*PAR:	y este quién es ?
+*CHI:	el se or . [+ A]
+%flo:	e sienor
+%spa:	$AN
+*PAR:	el se or es el papá de ella .
+*PAR:	papi [/] papi .
+*PAR:	toma quien quieres .
+*PAR:	a la mamá o al papá o a la bebé .
+*CHI:	todos .
+%flo:	toos
+%spa:	$AN
+*PAR:	todos .
+*CHI:	xxx . [+ U]
+%flo:	o a char
+%spa:	$UN
+*PAR:	a_ver llevalos a pasear .
+*PAR:	aquí está esto muy [/] muy peligroso .
+*CHI:	hay se cae . [+ S]
+%flo:	a the cai
+%act:	CHI jala el camión
+%spa:	$SP
+*PAR:	hay que tontita .
+*PAR:	hay van todos .
+*PAR:	a dónde los vas a llevar .
+*CHI:	xxx . [+ U]
+%flo:	a the
+%spa:	$UN
+*CHI:	sus zapatos . [+ S]
+%flo:	sush thapatos
+%spa:	$SP
+*PAR:	sus zapatos de qué color son ?
+*CHI:	xxx . [+ U]
+%flo:	roj
+%spa:	$UN
+*CHI:	color . [+ S]
+%flo:	color
+%spa:	$SP
+*PAR:	<que> [<] .
+*PAR:	café .
+*CHI:	la silla . [+ S]
+%flo:	Ia thia
+%act:	CHI sienta al papá
+%spa:	$SP
+*PAR:	yo te lo voy a sentar .
+*CHI:	ya está se or . [+ P]
+%flo:	ya tá seior
+%spa:	$PI
+*CHI:	sus zapatos . [+ S]
+%flo:	sus thapototh
+%act:	CHI toma a el papá y ve sus zapatos
+%spa:	$SP
+*PAR:	de que color son .
+*CHI:	color . [+ I]
+%flo:	color
+%spa:	$IM
+*PAR:	color .
+*CHI:	verde . [+ A]
+%flo:	velde
+%spa:	$AN
+*PAR:	verdes muy bien .
+*CHI:	xxx . [+ U]
+%flo:	thita
+%spa:	$UN
+*PAR:	a_ver y que es este animal .
+*CHI:	parar . [+ S]
+%flo:	parar
+%spa:	$SP
+*PAR:	he: .
+*CHI:	para la nena . [+ S]
+%flo:	pala la nena
+%spa:	$SP
+*PAR:	ha para la nena .
+*INV:	a la nena .
+*PAR:	la nena qué está tomando oye ?
+*CHI:	leche . [+ A]
+%flo:	leshe
+%spa:	$AN
+*PAR:	si está tomando leche .
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	y ese qué es un are +...
+*CHI:	gua guau@o . [+ A]
+%flo:	gua guau
+%spa:	$AN
+*PAR:	y este como hace .
+*CHI:	borrego . [+ S]
+%flo:	bodego
+%spa:	$SP
+*PAR:	borrego .
+*PAR:	y este .
+*CHI:	vaca . [+ A]
+%flo:	vaca
+%spa:	$AN
+*PAR:	sabes que tiene en su cuello una campanita que sabes como hace .
+*PAR:	como hace la campanita .
+*PAR:	tilin [/] tilin .
+*INV:	tilin [/] tilin .
+*PAR:	y éste qué es .
+*CHI:	la ni ita se para . [+ A]
+%flo:	la ninita she pada
+%spa:	$AN
+*INV:	la ni ita se para ?
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	si a_ver .
+*PAR:	ahí está .
+*CHI:	ya se paro . [+ S]
+%flo:	ya the paro
+%spa:	$SP
+*INV:	ya se paro .
+*INV:	la quieres subir al caballo a la nenita para que la paseen como en
+	chapultepec .
+*INV:	a_ver subela .
+*INV:	eso !
+*INV:	mira como se va .
+*INV:	el caballo como hace clock [/] clock [/] clock .
+*INV:	a_ver subela .
+*CHI:	uvas . [+ S]
+%flo:	viath
+%spa:	$SP
+*INV:	venganse a comer .
+*INV:	ya va a comer la familia .
+*INV:	a_ver aquí la bebé .
+*PAR:	la chiquita .
+*INV:	el papá aquí .
+*INV:	dónde está el papá ?
+*CHI:	no sé . [+ A]
+%flo:	no the
+%spa:	$AN
+*INV:	búscalo .
+*CHI:	xxx . [+ U]
+%flo:	put
+%spa:	$UN
+*INV:	hay ahi está .
+*CHI:	xxx . [+ U]
+%flo:	e
+%spa:	$UN
+*INV:	dónde se va a sentar ?
+*CHI:	aquí . [+ A]
+%flo:	aqui
+%spa:	$AN
+*INV:	aquí .
+*INV:	y que van a comer .
+*INV:	quieren esto ?
+*CHI:	si . [+ A]
+%flo:	si
+%spa:	$AN
+*PAR:	qué es ?
+*PAR:	cocinales tu .
+*INV:	a_ver cocinale tu .
+*PAR:	con estos .
+*PAR:	que vas a hacer .
+*CHI:	xxx xxx . [+ U]
+%flo:	etho hua
+%spa:	$UN
+*PAR:	que: .
+*CHI:	un huevo . [+ A]
+%flo:	u huevo
+%spa:	$AN
+*INV:	un huevo .
+*CHI:	en su plato . [+ S]
+%flo:	en thu plato
+%spa:	$SP
+*INV:	n: .
+*CHI:	y tu plato . [+ S]
+%flo:	y tu plato
+%spa:	$SP
+*INV:	gracias .
+%act:	CHI le da un plato a INV
+*PAR:	ora a la bebé no va a comer ?
+*CHI:	sí . [+ A]
+%flo:	thi
+%spa:	$AN
+*PAR:	que le vas a hacer .
+*CHI:	pues un huevo . [+ A]
+%flo:	poth un huevo
+%spa:	$AN
+*PAR:	también .
+*PAR:	como a ella le encantan .
+*CHI:	su cuchara . [+ S]
+%flo:	thu cuchara
+%act:	CHI le da un bloque de madera a INV
+%spa:	$SP
+*INV:	su cucharota .
+*INV:	a_ver quieres que lo siente .
+*INV:	asi .
+*CHI:	ésta . [+ S]
+%flo:	etha
+%spa:	$SP
+*PAR:	que es .
+*CHI:	está chiquita . [+ S]
+%flo:	etha chiquita
+%act:	CHI le ense a a INV un bloque de madera chiquito
+%spa:	$SP
+*INV:	aja esta es la chiquita .
+*PAR:	y el papá también quiere comer .
+*CHI:	que quiere . [+ S]
+%flo:	que quiede
+%spa:	$SP
+@End

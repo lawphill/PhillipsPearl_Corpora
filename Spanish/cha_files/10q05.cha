@@ -1,0 +1,114 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Yamania Target_Child, PAR Karina Mother, INV Mary
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	13-APR-1992
+@Transcriber:	RJD
+@Date:	23-FEB-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	mira que padre está .
+*INV:	vamos a sacarlos todos .
+*INV:	todo todo todo lo vamos a sacar .
+*PAR:	mira cuántas cosas .
+*INV:	ya viste ?
+*CHI:	aaa@g &=mostrar .
+%flo:	aaa
+%act:	CHI le muestra un duplo a quien se encuentra frente a ella fuera de
+	la pantalla
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	&ay mira cubitos .
+*INV:	mira que bonito está éste ya viste ?
+*INV:	lo quieres ver lo quieres agarrar ?
+*INV:	Yamania hola .
+*INV:	no lo quieres agarrar ?
+*INV:	no ?
+*CHI:	&=negando .
+%act:	CHI niega con la cabeza cuando INV le muestra el oso
+%gpx:	c/negando
+%cod:	respuesta
+*INV:	no no éste lo mandamos para allá entonces .
+*INV:	allá se queda .
+*INV:	oye y ésto ?
+*INV:	te gustó ésto ?
+%act:	INV le explica algo a PAR
+*CHI:	aa@g [= dónde está] .
+%act:	CHI toma la muñeca y luego la suelta y hace un gesto con las manos
+	hacia arriba mientras que dirige la mirada hacia INV
+%gpx:	c/dóndeesta
+%cod:	espontáneo
+%com:	Gr+V
+*INV:	mira que bonito que bonito todas cosas .
+*INV:	vamos a_ver que hay aquí ?
+*INV:	mira Yamania .
+*INV:	la ponemos o la quitamos ?
+*INV:	aquí hay una mira y aquí hay otra .
+*INV:	cuántas cosas verdad ?
+*INV:	cuántas cosas hay aquí .
+*CHI:	&=mostrar .
+%act:	CHI se gira y muestra nuevamente un ensamble a quien se encuentra
+	fuera de la pantalla
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	mira que bonito .
+*INV:	mira cuantas cosas .
+*INV:	oye Yamania quieres que te enseñe otros juegos ?
+*CHI:	&=mostrar .
+%act:	CHI voltea y le muestra un ensamble a quien se encuentra fuera de
+	cuadro pero esta vez se le cae de las manos
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	te voy a ense ar otros juegos quieres ?
+*INV:	todo se fue .
+*INV:	todo todo se fue todo se fue para allá y otro y otro .
+*INV:	otro otro .
+*CHI:	&=mostrar .
+%act:	CHI muestra un ensamble verde a PAr y luego lo deja caer
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	otro y otro .
+*INV:	mira .
+*CHI:	ve . [+ S]
+%flo:	ve
+%act:	INV y CHI tienen un rato tomando los juguetes y dejándolos caer
+	sobre la alfombra aquí CHI toma un ensamble y lo deja caer
+%spa:	$SP
+*INV:	eso otro .
+*CHI:	ve &=mostrar . [+ SG]
+%flo:	ve
+%act:	CHI muestra nuevamente un duplo a quien se encuentra frente a ella
+%spa:	$SP
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	listo Bety .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups, pop-up
+*PAR:	a_ver mira .
+*PAR:	el chango Yamania Yamania el chango mira .
+*PAR:	uy@o uy@o .
+*PAR:	siéntate Yamania .
+*PAR:	no lo quiere .
+*PAR:	mira mira el chango mira .
+%act:	PAR habla con INV
+*CHI:	qué . [+ S]
+%flo:	qué
+%act:	CHI se acerca a PAR y hace como si tratara de alcanzar su mano
+%spa:	$SP
+*PAR:	sí .
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI toma de las manos a PAR para ponerse de pie
+%spa:	$SP
+*PAR:	mira .
+@End

@@ -1,0 +1,98 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Jesus Target_Child, PAR Raquel Mother, INV Patty
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	15-APR-1995
+@Transcriber:	PB
+@Date:	16-FEB-1996
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	qué hacemos eh@o ?
+%act:	CHI coge la pelota
+*INV:	jugamos con la pelota ?
+%act:	INV le quita la pelota a CHI y la avienta para arriba
+*INV:	upa@o !
+*INV:	échasela al osito .
+%act:	INV y CHI siguen jugando con la pelota
+*INV:	a_ver vamos a jugar a otra cosa .
+%act:	INV comienza a guardar los juguetes
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	mira run@o [/] run@o .
+%act:	PAR le muestra a CHI el abaco éste no hace caso y sigue jugando
+	él solo
+*PAR:	juega con ésto mira .
+%act:	PAR muestra en el abaco
+*PAR:	mira [/] mira la flor que bonita .
+*PAR:	qué es ésto mira ?
+*PAR:	ahora [/] ahora tú .
+*PAR:	apriétale tú .
+*CHI:	&=negando .
+%act:	PAR le acerca el pop up a CHI pero CHI niega con la cabeza
+%gpx:	c/negando
+%cod:	espontáneo
+*PAR:	mételo aquí mira .
+%act:	CHI juega ahora con una tacita y unos bloques
+*PAR:	quieres hacer ésto ?
+%act:	PAR acerca los ensambles y comienza una torre CHI está distraído
+*PAR:	mira el barco [/] el barco un osito .
+%act:	PAR muestra el libro
+*PAR:	hola cómo estás chiquitito ?
+*PAR:	cómo estás bien ?
+*CHI:	&=pedir .
+%act:	PAR muestra los guiñoles a CHI y sólo los quiere agarrar
+%gpx:	ns/pedir
+%cod:	espontáneo
+*PAR:	cómo estás bien ?
+%act:	PAR le sigue mostrando el guiñol a CHI pero no se lo da
+*PAR:	sí ?
+*PAR:	cómo estás eh ?
+*PAR:	qué estás haciendo ?
+*CHI:	&=pedir .
+%act:	PAR muestra los guiñoles a CHI
+%gpx:	ns/pedir
+%cod:	espontáneo
+*PAR:	qué estás haciendo chiquito eh ?
+*CHI:	&=pedir .
+%act:	PAR muestra los guiñoles CHI sólo los quiere agarrar
+%gpx:	ns/pedir
+%cod:	espontáneo
+*INV:	le puede prestar uno si quiere .
+*PAR:	cómo estás eh ?
+*PAR:	no quieres jugar eh ?
+%act:	pasa largo rato mientras que juegan con los guiñoles luego CHI se
+	pone a llorar
+*PAR:	ora siéntate .
+*PAR:	mira [/] mira a Martha mira .
+*PAR:	ahí viene Martha háblale .
+*CHI:	&=señalar .
+%act:	CHI se para frente a PAR y señala hacia la ventana y señala en
+	esa dirección
+%gpx:	ns/señalar
+%cod:	espontáneo
+*PAR:	tsi@o [/] tsi@o [/] tsi@o [/] tsi@o .
+%act:	PAR le acerca los guiñoles a los cachetes de CHI
+*CHI:	&=señalar .
+%act:	CHI se para frente a PAR y señala hacia la ventana y señala en
+	esa dirección
+%gpx:	ns/señalar
+%cod:	espontáneo
+*PAR:	cállate .
+*PAR:	mira te habla Martha mira .
+*CHI:	&=señalar .
+%act:	CHI se para frente a PAR y señala hacia la ventana y señala en
+	esa dirección
+%gpx:	ns/señalar
+%cod:	espontáneo
+*PAR:	te habla Martha [/] te habla Martha [/] te habla Martha .
+*PAR:	pero acá allá está Martha .
+*PAR:	siéntate .
+@End

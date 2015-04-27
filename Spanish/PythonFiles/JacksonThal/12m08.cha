@@ -1,0 +1,206 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Celia Target_Child, PAR Celia Mother, INV Cristina
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	06-FEB-1992
+@Transcriber:	PB
+@Date:	11-FEB-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, doll, duplos
+@New Episode
+*PAR:	dame Celia dame .
+%act:	CHI tiene la pelota en la mano y sólo sonríe
+*CHI:	&=mostrar .
+%act:	CHI coge un bloque de madera y se lo muestra a PAR aunque PAR luego
+	le extiende la mano para recoger el bloque
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*PAR:	dame .
+*INV:	pum@o .
+%act:	INV empuja el carro
+*CHI:	run@o [/] run@o . [+ I]
+%flo:	rum rum
+%act:	CHI empuja el coche
+%spa:	$IM
+*INV:	eso .
+*INV:	cómo hacen los coches de Carlitos .
+*INV:	purum@o .
+*CHI:	run@o . [+ I]
+%flo:	rum
+%spa:	$IM
+*INV:	así verdad ?
+*INV:	purum@o .
+*INV:	quien te ve ahí .
+%act:	CHI levanta la mano hacia la cámara pero no señala
+*INV:	hola: .
+*PAR:	xxx el bebé .
+*CHI:	run@o . [+ S]
+%flo:	tumb
+%act:	CHU toma el coche
+%spa:	$SP
+*INV:	trunrr@o .
+%act:	CHI tira el coche y toma la pelota
+*INV:	ay@o .
+*INV:	yo quiero jugar .
+%act:	INV pide con las manos la pelota pero CHI no se la dá
+*INV:	no ?
+*CHI:	run@o . [+ S]
+%flo:	bum
+%act:	CHI observa el coche y lo toma
+%spa:	$SP
+*INV:	trunrr@o .
+*INV:	run@o pii@o pii@o pi@o coche run@o .
+%act:	INV toma un bloque y lo desliza como si fuera un coche
+*CHI:	run@o . [+ I]
+%flo:	prumb
+%act:	CHI toma el coche y lo golpea contra la pelota
+%spa:	$IM
+*INV:	run@o .
+*CHI:	run@o . [+ I]
+%flo:	run
+%act:	CHI tiene la pelota en sus manos y mira lo que hace INV
+%spa:	$IM
+*INV:	trrun .
+%act:	PAR e INV hacen una torre con los bloques
+*CHI:	pum@o [/] pum@o . [+ S]
+%flo:	pan pum
+%act:	CHI quita los bloques de una torre
+%spa:	$SP
+*INV:	pum@o .
+*INV:	adiós osito .
+*INV:	otro vamos a guardar otro .
+*CHI:	<run@o> [>] . [+ S]
+%flo:	bumb
+%act:	CHI toma el coche y lo desliza por el piso
+%spa:	$SP
+*INV:	<run@o> [<] run@o .
+*INV:	adiós coche .
+*INV:	ahora la pelota échala aquí .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, blocks, puppets, tools, fisher price house
+*CHI:	mmh@g &=mostrar . [+ S]
+%flo:	mmh
+%act:	CHI le muestra el cepillo a PAR
+%spa:	$SP
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	uy@o cuántas cosas .
+*INV:	ay@o que niña tan bonita .
+*INV:	hola !
+*INV:	ay@o .
+*CHI:	&=mostrar .
+%act:	CHI le muestra el espejo a INV para que se vea en el espejo
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	a_ver yo .
+*INV:	que bonita niña .
+*INV:	mira [/] mira qué es [/] qué es ?
+*INV:	vamos a peinarlo todo .
+*INV:	si te estás peinando ?
+*INV:	ay@o qué bonita niña .
+*CHI:	&=mostrar .
+%act:	CHI muestra a INV el cepillo que trae en la mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	ay@o pica .
+*INV:	a_ver ?
+%act:	CHI deja el cepillo y coge un muñeco ahora
+*INV:	a_ver yo quiero ver .
+*INV:	quién es ?
+*INV:	mira la bebé .
+*INV:	ay@o la bebé .
+%act:	deja los muñecos y luego juega con los bloques
+*INV:	a_ver qué hay en un bolsita yo quiero ver .
+%act:	CHI juega con una bolsa e inspecciona lo que hay adentro
+*INV:	qué bonita tu bolsa verdad ?
+*INV:	mira Celina mira pum@o [/] pum@o .
+%act:	INV saca las herramientas y se las muestra a CHI
+*INV:	uy@o que bien .
+*INV:	ay@o que bonita nena .
+%act:	CHI coge un espejo y se lo lleva atrás de su cabeza
+*INV:	run@o .
+*CHI:	run@o . [+ I]
+%flo:	run
+%act:	CHI parada ve como INV mueve el camión
+%spa:	$IM
+*INV:	run@o [/] run@o súbanse todos .
+*CHI:	run@o . [+ S]
+%flo:	rrrr
+%act:	CHI juega con el camión
+%spa:	$SP
+*INV:	run@o vámonos a pasear .
+*INV:	ahí va otro pum@o .
+*INV:	y ahí va otro .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira qué padre .
+*INV:	a_ver que hay a_ver pum@o .
+*INV:	pum@o .
+*INV:	gua@o gua@o gua@o .
+*INV:	miau@o .
+*CHI:	miau@o . [+ S]
+%flo:	ñau
+%act:	CHI se acerca a los muñequitos del pop up
+%spa:	$SP
+*INV:	miau@o [/] miau@o .
+*INV:	ay@o quietos qué pasa ?
+*INV:	mira el cuento .
+%act:	INV le muestra el cuento a CHI
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, food, farm animals, duplos, doll, 
+	bottle
+@New Episode
+*PAR:	pónle queso al pan .
+%act:	PAR hace que CHI prepare un sandwich
+*PAR:	bueno dame uvas .
+%act:	PAR extiende su mano para pedirle las uvas a CHI y CHI las pone en
+	su mano
+*PAR:	ih@o gracias [/] gracias .
+*PAR:	ay@o el bebé [/] el bebé .
+*PAR:	ya ?
+*CHI:	ah@g &=dar .
+%act:	CHI le da a PAR unas uvas que acaba de coger
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*PAR:	ay@o gracias [/] gracias .
+*PAR:	ay@o ay@o .
+*PAR:	toma .
+%act:	PAR le da una taza a CHI
+*PAR:	dame .
+%act:	PAR le pide a CHI la taza que trae en la mano
+*PAR:	dame Celia .
+*PAR:	oye te estoy diciendo que me des .
+*PAR:	no me quites la taza .
+*PAR:	ya ?
+*CHI:	&=mostrar .
+%act:	CHI extiende su mano con la taza hacia donde está INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	gracias: .
+*PAR:	ora a mí dame .
+*PAR:	dame a mí .
+*PAR:	dame Celia .
+*CHI:	eh@g &=mostrar .
+%act:	CHI extiende su mano con la taza hacia INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	a mí ?
+*PAR:	a mí [/] a mí [/] a mí [/] a mí [/] a mí .
+*CHI:	eh@g &=mostrar .
+%act:	CHI muestra a INV la pera mientras PAR trata de llamar su atención
+	con el coche
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*PAR:	eres una gorda .
+@End

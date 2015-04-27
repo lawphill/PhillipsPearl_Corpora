@@ -1,0 +1,575 @@
+
+NOUN FORMING SUFFIXES
+suffix        IPA                   meaning
+-acska  /?t??k?/   -let, -ette (diminutive suffix) 
+		 (added to other back vowel words ending in a consonant.)
+-adal    /?d?l/    -added to verb to form noun 
+		    (added to back vowels)
+-adek /?de?k/  -added to verb to form noun result of action
+-ag     /??/         -Often an onomatopoeia - to form a verb expressing a 			quickly repeating or continuous action. 
+			(added to other back vowel stems)
+-aj     /?j/        -sound imitating stem to form a noun 
+			(added to back vowel stems)
+-al   [a?l]         -pertaining to, using adjectival suffix appended to 		     various words, often nouns, to make an adjective form.
+-alék /?le?k/  -Added to a verb or other part of speech to form a noun.
+		(added to back vowel word)
+-alom /?lom/  -added to verb to form a noun
+			(added to back vowel words)
+-ály    /a?j/        -Added to a verb or other parts of speech to form a noun.
+			(added to back vowel words)
+-am  /?m/         -my, singular possessive, or added to a noun/verb to 			form a noun
+-ám /a?m/ -Added to a stem or other part of speech to form a noun.
+		(added to back vowel word)
+-ány /a??/  -Added to a verb to form a noun or less frequently an adjective.
+		(added to back vowel words)
+-ár /a?r/    -Added to a verb to form a noun indicating the place of the 			action or the doer. (added to back vowels)
+-ás  /a??/     -added to verb to form a noun
+			(added to back vowels)
+-aság /??a??/   Added to a back vowel word to form a noun.
+-asság /???a??/  Added to a front vowel word to form a noun.
+-ász  /a?s/      Added to a noun or verb to form a noun denoting 		     occupation
+-cska /t??k?/   -let, -ette (diminutive suffix) added to back vowel 				words ending in a vowel
+-cske /t??k?/   -let, ette (diminutive suffix)added to front vowel words 			ending in a vowel
+-da  /d?/      -Added to a verb to form a noun indicating the place of the 			     action.
+-dalom /d?lom/ -added to a verb or noun to form a noun
+			(Added to back vowel words)
+-de  /d?/  -Added to a verb to form a noun indicating the place of the     		action.
+-dék  /de?k/ -Added to a verb to form a noun to indicate the result of the 		     action. No longer productive. 
+-delem /d?l?m/ - added to a verb to form a noun
+			(added to front vowel words)
+-ecske /?t??k?/   -let, ette (diminutive suffix) 
+			(added to unrounded front vowel words
+			 ending in a consonant.)
+-edék  /?de?k/ -Added to a verb to form a noun to indicate the result of the 			action. No longer productive.
+-edel /?d?l/  -Added to a verb to form a noun. Rare, no longer productive.
+		  (added to front vowel stems)
+-eg /??/      -Added to a stem - often an onomatopoeia - to form a verb 			  expressing a quickly repeating or continuous action.
+		- added to verb to form noun or adjective 
+		(added to unrounded front vowel words)
+-ej  /?j/   -added to a sound imitating stem to form a noun. No 			longer productive (front vowel stems) 
+-el  /?l/	-Added to a noun to form a verb.
+		Added to a verb to form a noun (no longer productive in this role).
+		Conjugational suffix, 2nd person singular,
+		added to unrounded front vowel words ending in a consonant
+-elék 	/?le?k/ -added to verb or other part of speech to form a 				noun, added to front vowel words
+-elem /?l?m/-added to a verb to form a noun 
+			(added to front vowel words)
+-ély /e?j/ -Added to a verb or other parts of speech to form a noun. 
+		(added to front vowel words) 
+-em /?m/ -(possessive suffix) my. Creates the first-person singular 			possessive form, Added to a noun or a verb to form a noun.
+		( added to unrounded front vowel words ending in a consonant)
+-ém /e?m/ -added to a stem or other part of speech to form a 			noun (added to front vowel words)
+-ény /e??/- Added to a word to form a noun or adjective.
+		(added to front vowel words)
+-ér /e?r/-Added to a verb to form a noun indicating the place of the action or 	the doer or the result of the action. (added to back vowel words) 
+-és /e??/-Added to a verb to form a noun.( added to front vowel words) 
+-eség /??e??/- added to a front vowel word to form a noun.
+-esség /???e??/ -Added to a front vowel word to form a noun.
+-ész /e?s/-Added to a noun or a verb to form a noun denoting an 				occupation. (added to front vowel words)
+-izmus	 /?izmu?/  - ism
+-lat /lat/- added to different parts of speech to form a noun
+		( added to back vowel word)
+-lék /le?k/ -Added to a verb or other part of speech to form a noun.
+		(added to some back vowel words)
+-let /let/ - added to different parts of speech to form a noun
+		(added to front vowel word)
+-mány /ma??/- Added to a verb to form a noun indicating the result of the 			action. (added to back vowel words)
+-mény /me??/ - Added to a verb to form a noun indicating the result of the 			action. (added to front vowel words)
+-nok /nok/- Added to a back vowel word to form the name of an 				occupation.
+-nök /nøk/- Added to a front vowel word to form the name of an 				occupation.
+-ocska /ot??k?/-let, -ette (a diminutive suffix)
+		added to some back vowel words ending in a consonant.
+-ság /?a??/ -Added to a back vowel adjective, noun or verb to form an 			abstract noun.
+-ség /?e??/- Added to a front vowel adjective, noun or verb to form an abstract noun.
+
+-sség-/??e??/ -Added to a front vowel word to form a noun.
+-zat  /zat/ 	-added to a noun to form a noun. (added to back vowel nouns) 
+-zet /zet/ 	-added to a noun to form a noun (added to front vowel nouns) 
+ -öcske /øt??k?/	- -let, -ette (a diminutive suffix) 
+		(added to rounded front vowel words ending in a consonant.)
+
+
+VERB FORMING SUFFIXES
+-ag- /??/ -added to a stem - often an onomatopoeia - to form a verb 			expressing a quickly repeating or continuous action.
+		(added to other back vowel words)
+-al  /?l/    -Added to a noun to form a verb.
+		(added to other back vowel words ending in a consonant)
+-ál /a?l/ 	-Verbal suffix, same as -l with the á linking vowel.
+		Frequentative suffix. Added to a verb to form a verb to express 			repetitive action.
+		( added to back vowel verbs)
+-edik /?dik/     -Added to a noun, adjective, or verb to form a verb.
+		(added to unrounded front vowel words)
+-eg /??/	 -Added to a stem - often an onomatopoeia - to form a verb 				expressing a quickly repeating or continuous action.
+		 (added to unrounded front vowel words)
+-el /?l/-		 added to a noun to form a verb
+		Conjugational suffix, 2nd person singular, indicative mood, present 		tense, indefinite conjugation. Only verbs ending in -s, -sz, -z use it.
+		(added to unrounded front vowel words ending in a consonant)
+-l /l/    		-Added to a noun to form a verb.
+	 	is added to words ending in a vowel. Final -a changes to -á-. Final -e 		changes to -é-. Final long vowels may shorten, e.g. ? ? ü.
+odic /odik/	 -Added to a noun to form a verb. (added to back vowel words)
+-og-/o?/	 -Added to a stem - often an onomatopoeia - to form a verb 				expressing a (quickly) repeating or continuous action.
+-ol /ol/		 -Added to a noun to form a verb.
+		Conjugational suffix, 2nd person singular, indicative mood, present 		tense, indefinite conjugation. Only verbs ending in -s, -sz, -z use it.
+		added to some back vowel words ending in a consonant)
+-ödik  /ødik/ -Added to an adjective to form a verb.
+		   (added to rounded front vowel words)
+-ög/ø?/ 	- Added to a stem - often an onomatopoeia - to form a verb 				expressing a (quickly) repeating or continuous action.
+		(added to rounded front vowel words)
+-öl /øl/	-Added to a stem - often an onomatopoeia - to form a verb 			     	  expressing a (quickly) repeating or continuous action.
+		(added to rounded front vowel verbs ending in -s, -sz, -z)
+
+ADJECTIVE  FORMING SUFFIXES
+suffix   IPA                    meaning
+-ag   /??/         -Added to a verb or a noun to form a noun or an adjective.
+			(added to back vowel)
+-eg  /??/        -added to a verb or a stem to form a noun or an adjective.
+				(added to unrounded front vowel words)
+-ány /a??/     -Added to a verb to form a noun or less frequently
+		       an adjective. (added to back vowel words)
+-ény/e??/       -Added to a word to form a noun or adjective.
+		       (added to front vowel words)
+
+
+ADVERB FORMING SUFFIXES
+suffix   IPA                    meaning
+-anta /?nt?/        Distributive case ending. 
+			(added to some back vowel words ending in a consonant)
+-ente	/?nt?/    	Distributive case ending
+			(added to unrounded front vowel words ending in a 				consonant)
+-onta	/ont?/	Distributive case ending
+			(added to some back vowel words ending in a consonant)
+-önte /ønt?/      Distributive case ending.
+		        (added to rounded front vowel words ending in a consonant)
+
+PRONOUNS
+-ek /?k/-plural case marker
+amely /??m?j/- (relative) which, that
+amelyk /??m?j?k/- plural which, that
+-et /?t/ accusative case ending
+amelet /??m?j?t/- which, that (accusative)
+át- /a?t/accusative 
+maga /?m???/- you (personal, formal singular)
+magát /?m??a?t/- accusative ( you) reflexive (himself/ herself)
+-ez /?z/-allative
+valaki  /?v?l?ki/ -somebody, someone 
+?valakihez? /?v?l?kih?z/- to somebody, to someone
+-re /r?/-sublative
+valakire -/?v?l?kir?/-(sublative) on somebody
+-be /b?/ -illative
+valmine  /?v?l?mib?/- (illative) into something
+-hez /h?z/-allative
+valamihez /?v?l?mih?z/- to something 
+-vel /v?l/- instrumental
+valamivel/?v?l?miv?l/- with something
+-t /t/- accusative, question
+valamit /?v?l?mit/- accusative something?
+önt /?ønt/ -to do
+önök  /?ønøk/-you, (formal, plural)
+önöket  /?ønøk?t/-accusative you
+
+
+PERSONAL PRONOUNS
+belé        /?b?le?/       -in him/her into him/her
+beléd     /?b?le?d/	-in you, into you
+beléjük  /?b?le?jyk/    -in them, into them
+belénk  /?b?le??k/	-in us, into us
+belétek /?b?le?t?k/	-in you, into you (plural, informal)
+bel?le  /?b?lø?l?/		- out of him/ her
+bel?led /?b?lø?l?d/	-out of you
+bel?lem /?b?lø?l?m/    	- out of me
+bel?letek /?b?lø?l?t?k/	-out of you (plural, informal)
+bel?lük  /?b?lø?lyk/	-out of them
+bel?lünk/?b?lø?ly?k/  -out of us
+benne /?b?n??/        	-inside him/her/it; in him/her/it; 
+benned /?b?n??d/     	-inside you, in you, you
+bennem/?b?n??m/   	-inside me, in me
+bennetek /?b?n??t?k/ 	-inside you, in you
+benneteket /?b?n??t?k?t/ - you (all)
+bennük  /?b?n?yk/       -inside them, in them
+bennünk/?b?n?y?k/     -inside us, in us
+bennünket/?b?n?y?k?t/ -us
+engem /?????m/ 	-me
+hozzá : /?hoz?a?/  	-to him/her
+hozzád /?hoz?a?d/	- to you, you
+hozzájuk /?hoz?a?juk/ -to them
+hozzám /?hoz?a?m/   -to me
+hozzánk/?hoz?a??k/   -to us
+hozzátok/?hoz?a?tok/ -to you (plural, informal)
+kegyed/?k???d/          -you (formal, singular, personal, dated)
+maga /?m???/		-you (personal, formal, singular)
+mi/?mi/			-we (personal)
+minket /?mi?k?t/	-us
+necked  /?n?k?d/	-for you, to you
+nekem/?n?k?m/		-for me, to me
+neki /?n?ki/		-to him, to her, for him, for her
+nekik /?n?kik/		-for them, to them,  
+nektek /?n?kt?k/	-for you, to you
+nekünk/?n?ky?k/	- for us, to us
+nála	/?na?l?/		-at his/her place; than (comparative)
+nálad /?na?l?d/		-at your place, on you (singular, informal)
+				;than you (used with comparative form)
+nálam/?na?l?m/ 		   -at my place, on me, 
+				than( used with words in comparative form)
+nálatok /?na?l?tok/ 	-at your place, on you
+				than (used with words in comparative form)
+náluk/?na?luk/		-at their place, on them
+				than (used with words in comparative form)
+nálunk /?na?lu?k/	- at our place, on us
+				than (used with words in comparative form)
+rajta/?r?jt?/		-on him or her
+rajtad /?r?jt?d/		-on you (singular, informal)
+rajtam/?r?jt?m/ 	-on me
+rajtatok/?r?jt?tok/	-on you
+rajtuk /?r?jtuk/		-on them
+rajtunk/?r?jtu?k/	- on us
+rá/?ra?/			-upon him/ her, on him/ her, unto him/her
+rád/?ra?d/			-on you, of you, 
+rájuk/?ra?juk/		- on them, of them
+rám/?ra?m/		- on me, of me
+ránk/?ra??k/		- on us, of us
+rátok/?ra?tok/		-on you, of you (plural, informal)
+róla /?ro?l?/		-about him/her/it
+rólad/?ro?l?d/		-about you (singular, informal)
+rólam/?ro?l?m/		-about me 
+rólatok/?ro?l?tok/	-about you (plural, informal)
+róluk/?ro?luk/		-about them
+rólunk/?ro?lu?k/		-about us
+te /?t?/			-you
+ti /?ti/			-you (second-person plural, nominative, informal 					form)
+
+
+ INDEFINITE PRONOUNS
+akárki/??ka?rki/- whoever, anyone, anybody
+akármilyen/??ka?rmij?n/- any kind of
+bárki/?ba?rki/- anyone, anybody
+bármely /?ba?rm?j/-any
+bármi/?ba?rmi/- anything, whatever
+egyik /????ik/- one
+egyéb/???e?b/- other, else
+másik /?ma??ik/- another, the other
+néhány/?ne?ha??/- some, few, several
+némi/?ne?mi/- some
+velaki /?v?l?ki/- somebody someone
+valamennyi/?v?l?m???i/- all, some, a little
+valami/?v?l?mi/- something (unspecified object)
+
+INTERROGATIVE PRONOUNS
+hanyadik  /?h???dik/- which?
+hol /?hol/- where?
+hány?/?ha??/- how many?
+hányadik/?ha???dik/- which (sequence of a given number)
+ki- /?ki/- who?
+kicsoda/?kit??od?/- who was who?
+mekkora /?m?k?or?/ - how large? what size? what a…? 
+		(what a big house)
+melyik /?m?jik/- which ? what?
+mennyi/?m???i/- how much?
+mennyibe /?m???ib?/- how much?
+mi/?mi/- we
+micsoda/?mit??od?/- what? what sort? what a..!
+miféle/?mife?l?/- what sort?
+milyen /?mij?n/-what? what kind of? what like? 
+min? /?minø?/ - what, what kind of? (interrogative, archaic, poetic)
+mivel /?miv?l/ -as (because) 
+
+POSSESSIVE PRONOUNS
+enyéim /???e?jim/- mine (those which belong to me)
+enyém/???e?m/- mine (that which belongs to me)
+enyémek /???e?m?k/- mine ( those which belong to me)
+mieink /?mij?ji?k/- ours (those which belong to us)
+mienk /?mij??k/- alternative spelling of mieink
+miénk /?mije??k/- ours that which belongs to us
+tied /?tij?d/- alternative way of spelling  tiéd 
+ tiéd /?tije?d/- yours (that which belongs to you- singular)
+tietek/?tij?t?k/- alternative way of spelling tiétek
+tiétek /?tije?t?k/- yours (that which belong to you all-plural)
+övé/?øve?/- his, hers, its (that which belongs to him/her/it)
+övék /?øve?k/- theirs ( that which belongs to them)
+
+DEMONSTRATIVE PRONOUNS
+abba /??b??/-into that, to that, there
+ama/??m?/- that (as in yon or yonder)
+annak/??n??k/-of that
+annyi/????i/- so much, so many
+arra  /??r??/- to this
+az/??z/- the
+azok  /??zok/- those
+azon/??zon/- that
+azt/??st/- that
+azért /??ze?rt/- therefore
+e /??/- (archaic) this (used as a pronoun, that is, instead of a noun phrase, with postpositions taking nouns with cases)
+eme /??m?/- this (archaic, poetic)
+emez /??m?z/- this one here, this other
+ennui /????i/- this much
+ez/??z/- this (used as a pronoun, that is, instead of a noun phrase)
+ezek /??z?k/- these
+ezen /??z?n/- this (archaic, poetic)
+ezt/??st/- this 
+ezért/??ze?rt/- for this
+ily /?ij/- such
+ilyen /?ij?n/- such, this , this kind of
+oly /?oj/- such
+olyan/?oj?n/- such, that, that kind of
+ugyanaz  /?u??n?z/- the same
+ugyanez/?u??n?z/- the same
+ugyanilyen /?u??nij?n/- similar, identical
+ugyanolyan/?u??noj?n/- similar, identical (exactly the same like that)
+
+RECIPROCAL PRONOUNS
+egymás/???ma??/- one another, each other
+egymásba/???ma??b?/- into one another/each other
+				-in one another/each other
+				-with one another/ watch other
+egymásban /???ma??b?n/- in one another/ each other
+egymáshoz /???ma??hoz/- to one another, to each other
+egymásnak  /???ma??n?k/- to/ for one another, to/for each other
+egymásra/???ma??r?/- on one another, on each other
+				-at one another, at each other
+				-to one another, to each other
+				-of one another, of each other
+
+egymásról	/???ma??ro?l/ -on one another, on each other
+				-at one another, at each other
+				-to one another, to each other
+				-of one another, of each other
+egymással /???ma????l/ - with one another, each other	
+				-to one another, to each other
+egymást /???ma??t/- one another, each other 
+egymástól/???ma??to?l/- from one another, from each other 					(accusative)
+egymásért/???ma??e?rt/- for one another for each other
+
+REFLEXIVE PRONOUNS
+maga /?m???/ (personal) you (formal, singular)
+magad/?m???d/ (reflexive) you (singular)
+magam/?m???m/ myself (reflexive)
+magatok /?m???tok/ yourselves (reflexive)
+maguk /?m??uk/ themselves (reflexive)
+magunk/?m??u?k/ ourselves (reflexive)
+
+RELATIVE PRONOUNS
+ahányszor /??ha??sor/- whenever, every time, as often as, as 						many  times as
+aki		/??ki/		-who (relative)
+amely	  /??m?j/		- which ;that (relative)
+amelyik    /??m?jik/          -which (relative)
+ami 		/??mi/ 		-which ;that (relative)
+amilyen     /??mij?n/		-such as, as (relative)
+
+PREFIXES
+• meg- (perfection/completion) 
+• el-away 	•	
+• ki- out 
+• be- in
+• fel, föl up
+• le- down
+• át - across
+• vissza-  back
+• végig-  to the end
+• ide-  (to) here
+• oda-  (to) there
+• rá-  onto
+• abba-  into it
+• agyon-  to death
+• alá- (to) under
+• át- across
+• be- in(to)
+• bele-  into
+• benn-  in
+• egybe-  into one
+• el-  away [, completion]
+• ellen-  against
+• el?-  forward, first, forth
+• el?re-  (to) forward
+• fel, föl-  up
+• félbe-  into half
+• félre-  aside
+• felül, fölül-  up
+• fenn, fönn-  up
+• hátra-  (to the) back
+• haza-  (to) home
+• helyre-  to (put) right
+• hozzá-  towards, to
+• ide-  (to) here
+• keresztül-  across, through
+• ketté-  into two
+• ki-  out [, completion]
+• körül-  around
+• közbe-  in (between)
+• közre-  in (between)
+• külön-  apart
+• mellé- next to, not to the right place
+• neki- into
+• oda-(to) there
+• össze- together
+• rajta- on
+• széjjel- apart
+• szembe- opposite, in the face of
+• szerte- in all directions
+• tele- full
+• tova- away
+• tovább- continuing (on), further
+• tönkre- to ruin
+• túl- over, past, beyond
+• újjá - anew
+• újra- again
+• utána- after
+• végbe- to the end
+• végig- thoughout
+• vissza- back
+
+CONJUNCTIONS
+ahoy /??ho?/- as, as soon as
+ akár/??ka?r/- might as well, even, just like, whether.. or..
+ám /?a?m/- but
+amaze /??z?z/- that is, in other words
+azonban /??zomb?n/- but (however)
+bar /?ba?r/- although, though
+de /?d?/- but (oh) yes! used as a positive contradiction to a 			negative statement
+dehát/?d?ha?t/- however, still, and yet, well
+			but hey (said when surprised or being indignant
+deviszont /?d?visont/- but, nevertheless, on the other hand
+és/?e??/- and
+h /?ha?/- text messaging, informal  of hog (that)
+ha /?h?/- if introduces conditional clause
+habár/?h?ba?r/- although, albeit, whereas
+hanem  /?h?n?m/- but (instead)
+hisz  /?his/- as, because; (said if something follows obviously for 		 the speaker)
+		-hey, but, why (said when realizing something or 			wanting someone else to realize something)
+ hiszen/?his?n/- as, because(said if something follows obviously 			for the speaker)
+			-hey, but, why (said when realizing something or 			wanting someone else to realize something)
+hogy/?ho?/- that, so that (specifying the aim or goal of an action)
+hol/?hol/- now.., now, sometimes.., sometimes
+hun /?hun/- (regional) where
+ igy /?i??/-thus ( between a phrase and a conclusion of it)
+illetve/?il??tv?/-and, or, or rather (making corrections to what one 			previously said) 
+meg/?m??/-and, plus
+mégis/?me??i?/- yet, still, however, nevertheless, after all
+			Said when returning to a previous idea that has been 				rejected
+mégiscsak/?me?gi?t???k/- after all, and yet
+mégpedig/?me?kp?di?/- namely, specifically
+mert /?m?rt/, /?m?r/-because
+merthogy/?m?rtho?/- because, as
+miért /?mije?rt/- why, for what
+miközben/?mikøzb?n/- while, whilst
+mind  /?mind/-(formal) both.. and.., as well as
+mint/?mint/- (comparison) than, as…as
+mintha/?minth?/- as if, as though
+minthology/?mintho?/- (formal) as, because
+mióta /?mijo?t?/- since
+mivel /?miv?l/- as ( because)
+mivelhology /?miv?lho?/- because, as, since
+nehogy/?n?ho?/- lest (that..not)
+noha/?noh?/- though
+oszt/?ost/- (dialectical) then, so
+pedig /?p?di?/- (comparison) and, but, although
+s  /?/- (poetic) and (short variant of és)
+sem/???m/- neither
+szal /?s?l/- (colloquial) so
+szintén/?sinte?n/- likewise, also, too, similarly, as well
+s?t /??ø?t/- what's more, moreover, and even, indeed
+tehát/?t?ha?t/- so
+ugyan/?u??n/- although, albeit
+ugyanis  /?u??ni?/- as, because (usually if wanting to draw 					attention to cause e.g.  because it is 						surprising)
+úgyhogy /?u?cho?/- so
+vagy/?v??/- or, either..or..
+vagyis/?v??i?/- that is to say, in other words, thus, so, or better said ( making corrections to what one previously said)
+valamint/?v?l?mint/- (formal) and, as well as, just like
+viszont/?visont/- however, but, still, on the other hand
+
+ 
+
+COUNTING WORDS
+0nulla1egy2kettö3három4négy5öt6hat7hét8nyolc9kilenc
+10's		tíz
+20's 		húsz
+30's 		harminc
+40's		negyven
+50's		ötven
+60's		hatvan
+70's		hetven
+80's		nyolcvan
+90's		kilencven
+100		száz
+
+INTERJECTIONS
+ácsi! /?a?t??i/- Wait a minute! Stop! Hey!
+ah/a/-ah, oh expression of relief
+aj/aj/- ouch! expression of ones own pain, or sympathy for 		someone else's pain
+ ámen /?a?m?n/-amen
+bár/?ba?r/-if only
+bárcsak/?ba?rt???k/-if only
+bazmeg /?b?zm??/- (vulgar, colloquial) used as filler, dismay, 					discontent, surprise, admiration
+bocsánat/?bot??a?n?t/- sorry! pardon!
+brumm /?brum?/- growl
+csá/?t??a?/-(informal) bye, hi, ciao
+e /??/-look! hey!
+egészségedre/??ge???e?g?dr?/- cheers! you're welcome. bless you! 
+egészségére/??ge???e?ge?r?/
+eh /??/ -meh, oh no
+ej/??j/- indicates anger, like when telling off someone, indicates 	surprise
+ember a vízben/??mb?r a ?vi?zb?n/- man over board
+gá /??a?/- honk
+gyi /??i?/-gee up, instruction for horse to move
+ha /?h?/-if 
+hah /?h?h/- (poetic) ah! oh!
+halló/?h?l?o?/-hello (only when answering phone)
+háp/?ha?p/- quack 
+hát/?ha?t/- well, then, but (questioning) of course, surely
+hé/?he?/- hey 
+hej/?h?j/-oh! hey!
+hess /?h???/- shoo! drive away birds
+hú/?hu?/- expression of surprise or mild scare, Whoo! (delight), 		sound of owl
+humbug /?humbu?/- nonsense!
+h? /?hy?/-oh! 
+igen/?i??n/- yes
+ím/?i?m/- behold! see!
+íme/?i?m?/- behold! see! voil'a
+ja/?j?/- (informal) yep, oh (indicates agreement, approval or 			understanding)
+ jaj/?j?j/- oh! ah! pain How( how beautiful!)
+jé/?je?/-wow!
+jó/?jo?/-good at something( comparative)
+juj/?juj/-Oh!
+jó étvágyat!/?jo? e?tva???t/- bon appetit
+kuc-kuc /?kut?skut?s/- adult's response to child coughing
+köszönöm/?køsønøm/- thank you
+la /?l?/- used in dialects at the end of exclamatory sentence as 		emphasis. A syllable used when singing a tune without lyrics
+Légyszi/?le?csi/, /?le?ts?i/- (informal) please
+mi /?mi/- (personal) we
+mú/?mu?/- moo
+na/?n?/- well, so, hey
+nahát/?n?ha?t/- well I never, you don't say 
+			(exclamation of surprise)
+naná!/n??na?/- sure, of course, no question
+né/ne?/- look! see!
+nem! /n?m/- no, not!
+ni /?ni/- lo! look!
+nos /?no?/- well
+ó /?o?/- Oh!
+oh /o/-oh
+óh/o/-oh
+oké/?oke?/- Ok
+pá[p????]-bye bye
+pfuj!- yuck
+rat /?r?jt/- go!
+röf /?røf/- oink
+sakk-matt /???k?m?t?/- check mate
+sicc /??it?s?/- an exclamation to drive away cats, Shoo!
+sipirc /??ipirt?s/- off you go! out! off! scram!
+szervusz /?s?rvus/- (formal) hello, goodbye, cheers
+szervusztok /?s?rvustok/- (formal) hello, goodbye
+szezám, tárulj! /?s?za?m?ta?ruj?/- open sesame
+természetesen /?t?rme?s?t???n/- of course, by all means
+tessék /?t???e?k/- here you are, what?, please
+ty?! /?cy?/- wow!
+ty?ha! /?cy?h?/- wow!
+ugyan /?u??n/- no way, not at all, hey!
+viszlát /?visla?t/- goodbye, so long
+viszontlátásra /?visontla?ta??r?/- goodbye
+
+
+
+
+
+
+
+
+

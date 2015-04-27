@@ -1,0 +1,186 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Daniela Target_Child, PAR Viviana Mother, INV Bety
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	07-JUN-1992
+@Transcriber:	RJD
+@Date:	08-JUN-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, doll, duplos
+@New Episode
+*PAR:	mira los juguetes mira .
+*INV:	aquí .
+*CHI:	mmm@g &=mostrar .
+%act:	CHI le muestra un block a PAR
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*PAR:	mira .
+*INV:	mira .
+*CHI:	&=dar .
+%act:	después de sostenerlo frente a PAR CHI le da el block a ésta
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	mira la muñeca ira .
+*CHI:	&=dar .
+%act:	CHI le da un bloque a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	mira ya sé vamos a hacer una torre .
+*PAR:	mira tú pon ésto allí ten .
+*PAR:	ponlo ahí ahí .
+%act:	CHI juega un largo rato con el camión y los bloques
+*INV:	mira vamos a llenar el carro de cositas .
+*INV:	ten échaselas al coche .
+*INV:	eso muy bien !
+*INV:	a_ver ten otro .
+*INV:	ay@o se cayó !
+*CHI:	cayó . [+ I]
+%flo:	ao
+%act:	CHI pone un bloque en la cajuela del camión
+%spa:	$IM
+*INV:	no a la boca no .
+*INV:	oye vamos a guardar esto para que te enseñe otras cositas sale ?
+*INV:	me ayudas a guardarlos aquí ?
+*INV:	vamos a echarlos ahí .
+*INV:	haber tú eso .
+*INV:	otro otro .
+*CHI:	xxx . [+ U]
+%flo:	eu be
+%spa:	$UN
+*CHI:	mira &=mostrar . [+ SG]
+%flo:	ia
+%act:	CHI saca de la caja un block y se lo muestra a PAR
+%spa:	$SG
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*PAR:	échalo ahí en la caja ahí .
+*PAR:	échalo ahí .
+*INV:	&uh le están saliendo los dientes terminando de salir verdad ?
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	quién está ahí ?
+*INV:	quién está ahí ?
+*INV:	eh ?
+*INV:	mira .
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI toma el muñeco que está en el camión
+%spa:	$SP
+*CHI:	ten &=dar . [+ SG]
+%flo:	en
+%act:	CHI le pasa el muñeco a PAR
+%spa:	$SG
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	mira los niños .
+*INV:	peinamos a Daniela si la peinamos ?
+*INV:	no a la boca no .
+*PAR:	mira peínate ten .
+*PAR:	mira con éste mira .
+*PAR:	échalo ahí en el carro .
+*PAR:	ahí .
+*PAR:	otro .
+*CHI:	&=dar .
+%act:	CHI le pasa un muñeco a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	no a la boca no .
+*PAR:	mira hija un señor mira .
+*PAR:	échalo ahí en el carro .
+*PAR:	ahí mételo ahí .
+*PAR:	aquí hay más mira .
+*PAR:	ten .
+*PAR:	toma .
+*CHI:	&=dar .
+%act:	PAR le mete un muñeco en el dedo a CHI ésta lo mira y después
+	estira la mano para dárselo a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	a_ver la nariz .
+*PAR:	otra vez .
+*PAR:	ten .
+*PAR:	no a la boca no aquí en la nariz mira .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	oye Daniela ya viste éstos ?
+*INV:	aquí mira aquí .
+*INV:	éste no te gustó verdad ?
+*INV:	el libro ?
+*INV:	&ih mira éste otro .
+*INV:	sí ?
+*CHI:	mm@g &=mostrar .
+%flo:	mm
+%act:	CHI muestra el libro a alguién que está fuera de la pantalla
+%spa:	$SP
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	a mí me lo das Daniela ?
+*INV:	mira ay@o haber .
+*INV:	conejo el gato .
+*CHI:	&=mostrar .
+%act:	CHI muestra el libro a alguien que está fuera de la pantalla
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	hola Daniela hola .
+*CHI:	mamá [/] mamá . [+ S]
+%flo:	ama mmm a ma
+%act:	CHI está llorando
+%spa:	$SP
+*INV:	que pasó chiquita no .
+*INV:	&ih gua gua se va se va se va porque está llorando Daniela .
+*CHI:	mamá . [+ S]
+%flo:	mamá
+%act:	PAR dirige la mano de CHI para abrir el pop-pup y CHI llora
+%spa:	$SP
+*PAR:	vente Alejandro .
+*CHI:	mamá . [+ S]
+%flo:	mamá
+%act:	CHI sigue llorando
+%spa:	$SP
+*PAR:	vente para acá sientate ahí .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	arrúllalo córrele arrúllalo .
+*PAR:	dale su mamila ten .
+*PAR:	dale su mamila dásela ora .
+*PAR:	dáselo a él dáselo .
+*CHI:	&=mostrar .
+%act:	CHI sostiene el biberón en su mano y lo muesra a alguien que está
+	fuera del alcance de la cámara
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*PAR:	ten mira dale de comer .
+*PAR:	dale de comer hija .
+*PAR:	aquí está su plato mira ten .
+*PAR:	mira qué es éste qué es éste hija ?
+*CHI:	&=mostrar .
+%act:	CHI estira la mano como que enseña el plátano que trae
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*PAR:	mira una cuchara mira .
+*PAR:	cómele .
+*PAR:	mira .
+%act:	CHI y PAR juegan por largo rato a las comiditas
+*PAR:	a_ver cómele con la cuchara .
+*PAR:	ahora tú solita .
+*CHI:	más . [+ S]
+%flo:	ma
+%act:	CHI hace como que come trae el plato y la cuchara en las manos .
+%spa:	$SP
+*PAR:	ten la otra mamila .
+*PAR:	dásela al niño porque ya le dió hambre .
+@End

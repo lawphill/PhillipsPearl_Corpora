@@ -1,0 +1,227 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Paulina Target_Child, PAR Maricela Mother, INV Paty
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	14-APR-1995
+@Transcriber:	BSM
+@Date:	30-APR-1996
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	mira es para esto .
+%act:	INV arma una torre
+*INV:	te gustan ?
+*CHI:	&=dar .
+%act:	CHI le da a INV un bloque de madera
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*INV:	mira Pao mira eh !
+%act:	INV y CHI juegan con los bloques de madera
+*INV:	uno chiquito .
+*INV:	mira .
+%act:	INV golpea dos bloques de madera
+*INV:	a_ver tú .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	toma este Pao .
+*INV:	Pao toma acomódalo .
+%act:	INV le da a CHI un trastecito
+*CHI:	&=dar .
+%act:	CHI le regresa a INV el trastecito
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	tu me lo das .
+*INV:	mira el papá la mamá .
+*INV:	las tablitas .
+*INV:	mira la escobetilla .
+*INV:	mira para ésto Pao .
+*INV:	sí ya escuchaste a mamá ?
+*CHI:	&=negando .
+%act:	CHI niega con la cabeza
+%gpx:	c/negando
+%cod:	respuesta
+*INV:	ahí viene mamá .
+*INV:	mira vamos a pegarle aquí .
+*INV:	mira Pao .
+*INV:	mira .
+*INV:	Pao .
+*CHI:	qué ? [+ S]
+%flo:	eh
+%act:	CHI levanta la cara y ve a INV
+%spa:	$SP
+*INV:	mira .
+*INV:	uy que grande ay la tiraste .
+*INV:	otra ?
+*INV:	quieres lavarlos ?
+*INV:	toma .
+*INV:	otra ?
+*INV:	mira .
+*INV:	la mamá .
+*CHI:	mira &=mostrar . [+ SG]
+%flo:	ia
+%act:	CHI muestra a INV una muñeca
+%spa:	$SP
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	mira la nena .
+*INV:	dale de comer a la nena .
+*INV:	mira el coche mira .
+*CHI:	&=dar .
+%act:	CHI le da a INV un carro
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	mira mira las llantas como hacen .
+*INV:	ahora vamos a echar estos .
+%act:	INV y CHI echan al camión las herramientas
+*INV:	quieres ver algo más .
+%act:	INV le da a CHI una bolsa
+*INV:	mira Pao mira lo que hay aquí .
+*INV:	a_ver fíjate lo que hay .
+%act:	CHI saca de la bolsa algunas cosas
+*INV:	mira un cepillito .
+*INV:	mira mira Pao Pao quién está ahí ?
+*CHI:	&=dar .
+%act:	CHI le da a INV una bolsa
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	la bolsita mira un collar mira .
+*INV:	lo quieres ?
+%act:	INV le da a CHI un collar
+*INV:	y éste también .
+*INV:	y éste .
+*INV:	Pao mira ésta .
+*CHI:	&=dar .
+%act:	CHI le da a INV una bolsa
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	a_ver Pao vamos a guardarlos .
+*INV:	ayúdame a echarloa quí .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*CHI:	ya . [+ S]
+%flo:	iaa
+%act:	CHI cierra las puertitas sel pop-up
+%spa:	$SP
+*INV:	no se van a su casa ?
+*INV:	se va el pollo y se va el guagua .
+*INV:	que se duerman que se duerman que se duerman .
+*INV:	este también .
+*INV:	y ahora el gallo .
+*INV:	el guagua .
+*INV:	ay bravo faltaba el conejo .
+*INV:	faltaba el conejo .
+%act:	CHI comienza a llorar
+*INV:	ay mira ahora .
+%act:	INV le enseña a CHI el slide and peak
+*CHI:	el gato . [+ S]
+%flo:	el gato
+%spa:	$SP
+*INV:	mira .
+*INV:	el gato .
+*INV:	este es Beto y este es Enrique .
+%act:	CHI empieza a llorar
+*INV:	mira eh .
+*CHI:	mamá . [+ S]
+%flo:	amaa
+%act:	CHI llorando
+%spa:	$SP
+*CHI:	ese . [+ S]
+%flo:	ese
+%act:	CHI señalando el libro
+%spa:	$SP
+*INV:	tú ayúdame eso .
+*INV:	ahora el guagua .
+*INV:	no ya los guardamos ?
+*INV:	mira diles adios .
+*CHI:	ya xxx . [+ P]
+%flo:	ya xxx
+%act:	CHI llorando
+%spa:	$SP
+*INV:	si te vienes tú con ella .
+*CHI:	ya xxx . [+ P]
+%flo:	ya xxx
+%act:	CHI lorando
+%spa:	$PI
+*INV:	no ahí viene mamá .
+*PAR:	si chuiquita es que tiene sue o .
+%act:	PAR juega con CHI
+*PAR:	sí aquí .
+%act:	PAR muestra a CHI un libro CHI llorando
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	quieres un pan ?
+%act:	CHI toma un elote
+*PAR:	mira Pao qué es ?
+*PAR:	se come ?
+%act:	CHI se lleva a la boca el elote
+*PAR:	no no se come .
+*PAR:	mira .
+%act:	PAR le da a CHI unas naranjas y CHI juega con ellas
+*PAR:	mira .
+%act:	PAR le enseña a CHI una ciruela
+*CHI:	&=dar .
+%act:	CHI le da a PAR las naranjas
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	no se come .
+%act:	avienta lo que se había llevado a la boca
+*PAR:	una dona ira .
+%act:	PAR le da a CHI una dona
+*PAR:	dona .
+*CHI:	&=dar .
+%act:	CHI le regresa a PAR la dona
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	un pan .
+*INV:	mira toma .
+*PAR:	mira una papa .
+*INV:	mira una cuchara .
+*PAR:	mira mira una cuchara .
+*CHI:	&i teta@c [= mamila] . [+ S]
+%flo:	ee teta
+%spa:	$SP
+*PAR:	ira teta ira teta .
+*PAR:	ira teta .
+*PAR:	te ta .
+*PAR:	mira el coche .
+*CHI:	ya [/] ya [/] ya . [+ S]
+%flo:	ia ia ia
+%spa:	$SP
+*PAR:	mira el pan .
+*PAR:	papas .
+*PAR:	xxx .
+*PAR:	xxx .
+*CHI:	ya . [+ S]
+%flo:	ya
+%spa:	$SP
+*PAR:	ándale ándale vente mira .
+*PAR:	mira el plátano .
+*PAR:	mira mira plátano no quieres ?
+*CHI:	mamá . [+ S]
+%flo:	ma ma
+%spa:	$SP
+*PAR:	mira el pollo .
+*CHI:	mamá . [+ S]
+%flo:	mama
+%spa:	$SP
+*PAR:	mira qué es ?
+*PAR:	uvas uvas .
+*PAR:	mira uvas .
+*PAR:	échalos aquí .
+*CHI:	mamá . [+ S]
+%flo:	mama
+%spa:	$SP
+@End

@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Alberto Target_Child, TEA Maestra Teacher, INV Elvira
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|male|||Target_Child||
+@ID:	es|jacksonthal|TEA|||||Teacher||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	23-AUG-1992
+@Transcriber:	AGO
+@Date:	09-JUL-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*TEA:	aquí estoy [/] aquí estoy .
+*CHI:	&=alzar .
+%act:	CHI llora y extiende sus brazos para que TEA lo levante
+%gpx:	s/alzar
+%cod:	espontáneo
+*TEA:	mira [/] mira qué bonito .
+*INV:	hola [/] hola .
+%act:	INV muestra a CHI el oso
+*CHI:	aa@g &=alzar .
+%act:	CHI llora y extiende un brazo para que PAR lo levante
+%gpx:	s/alzar
+%cod:	espontáneo
+%com:	Gr+V
+*TEA:	sí aquí estamos [/] aquí estamos .
+*TEA:	a_ver qué más hay ?
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*INV:	ay@o que bonito lo cerramos ?
+%act:	INV y CHI abren y cierran el pop-up
+*INV:	mira Beto .
+*CHI:	xxx . [+ U]
+%flo:	abuyca
+%act:	CHI juega con el pop up
+%spa:	$UN
+*INV:	ay@o vamos a hacer una torre .
+@End

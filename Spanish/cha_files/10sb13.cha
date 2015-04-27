@@ -1,0 +1,58 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Brandon Target_Child, PAR Belén Mother, INV Bety
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	05-FEB-1995
+@Transcriber:	RJD
+@Date:	06-DEC-1995
+@New Episode
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+*INV:	mira bebé .
+*INV:	mira lo que tenemos aquí .
+*INV:	uy cuántas cosas mira .
+%act:	INV y CHI juegan por largo rato sin que se den gestos comunicativos
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*PAR:	mira el carrito hace run@o .
+*CHI:	ña@o . [+ S]
+%flo:	aaa
+%act:	CHI empuja el camión sobre la alfombra
+%spa:	$SP
+*PAR:	ña@o .
+*CHI:	ña@o . [+ S]
+%flo:	aaa
+%act:	CHI empuja el camión sobre la alfombra
+%spa:	$SP
+*PAR:	ña@o .
+*PAR:	dámelo .
+*PAR:	dámelo .
+%act:	PAR le pide a CHI que le de un duplo que éste tiene en las manos
+*PAR:	otro .
+*PAR:	dame otro .
+*PAR:	más .
+*PAR:	más .
+*CHI:	más . [+ I]
+%flo:	má
+%act:	CHI mueve bruscamente de arriba hacia abajo los brazos
+%spa:	$IM
+*PAR:	más .
+*PAR:	mira .
+*CHI:	&=dar .
+%act:	CHI juega con un vasito y un ensamble y voltea para dárselos a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	bravo !
+*PAR:	ten .
+*PAR:	qué ?
+*PAR:	a_ver .
+*PAR:	mira pum@o !
+*PAR:	ten .
+@End

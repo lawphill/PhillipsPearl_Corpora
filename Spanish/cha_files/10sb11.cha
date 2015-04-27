@@ -1,0 +1,254 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Miriam Target_Child, PAR Maricruz Mother, INV Betty
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	20-NOV-1994
+@Transcriber:	AGO
+@Date:	21-SEP-1995
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	ten mira hacemos una torre ?
+*INV:	así .
+*INV:	si ?
+*INV:	aviéntamela .
+%act:	CHI deja en la mano extendida de INV la pelota
+*INV:	ahí te va .
+*INV:	mira vamos a hacer una torre mira .
+*CHI:	titi@g &=mostrar .
+%act:	CHI toma los ensambles que INV acomodó en torre y se los muestra
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*CHI:	tu@g &=mostrar .
+%act:	CHI toma un bloque del camión y se lo muestra a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	si ?
+*CHI:	si . [+ S]
+%flo:	si
+%spa:	$SP
+*CHI:	si . [+ S]
+%flo:	si
+%spa:	$SP
+*CHI:	si . [+ S]
+%flo:	si
+%spa:	$SP
+*INV:	si ?
+*CHI:	ti@g &=mostrar . [+ SG]
+%flo:	ti
+%act:	CHI muestra a INV un bloque que acaba de tomar del suelo e
+	inmediatamente se lo mete a la boca
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	no eso no se come .
+*INV:	no se come .
+*INV:	no: .
+*INV:	ay:@o .
+%act:	INV toma la pelota y le hace cosquillas a CHI
+*INV:	vamos a guardarlos Miriam ayúdame .
+*INV:	a hecharlos aquí .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*PAR:	mira .
+%act:	PAR abre el libro
+*PAR:	mira un perrito mira .
+*PAR:	un gua@o gua@o .
+*PAR:	gua@o gua@o .
+*PAR:	cómo se llama ?
+*PAR:	gua@o gua@o .
+*PAR:	gua@o gua@o .
+*CHI:	m@g gua@o gua@o . [+ S]
+%flo:	bbabau
+%spa:	$SP
+*PAR:	gua@o gua@o .
+*PAR:	mira .
+%act:	CHI vocaliza mucho mientras trata de dar vuelta a las hojas del
+	libro
+*PAR:	mira unos pelos parados como los tuyos .
+*PAR:	mira .
+*PAR:	a_ver vamos a_ver qué más hay si ?
+%act:	CHI observa hacia fuera de cuadro por un rato mientras PAR trata de
+	llamar su atención con el libro
+*PAR:	bebé mira .
+*PAR:	mira un carrito una bici .
+*CHI:	éste . [+ S]
+%flo:	tete
+%act:	CHI ve con PAR un libro
+%spa:	$SP
+*PAR:	mira el bebé .
+*CHI:	bebé . [+ I]
+%flo:	tebe
+%act:	CHI da vuelta completa al libro que PAR trae en las manos
+%spa:	$IM
+*PAR:	a_ver vamos a hojearlo a_ver qué hay .
+*PAR:	mira .
+*PAR:	mira qué es ésto .
+*PAR:	uno dos tres .
+*PAR:	dí tres .
+*PAR:	uno: .
+*CHI:	tres . [+ S]
+%flo:	te
+%act:	CHI y PAR juegan con el ábaco
+%spa:	$SP
+*PAR:	dos: .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	tres sí .
+*PAR:	mira acá también .
+*PAR:	uno dos +/.
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	+, tres .
+*PAR:	sí con éste ?
+*CHI:	sí &=afirmando . [+ A]
+%flo:	ti
+%act:	CHI toma el pop up
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*PAR:	mira mira tú solita a_ver .
+*PAR:	este para acá .
+%act:	PAR y CHI juegan con el pop-up
+*PAR:	no .
+*PAR:	a_ver éste .
+*PAR:	aquí Miriam .
+*PAR:	mira un cochecito mira .
+*PAR:	Miriam mira run@o .
+*CHI:	run@o . [+ S]
+%flo:	runnnn
+%spa:	$SP
+*PAR:	run@o run@o .
+*PAR:	mira uno: dos .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	dos tres .
+*PAR:	ahora tú .
+*PAR:	uno: .
+*CHI:	tres . [+ R]
+%flo:	te
+%act:	CHI juega con los vasos de colores
+%spa:	$SP
+*PAR:	dos .
+*CHI:	tres [/] tres . [+ R]
+%flo:	te te
+%spa:	$RT
+*PAR:	tres .
+*PAR:	son tres mira ponlos aquí los tres .
+*PAR:	éste éste y éste .
+*CHI:	tres . [+ RT]
+%flo:	te
+%act:	CHI toma uno de los vasos
+*PAR:	cuál quieres éste o éste ?
+*CHI:	éste . [+ A]
+%flo:	ete
+%act:	CHI toma los dos vasos que le muestra PAR
+%spa:	$AN
+*PAR:	no uno de los dos .
+*PAR:	éste o éste .
+*CHI:	éste [/] éste . [+ S]
+%flo:	te te
+%spa:	$AN
+*PAR:	éste ?
+*PAR:	mira Miriam un cochecito .
+*PAR:	un@o run@o .
+*CHI:	run@o [/] run@o [/] run@o [/] run@o . [+ S]
+%flo:	bummm bummm bummm bummm
+%spa:	$SP
+*PAR:	run@o .
+*PAR:	Miriam mira .
+*PAR:	Miriam .
+*PAR:	mira uno: dos .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	<tres> [>] .
+*CHI:	<tres> [<] . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	tres .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	con los deditos .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	uno .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	dos .
+*CHI:	tres . [+ R]
+%flo:	te
+%spa:	$RT
+*PAR:	mira una manzanita un huevito .
+*PAR:	mira mira .
+*PAR:	solita a_ver tu solita .
+%act:	CHI trata de abrir un libro
+*PAR:	ese o éste ?
+*CHI:	éste . [+ A]
+%flo:	te
+%spa:	$AN
+*PAR:	éste ?
+*CHI:	éste [/] éste . [+ A]
+%flo:	te te
+%act:	CHI toma el otro libro que le enseña PAR
+%spa:	$AN
+*PAR:	éste sí ?
+*CHI:	éste . [+ A]
+%flo:	te
+%spa:	$AN
+*PAR:	mira qué es ésto mira es una sonaja .
+*PAR:	mira una sonaja mira .
+*PAR:	ya a guardarlos Miriam .
+*CHI:	el bebé . [+ S]
+%flo:	e bebe
+%spa:	$SP
+*PAR:	no no .
+*PAR:	mira qué hay aquí mira .
+%act:	PAR le enseña a CHI los guiñoles
+*CHI:	el guaguau@o . [+ A]
+%flo:	e babau
+%spa:	$AN
+*PAR:	el bebé [//] el guaguau@o .
+*CHI:	guaguau@o . [+ S]
+%flo:	guagua
+%spa:	$SP
+*PAR:	guaguau@o .
+*CHI:	guaguau@o . [+ S]
+%flo:	guaguau
+%spa:	$SP
+*PAR:	mira Miriam .
+*PAR:	hola Miriam hola cómo estás ?
+*PAR:	beso .
+%act:	PAR le acerca a CHI el guiñol para que le de un beso
+*PAR:	hola Miriam cómo estás ?
+*CHI:	Miriam . [+ S]
+%flo:	iiam
+%spa:	$SP
+*PAR:	Miriam .
+*PAR:	cómo te llamas ?
+*CHI:	Miriam . [+ A]
+%flo:	iiam
+%spa:	$AN
+*PAR:	dile cómo te llamas .
+*PAR:	hola beso beso dale un beso .
+*PAR:	dale un beso si ?
+*CHI:	sí . [+ A]
+%flo:	si
+%spa:	$AN
+@End

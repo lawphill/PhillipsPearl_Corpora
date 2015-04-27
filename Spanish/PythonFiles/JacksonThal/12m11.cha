@@ -1,0 +1,104 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Alejandra Target_Child, PAR Leticia Mother, TEA maestra
+	Teacher, INV Elvira Investigator
+@ID:	es|jacksonthal|CHI|1;0.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|TEA|||||Teacher||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	16-MAY-1992
+@Transcriber:	AGO/RJ
+@Date:	20-MAY-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	eso vamos a hacer una torre .
+*INV:	a_ver mira ese .
+*INV:	ese aquí .
+*CHI:	&=mostrar .
+%act:	CHI muestra a INV un bloque
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	aquí ponlo mira .
+*INV:	aquí ponlo mira .
+*INV:	ponlo arriba .
+*INV:	a_ver ahora tu ponme éste .
+*INV:	no la tires no la tires no: .
+*INV:	a_ver ponlo así .
+*CHI:	&=dar .
+%act:	CHI da a INV una tabla
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ay@o se cayó .
+*INV:	otra vez .
+*INV:	ay@o ay@o me tiraste mi torre .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*CHI:	&=mostrar .
+%act:	CHI intenta mostrar una muñeca a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	la mamá mira .
+*INV:	la vamos a sentar .
+*INV:	y el papá ?
+*INV:	vamos a echarlo y a ésta y a éste .
+*CHI:	&=mostrar .
+%act:	CHI estira la mano mostrándole un bloque a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	échalo [/] échalo aquí .
+*INV:	éso: bravo: .
+*INV:	adentro [/] adentro aquí nena .
+*CHI:	&=mostrar .
+%act:	CHI estira su brazo mostrándole a INV un muñeco
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	&=mostrar .
+%act:	CHI estira su brazo mostrándole a INV un muñeco
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	pum@o acá .
+*INV:	aquí .
+*INV:	pum@o ay@o se cayó .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira vamos a hacer la torre .
+*INV:	ocho nueve diez .
+*CHI:	&=alzar .
+%act:	CHI mueve los brazos para que INV la cargue
+%gpx:	s/alzar
+%cod:	espontáneo
+*INV:	aquí .
+*INV:	mira uno dos tres cuatro cinco seis siete ocho mira: .
+*INV:	otra no llores .
+*INV:	no a_ver tírala tírala .
+*CHI:	&=alzar .
+%act:	CHI estira los brazos para que INV la cargue
+%gpx:	s/alzar
+%cod:	espontáneo
+*INV:	aquí a_ver mira .
+*INV:	bravo otra vez .
+*CHI:	&=alzar .
+%act:	CHI levanta los brazos para que INV la cargue y llora
+%gpx:	s/alzar
+%cod:	espontáneo
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*TEA:	dale a la bebé .
+*TEA:	dale el biberón a la bebé .
+*TEA:	dáselo a la bebé .
+*CHI:	&=dar .
+%act:	CHI le da a INV el biberón .
+%gpx:	ns/dar
+%cod:	espontáneo
+*TEA:	no a mí no a la bebé .
+*TEA:	a la bebé dáselo .
+@End

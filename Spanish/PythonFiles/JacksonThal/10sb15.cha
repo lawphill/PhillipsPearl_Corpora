@@ -1,0 +1,32 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Gabriela Target_Child, PAR Gabriela Mother, INV Patty
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	22-MAY-1995
+@Transcriber:	BSM
+@Date:	26-MAR-1996
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	a_ver a dónde vas ?
+*INV:	quieres jugar con la pelota .
+*CHI:	&=mostrar .
+%act:	CHI muestra a INV que está en la cámara una pelota
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	a_ver a mí .
+*INV:	échamela para arriba .
+*INV:	arriba .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	mira .
+*PAR:	dame tu manita .
+%act:	PAR le enseña a CHI el pop-up
+@End

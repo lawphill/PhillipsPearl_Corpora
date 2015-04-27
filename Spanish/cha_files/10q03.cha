@@ -1,0 +1,43 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Danaé Target_Child, PAR Alma Mother, INV Betty
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	28-MAY-1992
+@Transcriber:	RJD
+@Date:	30-MAR-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	ay@o ay@o ay@o .
+*INV:	vamos a llevarnos el camión Danaé .
+%act:	INV juega durante todo el rapport con CHI
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*PAR:	mira a vaer no no llores .
+*PAR:	a_ver mira .
+%act:	PAR juega con CHI a los guiñoles
+*PAR:	no mira mira .
+*PAR:	mu@o .
+*PAR:	hola Danaé .
+*CHI:	qué ? [+ S]
+%flo:	que
+%act:	CHI se rie cuando PAR le acerca los guiñoles
+%spa:	$SP
+*PAR:	qué ?
+*PAR:	hola .
+*PAR:	Danaé .
+*PAR:	Danaé .
+*CHI:	qué ? [+ S]
+%flo:	que
+%act:	CHI se encuentra cogiendo el abaco que se encuentra en la alfombra
+%spa:	$SP
+*PAR:	mira Dana .
+*PAR:	ay@o que bonita Danaé .
+@End

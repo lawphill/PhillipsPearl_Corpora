@@ -1,0 +1,68 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Oscar Target_Child, PAR Concepción Mother, INV
+	Patricia Investigator
+@ID:	es|jacksonthal|CHI|1;0.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	26-APR-1994
+@Transcriber:	AGO
+@Date:	23-MAY-1995
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	mira [/] mira todo lo que te voy a prestar .
+*INV:	mira ve .
+*INV:	mira la pelota .
+*INV:	mira [/] mira un coche .
+%act:	INV le enseña a camión a CHI que está muy inquieto
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*PAR:	a_ver bebé siéntate en el suelo .
+*PAR:	mira ten péinate que ya nos vamos .
+%act:	PAR le enseña a CHI el cepillo
+*PAR:	así mira .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*PAR:	fijate aquí hay monitos .
+*PAR:	éstos se llaman monitos .
+%act:	PAR señala los dibujos del libro que trae en las manos CHI
+*PAR:	a_ver ábrelo .
+*PAR:	éste mira .
+*PAR:	fíjate éste .
+*PAR:	éste [/] éste [/] éste .
+%act:	PAR le enseña algo en el libro que CHI trae en sus manos
+*CHI:	no . [+ S]
+%flo:	no
+%act:	CHI se molesta porque PAR quiere tomar el libro que trae
+%spa:	$SP
+*PAR:	no .
+*CHI:	no . [+ S]
+%flo:	no
+%spa:	$SP
+*PAR:	no .
+*CHI:	ah no . [+ S]
+%flo:	a no
+%act:	CHI intenta pegarle a PAR con el libro
+%spa:	$SP
+*INV:	este te voy a pasar otros .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	mira un bebé .
+*PAR:	qué bonito mira .
+*PAR:	que bonito .
+*CHI:	&=dar .
+%act:	CHI toma el muñeco y se lo da a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*PAR:	así mira .
+%act:	PAR arrulla al bebé
+@End

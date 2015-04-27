@@ -1,0 +1,120 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Michelle Target_Child, PAR Minerva Mother, INV Karen
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	30-APR-1992
+@Transcriber:	PB
+@Date:	07-MAY-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, doll, duplos
+@New Episode
+*INV:	a_ver échame la pelota .
+*INV:	mira .
+*INV:	pum@o .
+%act:	INV le avienta la pelota a CHI
+*INV:	a_ver uy@o .
+*INV:	échamela .
+*CHI:	&=dar .
+%flo:	CHI le da un bloque a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+%act:	INV se pone a construír una torre
+*CHI:	&=dar .
+%act:	CHI le da un coche a INV para que lo ponga en la torre
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias lo ponemos aquí ?
+*INV:	ih@o ay@o se cayó .
+*INV:	mira .
+*INV:	ay@o se cayó .
+%act:	CHI coge un bloque para ponerlo en la torre
+*CHI:	&=dar .
+%act:	CHI le da un bloque a INV mirando su mano
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	&=dar .
+%act:	CHI le da un bloque a INV mirando su mano
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*INV:	dámela .
+%act:	CHI le da un bloque a INV pero no se considera comunicativo porque
+	INV se lo solicita
+*INV:	gracias .
+*INV:	es que quiero que acabe de comer .
+*INV:	ya come .
+*CHI:	&=dar .
+%act:	CHI le da un bloque a INV busca su mano para dárselo
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+%act:	CHI le sigue pasando dos bloques más a INV mientras que está le
+	sigue estirando su mano para que se los de
+*INV:	ay@o se cayó .
+%act:	INV comienza a construir una torre y CHI le va pasando los bloques
+	que INV le pide
+*INV:	um@o se cayó Michelle .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, blocks, puppets, tools, fisher price house
+*CHI:	&=dar .
+%act:	CHI coge un espejo de entre los juguetes y se lo da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	qué más le vamos a dar ?
+*INV:	a la mamá .
+%act:	INV estira su mano pidiendo la muñeca
+*INV:	al papá .
+%act:	CHI le da el muñeco a INV pero no se considera comunicativo porque
+	no existe vocal o contacto
+*INV:	y la niña ?
+*INV:	dónde está la niña ?
+%act:	CHI levanta el martillo con la mano pero no se lo muestra a INV
+*INV:	mira aquí está la niña .
+*INV:	mira la niña .
+*CHI:	&=dar .
+%act:	CHI le da un martillo a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	lo vas a poner adentro ?
+%act:	CHI pone un bloque en el camión
+*INV:	qué más vamos a meter ?
+*INV:	éste ?
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*CHI:	&=dar .
+%act:	CHI le da un vasito a INV mirando la mano de INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*INV:	me das otro ?
+%act:	CHI le da otro vasito a INV pero sin intención
+*INV:	gracias .
+*CHI:	&=dar .
+%act:	CHI le da un vasito amarillo a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	otro ?
+*INV:	gracias .
+*CHI:	&=dar .
+%act:	CHI le da una tacita amarilla a INV e INV comienza hacer una torre
+%gpx:	ns/dar
+%cod:	espontáneo
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, food, farm animals, duplos, doll,
+	bottle
+@New Episode
+*INV:	mira un pan .
+*INV:	no [/] no ahí viene .
+%act:	CHI llora porque PAR se va
+*PAR:	mira hija vamos a jugar a las comiditas .
+%act:	pasa mucho rato y CHI juega con los juguetes sin hacer gestos ni
+	emisiones
+@End

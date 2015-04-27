@@ -1,0 +1,163 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Teresa Target_Child, PAR Georgina Mother, INV Beatriz
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	07-MAY-1994
+@Transcriber:	OMR/RJ
+@Date:	29-MAY-1995
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	a qué jugamos Tere ?
+*INV:	la pelota a_ver aviéntamela .
+*INV:	ay@o !
+*INV:	qué hacemos Tere ?
+*INV:	ya sé una torrecita .
+*INV:	mira .
+*INV:	hacemos una torre Tere ?
+*INV:	eso !
+*INV:	ten .
+*CHI:	&=dar .
+%act:	CHI le dá a INV un ensamble
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	mira .
+*INV:	hola Tere hola .
+%act:	INV toma a la muñeca y hace como si ésta la saludara
+*INV:	cómo estás ?
+*INV:	hola .
+*INV:	oye Tere quieres que te enseñe otros juguetitos ?
+*INV:	sí ?
+*INV:	a_ver a dónde vamos ?
+*INV:	a dónde vamos ?
+*INV:	a dónde ?
+*INV:	a dónde a_ver .
+*CHI:	xxx . [+ U]
+%flo:	dete
+%act:	CHI hojea unas hojas que están por ahí
+%spa:	$UN
+*INV:	sí ?
+*INV:	mira .
+*INV:	si mira aviéntale la pelota al osito .
+*INV:	el osito quiere jugar contigo .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	mira .
+%act:	INV le muestra el collar a CHI y ésta lo toma
+*INV:	qué es ?
+*CHI:	ten [/] ten . [+ S]
+%flo:	ten ten
+%act:	CHI trae el camión en las manos .
+%spa:	$SP
+*CHI:	ten &=dar . [+ SG]
+%flo:	ten
+%act:	CHI extiende la mano para darle el camión a INV
+%spa:	$SP
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	me lo das ?
+*CHI:	ten &=afirmando . [+ SG]
+%flo:	ten
+%act:	CHI asiente con la cabeza
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	respuesta
+%com:	Gr+W
+*INV:	gracias .
+*INV:	run@o run@o .
+*INV:	no no se come .
+*INV:	no no llores .
+%act:	INV trae un par de guiñoles en la mano CHI se nota espantada con
+	éstos
+*INV:	ya nos vamos adiós .
+*INV:	adiós .
+*CHI:	vete . [+ S]
+%act:	CHI le dice a la vaca que se vaya y después se pone a gritar
+%flo:	vete
+%spa:	$SP
+*INV:	no no no .
+*INV:	listo .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*PAR:	mira .
+*PAR:	Teresita éste qué es ?
+*PAR:	y éste ?
+%act:	PAR y CHI juegan durante toda la muestra sin que haya gestos
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	oye Tere mira .
+*PAR:	duérmela .
+*PAR:	oye mira .
+*PAR:	aquí duérmela mira .
+*PAR:	aquí .
+*PAR:	toma .
+*PAR:	quieres ?
+*PAR:	quieres ?
+%act:	PAR le dá unas uvas a CHI
+*CHI:	dame . [+ S]
+%flo:	mame
+%act:	CHI agarra la fruta que le dá PAR
+%spa:	$SP
+*PAR:	si quieres ?
+*INV:	dame .
+*PAR:	si quieres ?
+*PAR:	quieres ?
+*PAR:	aquí <duérmela> [>] primero .
+*CHI:	<xxx> [<] [/] nene . [+ P]
+%flo:	mama mama nene
+%act:	CHI tiene la cuna del bebé en las manos
+%spa:	$PI
+*PAR:	leche .
+*CHI:	xxx . [+ U]
+%flo:	mama
+%act:	PAR le da el biberón a CHI
+%spa:	$SP
+*PAR:	ten .
+*PAR:	éste que es ?
+*PAR:	éste que es ?
+*PAR:	éste que es Tere ?
+*INV:	le presto éstos .
+%act:	INV le pasa los guiñoles a PAR
+*PAR:	mira bu@o .
+*PAR:	bu@o na@o .
+*PAR:	a@o .
+*PAR:	no hombre no no no !
+*PAR:	bu@o .
+*CHI:	be@o . [+ S]
+%flo:	be
+%act:	PAR espanta a CHI con los guiñoles y ésta ve a la vaca y le dice
+	algo
+%spa:	$SP
+*PAR:	mu@o .
+*CHI:	be@o . [+ S]
+%flo:	me
+%act:	PAR espanta a CHI con los guiñoles y ésta ve a la vaca y le dice
+	algo
+%spa:	$SP
+*PAR:	bu@o .
+*PAR:	hola Teresita hola .
+*PAR:	dame dame dame Tere .
+*PAR:	dame (.) dame (.) dame .
+*PAR:	dame Tere .
+*PAR:	dame Teresita dame de tu comida .
+*CHI:	a@g no ! [+ S]
+%flo:	a no
+%act:	CHI se molesta con el guiñol
+%spa:	$SP
+*PAR:	dame .
+*PAR:	dame Tere .
+*PAR:	dale de tu comida .
+*PAR:	mira tiene hambre .
+@End

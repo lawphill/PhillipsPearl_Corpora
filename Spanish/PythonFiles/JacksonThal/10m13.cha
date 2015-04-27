@@ -1,0 +1,64 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Israel Target_Child, PAR Luz Mother, INV Karen
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	11-MAY-1992
+@Transcriber:	PB
+@Date:	22-MAR-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	quieres ver qué más hay ?
+*INV:	mira cuántos cubos .
+%act:	INV saca los bloques mientras CHI tiene en sus manos la pelota y el
+	coche está a su lado CHI sólo observa
+*INV:	ay@o se fué .
+*INV:	qué vamos hacer ?
+*INV:	órale travieso no quieres jugar ?
+*INV:	échamelo cómo hace pipí@o .
+%act:	INV insiste con el coche pero CHI no hace nada
+*INV:	pipí@o juega con el coche .
+%act:	CHI coge el coche y lo empuja
+*INV:	pipí@o run@o [/] run@o .
+*INV:	a_ver otra vez run@o .
+*CHI:	&=dar .
+%act:	CHI tiene el coche en sus manos y voltea para dárselo a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	pum@o hacemos una torre .
+%act:	CHI sigue con la pelota e INV se la quita y junta bloques
+*INV:	uy@o .
+%act:	CHI quita un bloque y se cae la torre que armo INV
+*INV:	a_ver vamos hacer otra .
+*INV:	um@o sabe rico ?
+%act:	CHI se metió un bloque a la boca
+*INV:	ay@o se cayó .
+%act:	INV tira una torre
+*INV:	te gusta el coche ?
+*INV:	lo guardamos ?
+%act:	INV comienza a guardar todos los juguetes
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	mira éste hijo .
+%act:	PAR le muestra a CHI el abaco antes CHI paso mucho rato con el pop
+	up y sólo reía y vocalizaba protos
+*PAR:	mira éste .
+%act:	PAR le muestra un cuento a CHI
+*PAR:	mira Israel .
+%act:	CHI no muestra interés en el libro
+*PAR:	mira Israel mira .
+%act:	CHI hace a un lado el cuento e intenta jugar con el pop up pero PAR
+	lo hace a un lado y le enseña el coche
+*PAR:	mira hijo .
+*PAR:	échalo aquí mira échalo aquí .
+%act:	CHI ahora juega con las tacitas
+*PAR:	hola Israel .
+%act:	PAR le enseña los guiñoles pero CHI sólo sonríe
+@End

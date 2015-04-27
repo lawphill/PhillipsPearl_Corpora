@@ -1,0 +1,81 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Rubén Target_Child, INV Karen Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|male|||Target_Child|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	23-JUN-1992
+@Transcriber:	PB
+@Date:	07-MAY-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	run@o a_ver échamelo échame el coche .
+%act:	CHI coge el coche
+*INV:	así mira run@o .
+%act:	INV le avienta el coche a CHI y éste se ríe
+*INV:	bravo .
+%act:	CHI aplaude
+*INV:	mira cuántas cosas verdad ?
+*INV:	el coche .
+*INV:	qué más ?
+*INV:	mira .
+%act:	INV le muestra un bloque de madera a CHI
+*INV:	la nena verdad ?
+%act:	CHI se lleva la muñeca a la boca
+*INV:	su pelo como el tuyo su pelo .
+%act:	CHI deja la muñeca y avienta la pelota
+*INV:	a_ver dame la nena [/] dame la nena .
+%act:	INV le pide los juguetes a CHI
+*INV:	vamos a guardárlos .
+*INV:	dame el coche .
+%act:	INV extiende la mano y le pide el coche CHI se lo entrega
+*INV:	gracias .
+*INV:	qué más me das ?
+*INV:	lo vamos a guardar .
+*INV:	adiós Rubén [/] adiós Rubén .
+%act:	INV guarda todos los juguetes
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups
+*INV:	me tiraste mi torre .
+%act:	INV arma una torre con las tacitas y CHI la tira
+*INV:	ya se fué .
+%act:	CHI empieza a aventar las tacitas y se ríe
+*INV:	qué quieres éste ?
+%act:	INV arma una torre con los ensambles y CHI se la quita
+*INV:	qué pasó ?
+*INV:	lo quieres ?
+%act:	INV le muestra a CHI el abaco y CHI se acerca para cogerlo
+*INV:	eso ciérralo .
+%act:	CHI se va hacia donde está el pop up y juega con él
+*INV:	mira cuántos .
+%act:	INV le abre y le cierra las puertas al pop up para que CHI juegue
+*INV:	otra vez ?
+*INV:	pum@o [/] pum@o [/] pum@o .
+%act:	INV abre las puertas del pop up
+*INV:	eso .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI al intentar cerrar una puerta y se le dificulta
+%spa:	$SP
+*INV:	uy@o .
+*INV:	qué pasó ?
+*INV:	ya ?
+%act:	INV quita el pop up y acerca el slide and peak
+*INV:	qué más quieres éste ?
+%act:	INV le da el slide and peak
+*INV:	éste ?
+%act:	INV muestra el abaco
+*INV:	si qué más ves ?
+%act:	INV le mostró el cuento a CHI y después él sólo lo estuvo
+	viendo al tiempo que vocalizaba
+*INV:	eso .
+%act:	CHI deja el cuento y luego coge una tacita se la lleva a la boca
+	pero no intenta comunicar algo
+*INV:	eso !
+%act:	CHI imita el movimiento de golpe que hace INV con las tacitas
+*INV:	muy bien .
+@End

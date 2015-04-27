@@ -1,0 +1,149 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Jorge Target_Child, PAR Marisol Mother, INV Elvira
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	27-FEB-1992
+@Transcriber:	PB
+@Date:	09-MAR-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, doll, duplos
+@New Episode
+*INV:	no te quieres sentar ?
+*INV:	oye Ernesto mira .
+*INV:	ya viste qué padre ?
+*INV:	hola .
+%act:	INV le muestra un peluche
+*INV:	hola Jorge Ernesto .
+*INV:	pipí@o toma .
+%act:	INV le da el carro a CHI
+*INV:	ya@o mira lo que tengo aquí .
+*INV:	hola .
+*INV:	la sentamos ?
+*INV:	a_ver abre tus piernitas .
+*INV:	pipí@o .
+%act:	INV acerca la muñeca y un coche a CHI y CHI toma la muñeca y la
+	observa
+*CHI:	mmh@g &=mostrar .
+%act:	CHI coge la muñeca y la levanta a la vista de INV la mantiene por
+	largo rato estirando su mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	te gusta la muñeca o no ?
+*INV:	está fea ?
+*CHI:	&=dar .
+%act:	CHI levanta la muñeca y se la da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	está muy fea ?
+*INV:	ahí va otra vez .
+*INV:	otra vez .
+*INV:	hola .
+*INV:	te gusto la muñeca Jorge ?
+*CHI:	&=dar .
+%act:	CHI levanta la muñeca y se la da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ya la voy a guardar .
+*INV:	mira lo que tengo .
+*INV:	mira .
+%act:	INV saca más objetos y CHI coge un bloque
+*INV:	hacemos una torre ?
+*INV:	uy@o se cayó .
+*INV:	otra vez ?
+%act:	CHI juega con cubos por largo rato
+*CHI:	mmh@g &=mostrar .
+%act:	CHI coge un bloque y se lo muestra a INV a la vez que se sonríe
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	mira .
+%act:	INV le indica como golpear los bloques
+*INV:	o así ?
+%act:	CHI golpea los bloques uno contra otro
+*INV:	toma .
+*CHI:	&=mostrar .
+%act:	CHI le muestra a INV el bloque que se estaba poniendo en el oído
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	me lo das ?
+*INV:	gracias qué obediente .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, blocks, puppets, tools, fisher price house
+*INV:	mira .
+%act:	INV saca las herramientas y las pone junto con CHI
+*INV:	no te gusta el camión ?
+%act:	CHI juega con las herramientas por largo rato
+*INV:	ya te está dando gripa .
+%act:	CHI estornuda
+*CHI:	mmh@g &=mostrar .
+%act:	CHI coge un bloque se lo muestra a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	dámelo gracias .
+*INV:	yo lo voy a poner en el camión pipí@o .
+*INV:	gracias .
+%act:	CHI vocaliza INV extiende su mano y CHI le da el bloque
+*INV:	ahora mira lo que voy hacer .
+*INV:	Jorge mira .
+%act:	CHI golpea el coche con una herramienta
+*INV:	hola cómo estás ?
+%act:	INV muestra un guiñol y CHI extiende su mano como queriendo
+	agarrárlo
+*INV:	te lo quieres poner ?
+*INV:	mira sigo yo .
+*INV:	uy@o .
+*INV:	otra vez ?
+%act:	INV voltea el camión para tirar los bloques
+*CHI:	mmh@g &=mostrar .
+%act:	CHI coge un bloque y lo levanta a la vista de INV estira su mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	ay@o aquí está .
+*INV:	ponemos más Jorge ?
+%act:	CHI vuelve a jugar con las herramientas por largo rato no hace
+	gestos ni emite palabras
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	siéntate Jorge .
+*INV:	qué padre ya viste ?
+%act:	CHI juega con el slide and peak
+*INV:	ay@o te gustan los libros .
+%act:	CHI coge los libros
+*INV:	quieres éste ?
+%act:	INV le muestra otro cuento
+*INV:	mira Jorge .
+%act:	INV le da el slide pero CHI coge el pop up y juega por largo rato
+	sin emisiones orales ni gestos
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, food, farm animals, duplos, doll, 
+	bottle
+@New Episode
+*INV:	oye mira qué es ésto ?
+%act:	PAR le muestra la lechuga a CHI
+*INV:	mira éstas .
+%act:	PAR le muestra las uvas a CHI y CHI las observa así como todos los
+	juguetes
+*CHI:	mira mmh@g &=dar . [+ SG]
+%flo:	ia
+%act:	CHI corta una uva y se la da a PAR
+%spa:	$SG
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+W+V
+*INV:	gracias .
+*INV:	la echamos aquí ?
+%act:	CHI intenta echar la uva en la taza pero luego se la lleva a la
+	boca
+*INV:	ih@o pero si no te la he pelado .
+%act:	CHI a lo largo de la muestra no emitió palabras
+@End

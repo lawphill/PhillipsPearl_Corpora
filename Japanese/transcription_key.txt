@@ -1,0 +1,20 @@
+A voiced long duration open front unrounded vowel
+I voiced long duration close front unrounded vowel
+U voiced long duration compressed, spread labial vowel
+E voiced long duration close-mid front unrounded vowel
+O voiced long duration close-mid back rounded vowel
+W voiceless compressed, spread labial vowel
+Y voiceless close front unrounded vowel
+h voiceless bilabial fricative
+G voiced alveolar affricate (also sometimes j)
+
+~~~
+stress
+
+1 = stressed syllable
+0 = unstressed syllable
+
+~~~
+syllables
+
+- separated by /

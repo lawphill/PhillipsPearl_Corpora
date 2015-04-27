@@ -1,0 +1,115 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Paula Target_Child, PAR Irene Mother, INV Betty
+	Investigator
+@ID:	spa|jacksonthal|CHI|0;10.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	08-JAN-1993
+@Transcriber:	BSM
+@Date:	24-NOV-1993
+@Situation:	Raport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	Paula ya viste todo lo que tenemos aquí .
+*CHI:	mira . [+ S]
+%flo:	miya
+%spa:	$SP
+*INV:	mira que bonito .
+%act:	CHI juega con unos ensambles
+*INV:	qué pasó Paula ?
+*CHI:	&=mostrar .
+%act:	CHI coge y ense a a PAR un bloque de madera
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*PAR:	dáselo a ella .
+*INV:	aquí mira .
+%act:	INV golpea unas maderas
+*CHI:	&=dar .
+%act:	CHI coge un bloque de madera y se lo da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*CHI:	&=dar .
+%act:	CHI coge un bloque de madera y se lo da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	&=dar .
+%act:	CHI coge un bloque de madera y se lo da a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	ya . [+ S]
+%flo:	ia
+%spa:	$SP
+*INV:	ya ?
+*INV:	te ense o otros juguetes si ?
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos,
+	stacking cups, pop-up
+*PAR:	la campanita viste .
+*PAR:	run@o .
+%act:	PAR coge el coche y lo rueda hasta la panza de CHI y luego le hace
+	cosquillitas
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%spa:	$SP
+*PAR:	ay@o .
+*PAR:	ay@o .
+*PAR:	mira .
+*PAR:	un perrito como xxx mira .
+*CHI:	mira . [+ S]
+%flo:	ila
+%act:	CHI señala el pop-up
+%spa:	$SP
+*PAR:	a_ver sácalo .
+*PAR:	ciérralo .
+%act:	CHI y PAR abren y cierran el pop-up
+*PAR:	augaug@o .
+%act:	CHI le enseña a CHI el guñol del chango
+*PAR:	augaug@o .
+*PAR:	augaug@o .
+*CHI:	ay@o . [+ S]
+%flo:	ah
+%act:	CHI se rie con el chango
+%spa:	$SP
+*PAR:	ay@o .
+*PAR:	muu@o .
+*PAR:	no .
+*PAR:	no a la boca no .
+*PAR:	le muerde la panza le muerde la panza .
+*PAR:	dónde está la vaca ya se fue la vaca .
+*CHI:	&=peekaboo .
+%gpx:	c/peekaboo
+%cod:	espontáneo
+*PAR:	y Paula también .
+%act:	CHI se tapa los ojos
+*CHI:	mira [= señalar] . [+ SG]
+%flo:	ia
+%act:	CHI señala hacia donde está la vaca
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*PAR:	mira acá está la vaca .
+*PAR:	no lo vas a dormir .
+*PAR:	bueno yo voy a dormir al mono .
+*PAR:	ahahah@o .
+*CHI:	mira [= señalar] . [+ SG]
+%flo:	ia
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*PAR:	tu quieres éste ?
+*CHI:	ahaha@o [/] ahaha@o . [+ S]
+%flo:	ahaha
+%act:	CHI arrulla al chango
+%spa:	$SP
+*PAR:	tú quieres éste ?
+*PAR:	ahahah@o .
+*CHI:	ahaha@o . [+ S]
+%flo:	ahaha
+%act:	CHI arrulla al chango
+%spa:	$SP
+@End

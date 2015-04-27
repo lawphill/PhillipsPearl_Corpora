@@ -1,0 +1,36 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Andrés Target_Child, PAR Mónica Mother, INV Mary
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	26-MAR-1992
+@Transcriber:	PB
+@Date:	28-JAN-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	ponemos otro .
+%act:	INV pone los bloques en el camión
+*INV:	otro .
+*INV:	aquí mira .
+*CHI:	mn@p [/] mn@p &=mostrar .
+%act:	CHI tiene un bloque en la mano y se lo muestra a INV hacia la
+	cámara
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+P
+*INV:	mira .
+*INV:	aquí tenemos uno y aquí tenemos otro .
+*INV:	qué podemos hacer con ésto ?
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*INV:	ciérralo [/] ciérralo .
+%act:	CHI juega por largo rato con el pop up en ocasiones balbucea y juga
+	con otros objetos
+@End

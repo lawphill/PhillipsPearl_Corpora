@@ -1,0 +1,109 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI José Target_Child, PAR Angela Mother, INV Cristina
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	08-OCT-1992
+@Transcriber:	AGO
+@Date:	11-OCT-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*PAR:	vamos a decir sí .
+*CHI:	&=negando .
+%act:	CHI niega con la cabeza
+%gpx:	c/negando
+%cod:	respuesta
+*CHI:	&=mostrar .
+%act:	CHI muestra a PAR unos tablas de madera
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	pácatelas .
+*CHI:	gaga@g &=mostrar .
+%act:	CHI estira los brazos hacia PAR teniendo un lápiz y una madera en
+	sus manos
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	me lo prestas ?
+*INV:	toma ay@o xxx .
+*CHI:	&=mostrar .
+%act:	CHI muestra a PAR una madera y un lápiz
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	nena . [+ S]
+%flo:	ena
+%act:	CHI señalando a la muñeca
+%spa:	$UN
+*INV:	mira .
+*INV:	no así no ?
+%act:	INV está haciendo una torre con los bloques
+*CHI:	&=dar .
+%act:	CHI da a INV un bloque
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	gracias .
+*CHI:	&=dar .
+%act:	CHI pone en la mano de INV un bloque
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	&=mostrar .
+%act:	CHI muestra a PAR un bloque cuando INV está guardando los juguetes
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	mira qué es ?
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	esto nada más es para que juegue a lo que quiera .
+*CHI:	&=mostrar .
+%act:	CHI muestra a PAR el caballito
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	gaga@g &=mostrar . [+ SG]
+%flo:	gaga
+%act:	CHI muestra a PAR unos objetos que tiene en la mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*CHI:	gaga@g &=mostrar .
+%act:	CHI muestra a INV el martillo
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	a_ver ?
+*INV:	ay@o con quién vas ?
+*INV:	con quién vas ?
+*CHI:	&=alzar .
+%act:	CHI levanta los brazos para que PAR lo levante
+%gpx:	s/alzar
+%cod:	espontáneo
+*CHI:	gaga@g &=mostrar . [+ SG]
+%flo:	gaga
+%act:	CHI muestra a PAR un bloque de madera que tiene en la mano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+V
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*PAR:	ih@o un oso .
+*CHI:	&=señalar .
+%act:	CHI señala el oso del libro
+%gpx:	ns/señalar
+%cod:	espontáneo
+*PAR:	un oso .
+*PAR:	una flor .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, f
+*PAR:	tienes hambre ?
+%act:	CHI se lleva a la boca el jitomate
+*PAR:	tienes hambre chiquito .
+@End

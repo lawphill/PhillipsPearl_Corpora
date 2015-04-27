@@ -1,0 +1,144 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Aleida Target_Child, PAR Leticia Mother, INV Mary
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|female|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	19-AUG-1992
+@Transcriber:	PB
+@Date:	10-SEP-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos,
+	trucks
+@New Episode
+*INV:	ay@o que bonito .
+*INV:	muy bien Aleida .
+*INV:	ay@o qué se cayó .
+%act:	CHI juega con los ensambles
+*INV:	ay@o ya lo puso acá hay otro mira .
+%act:	CHI arma una torre con los ensambles
+*CHI:	&=negando .
+%act:	CHI niega con la cabeza al no poder ensartar un ensamble
+%gpx:	c/negando
+%cod:	espontáneo
+*INV:	no ?
+*INV:	a_ver si se puede .
+%act:	CHI vuelve a intentar poner el ensamble
+*INV:	no ?
+*INV:	qué pasó Aleida listo ?
+%act:	CHI voltea a_ver a la cámara
+*INV:	no sirve [/] no sirve .
+*INV:	híjole Aleida .
+*INV:	ay@o cuántas cosas trajimos hoy .
+*INV:	mira bravo .
+%act:	INV golpea dos bloques de madera
+*INV:	oye hacemos una torre ?
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, colored blocks, puppets, tools, fisher price
+	house
+*INV:	mira ay@o qué bonitas cosas .
+%act:	CHI coge las herramientas y las pone en el camión
+*CHI:	ea@g [= señalar] .
+%act:	CHI señala en el espejo
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	quién está ahí ?
+*INV:	quién es ?
+*INV:	ay@o Aleida ahí está Aleida .
+*CHI:	ea@g [= señalar] .
+%act:	CHI hacia el frente como que a los otros juguetes mientras tiene un
+	espejo en la mano
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	un changuito le hace cariñitos a Aleida .
+*INV:	un cariñito .
+*INV:	ay@o mi lengua [/] mi lengua .
+*CHI:	&=ay .
+%act:	CHI le coge la lengua al guiñol e INV hace que la muerde luego CHI
+	sacude su mano
+%gpx:	c/ay
+%cod:	espontáneo
+*INV:	hola .
+%act:	INV mueve los guiñoles y se los muestra a CHI
+*INV:	hola .
+*INV:	hola .
+*CHI:	&=ay .
+%act:	CHI le coge la lengua al guiñol y sacude su mano
+%gpx:	c/ay
+%cod:	rutina
+*INV:	hola .
+*CHI:	&=ay .
+%act:	CHI le coge la lengua al guiñol y CHI sacude su mano
+%gpx:	c/ay
+%cod:	rutina
+*INV:	hola .
+*CHI:	&=ay .
+%act:	CHI le coge la lengua al guiñol y sacude su mano
+%gpx:	c/ay
+%cod:	rutina
+*INV:	hola .
+*CHI:	&=ay .
+%act:	CHI le coge la lengua al guiñol y CHI sacude su mano
+%gpx:	c/ay
+%cod:	rutina
+*INV:	hola Aleida .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira Aleida .
+%act:	CHI juega con los ensambles
+*INV:	haste para acá mira .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	quieres uvas [/] quieres uvas ?
+%act:	PAR le va mostrando los juguetes uno por uno
+*PAR:	come tu sopa .
+*PAR:	come [/] come .
+*CHI:	&=negando .
+%act:	CHI juega con una cuchara y una jitomate niega con la cabeza
+%gpx:	c/negando
+%cod:	espontáneo
+*PAR:	lo ponemos así .
+*PAR:	mira que bueno está mi pan .
+*PAR:	mira así ?
+*PAR:	a_ver hazte tu pan .
+*PAR:	am@o [/] am@o .
+*CHI:	&=pedir .
+%act:	CHI estira el brazo y abre y cierra la mano hacia donde está PAR
+	con el sandwich
+%gpx:	ns/pedir
+%cod:	espontáneo
+*PAR:	am@o ándale pan [/] pan por_favor .
+%act:	PAR hace que muerde el sandwich
+*CHI:	&=pedir .
+%act:	CHI estira el brazo y abre y cierra la mano
+%gpx:	ns/pedir
+%cod:	espontáneo
+*PAR:	am@o .
+*CHI:	ña@p &=pedir .
+%act:	CHI estira ambos brazos y abre y cierra la mano
+%gpx:	ns/pedir
+%cod:	espontáneo
+%com:	Gd+P
+*PAR:	sabes xxx .
+*CHI:	ña@p &=pedir . [+ SG]
+%act:	CHI estira ambos brazos y abre y cierra la mano tratando de
+	alcanzar el sandwich que PAR tiene en la mano además hay contacto
+	visual
+%spa:	$SG
+%gpx:	ns/pedir
+%cod:	espontáneo
+%com:	Gd+P
+*PAR:	quieres comer pan ?
+*PAR:	te traigo el pan eh@o ?
+*PAR:	a_ver mira un limón .
+%act:	CHI se lleva a la boca la lechuga y la muerde
+@End

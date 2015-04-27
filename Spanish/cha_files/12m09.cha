@@ -1,0 +1,630 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	CHI Pedro Target_Child, PAR Mónica Mother, INV Cristina
+	Investigator
+@ID:	spa|jacksonthal|CHI|1;0.|male|||Target_Child|||
+@ID:	spa|jacksonthal|PAR|||||Mother|||
+@ID:	spa|jacksonthal|INV|||||Investigator|||
+@Birth of CHI:	17-JAN-1992
+@Transcriber:	PB
+@Date:	15-FEB-1993
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, doll, duplos
+@New Episode
+*INV:	mira los coches .
+*INV:	mira .
+*CHI:	&=pedir .
+%act:	CHI estira la mano para alcanzar la pelota y voltea a_ver a INV
+%gpx:	ns/pedir
+%cod:	espontáneo
+*INV:	ten .
+*INV:	ay@o que padre ay@o cuéntas cosas .
+*CHI:	xxx . [+ U]
+%flo:	iyeca
+%act:	CHI observa las maderas que INV deja en el suelo
+%spa:	$UN
+*INV:	sí .
+*INV:	pum@o el cochesito pum@o .
+*CHI:	éste . [+ S]
+%flo:	te
+%act:	CHI empuja el coche
+%spa:	$SP
+*INV:	sí ahí te va eh@o pum@o ?
+*INV:	ay@o que emoción .
+*INV:	qué ?
+%act:	CHI avienta a INV la pelota
+*INV:	ay@o te va .
+*INV:	ten .
+*INV:	ahora yo .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI coge un bloque de madera
+%spa:	$SP
+*INV:	ay@o que vamos hacer a_ver ?
+*INV:	mira .
+*PAR:	si estorba ?
+*CHI:	&=negar .
+%act:	CHI quita la pelota que está en sus piernas y voltea a_ver a PAR
+%gpx:	c/negando
+%cod:	espontáneo
+%tim:	00:02:34
+*INV:	a la boca .
+%act:	CHI se mete a la boca un bloque de madera
+*INV:	ay@o .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI mueve un bloque de madera de la torre
+%spa:	$SP
+*INV:	ay@o .
+*CHI:	ya . [+ S]
+%flo:	ya
+%spa:	$SP
+*INV:	ya ?
+*INV:	hacemos otra ?
+*CHI:	éste xxx . [+ P]
+%flo:	te itle
+%act:	CHI coge el coche y voltea a_ver a INV
+%spa:	$PI
+*INV:	pum@o .
+*CHI:	pum@o . [+ I]
+%flo:	pum
+%act:	a CHI se le cae la tabla y PAR e INV se ríen
+%spa:	$IM
+*INV:	qué tiene el coche ?
+*INV:	mira a_ver vamos a_ver .
+*INV:	súbete Pedro .
+*CHI:	xxx . [+ U]
+%flo:	q ke ña
+%act:	CHI juega con el coche y trata de abrir las puertas de éste
+%spa:	$UN
+*INV:	sí se abre la puerta para que te subas .
+*CHI:	éste . [+ S]
+%flo:	teste
+%act:	CHI coge un bloque
+%spa:	$SP
+*INV:	mjú qué vamos hacer con éso a_ver .
+*INV:	a_ver qué hacemos ?
+*CHI:	mira . [+ S]
+%flo:	ñia
+%act:	CHI coge un bloque
+%spa:	$SP
+*INV:	ajá .
+*CHI:	mira [/] mira . [+ S]
+%flo:	ñia ñia
+%act:	CHI coge otro bloque más grande
+%spa:	$SP
+*INV:	ajá éste está más grande verdad ?
+*INV:	sí tú los quieres todos ?
+*CHI:	xxx . [+ U]
+%flo:	miritaru
+%act:	CHI tiene en las manos el coche
+%spa:	$UN
+*CHI:	eh@g [/] eh@g [/] eh@g [= señalar] .
+%act:	CHI extiende los brazos hacia algo fuera de cuadro
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+V
+*INV:	qué quieres ?
+*INV:	a dónde quieres ir ?
+*INV:	te quieres parar ?
+*CHI:	&=dar .
+%act:	CHI levanta la pelota y luego se la coloca en las manos a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	éste mira &=mostrar . [+ S]
+%flo:	éte mia
+%act:	CHI coge un bloque y se lo muestra a INV
+%spa:	$SG
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	mira .
+*CHI:	xxx . [+ U]
+%flo:	ungue to
+%act:	CHI voltea a coger unos bloques
+%spa:	$UN
+*INV:	ah@o con mamá .
+*INV:	sí ?
+*PAR:	ya te vas ?
+*CHI:	sí . [+ A]
+%flo:	mju
+%act:	CHI se mueve hacia a un lado como queriéndose levantar
+%spa:	$AN
+*INV:	vamos a guardarlos .
+*CHI:	qué (.) ve ? [+ S]
+%flo:	que ve
+%act:	INV guarda los juguetes y CHI se asoma a la caja para verlos
+%spa:	$SP
+*CHI:	ah@o ! [+ S]
+%flo:	a
+%act:	INV suelta unos juguetes que caen furtemente eb la caja y CHI hace
+	una expresión de asombro
+%spa:	$SP
+*INV:	ay@o !
+*CHI:	ya . [+ S]
+%flo:	ya
+%act:	CHI continua observando como CHI mete los juguetes en la caja
+%spa:	$SP
+*INV:	me ayudas ?
+*INV:	a_ver échala .
+*INV:	pum@o adentro .
+*INV:	adentro .
+*CHI:	xxx . [+ U]
+%flo:	nuya
+%act:	CHI toma un bloque y lo sostiene
+%spa:	$UN
+*INV:	otro y ya .
+*INV:	Chi no guarda el bloque en la caja .
+*INV:	ya no te los quito .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals,
+	truck, family, blocks, puppets, tools, fisher price house
+*INV:	a_ver cuántas cosas hay aquí mira .
+*INV:	guaú@o [/] guaú@o .
+*INV:	ay@o el guaú@o .
+*CHI:	pum@o [/] pum@o . [+ S]
+%flo:	pum pum
+%act:	CHI coge la vaca y mira a INV
+%spa:	$SP
+*INV:	mu@o [/] mu@o .
+*INV:	ay@o subánse .
+%act:	INV pone varios objetos en el camión y se los va mostrando a CHI
+*INV:	ay@o a_ver vamos a poner al guaú@o .
+*INV:	guaú@o [/] guaú@o .
+*INV:	pum@o .
+*CHI:	pum@o [/] pum@o . [+ S]
+%flo:	pum pum
+%act:	cuando INV mete un perro en el camión
+%spa:	$SP
+*INV:	guaú@o mu@o .
+*INV:	oing@o [/] oing@o [/] oing@o mira tla@o [/] tla@o [/] tla@o .
+*INV:	a_ver aquí está .
+*CHI:	ten . [+ S]
+%flo:	ten
+%act:	CHI pone un muñeco dentro del camión
+%spa:	$SP
+%tim:	00:11:04
+*INV:	el papá adiós papá .
+*INV:	adiós Pedro .
+*INV:	ya se va el papá .
+*INV:	ahí va la mamá .
+*INV:	a_ver aquí que más hay ?
+*INV:	ay@o .
+*INV:	a_ver .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%act:	CHI se dobla para coger unos bloques de madera
+%spa:	$SP
+*INV:	ay@o cuánto esfuerzo .
+*CHI:	pam@o [/] pam@o [/] pam@o [/] pam@o . [+ S]
+%flo:	pam pam pam pam
+%act:	CHI gatea y se empieza a alejar de los juguetes
+%spa:	$SP
+*PAR:	ven .
+*PAR:	Pedro .
+*INV:	Pedro ?
+*INV:	hola oing@o [/] oing@o .
+*INV:	aquí hay otro mira .
+*INV:	ay@o qué bonito el osito .
+*INV:	ay@o qué chulo .
+*CHI:	cum@o . [+ S]
+%flo:	cum
+%act:	CHI mueve el camión
+%spa:	$SP
+%tim:	00:12:40
+*INV:	cum@o [/] cum@o .
+*INV:	ahí va eh ?
+*INV:	ahí va otro .
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	CHI echa una muñeca en el camión
+%spa:	$SP
+%tim:	00:12:50
+*INV:	y todos arriba [/] todos arriba .
+*CHI:	pum@o [/] pum@o . [+ S]
+%flo:	pum pum
+%act:	CHI se va gateando hacia la puerta
+%spa:	$SP
+*PAR:	ven Pedro mira el oso [/] mira el oso .
+*INV:	ay@o guaú@o [/] guaú@o .
+*INV:	ay@o qué bonito .
+%act:	CHI acaricia el guiñol
+*INV:	las bajamos ?
+%act:	CHI golpea las cosas del camión
+*INV:	pum@o .
+*CHI:	cayó aquí . [+ S]
+%flo:	caió akí
+%act:	CHI recoge los muñecos del camión
+%spa:	$SP
+%tim:	00:13:05
+*INV:	arriba .
+*CHI:	éste cae [/] cae . [+ S]
+%flo:	éte cae cae
+%act:	CHI junta juguetes
+%spa:	$SP
+%tim:	00:13:15
+*INV:	ay@o qué hay aquí mira [/] mira .
+%act:	INV saca las herramientas de una bolsa
+*CHI:	&=peinar .
+%act:	CHI coge un cepillo mira a PAR y se peina
+%gpx:	s/peinar
+%cod:	espontáneo
+%tim:	00:13:30
+*INV:	ay@o qué guapo .
+*INV:	qué guapo niño .
+*CHI:	otro . [+ S]
+%flo:	oto
+%act:	CHI coge el martillo que tiene INV al mismo momento que eructa
+%spa:	$SP
+%tim:	00:13:40
+*PAR:	qué más gordo ?
+*PAR:	ven vente para acá .
+*INV:	qué más mira [/] mira éste .
+*PAR:	no te vayas pitufo .
+*INV:	a dónde vas Pedro ven para acá .
+%act:	INV juega con los guiñoles y se los muestra a CHI él se va a
+	gatear y balbucea por largo rato
+*CHI:	pam@o [/] pam@o . [+ S]
+%flo:	pam pam
+%act:	CHI está junto a la silla sobre sus piernas y como que brinca
+%spa:	$SP
+*CHI:	xxx . [+ U]
+%flo:	pabeu
+%act:	CHI está cerca de la silla y voltea a_ver a INV
+%spa:	$UN
+%tim:	00:14:43
+*INV:	qué [/] qué ?
+*PAR:	ven ya te atoraste las piernitas .
+*PAR:	qué ?
+*CHI:	&=qué .
+%act:	CHI levanta las manos hacia arriba y voltea a_ver a PAR al mismo
+	tiempo que hace hacia atrás la cabeza
+%gpx:	c/qué
+%cod:	espontáneo
+*INV:	guaú@o [/] guaú@o .
+%act:	INV vuelve a coger los guiñoles para mostrárselos a CHI
+*INV:	a_ver abajo ?
+*INV:	abajo run@o .
+*CHI:	mmh@o . [+ I]
+%flo:	mmh
+%act:	INV mueve el camión y CHI también lo mueve
+%spa:	$IM
+%tim:	00:16:08
+*INV:	pum@o se cayó .
+*INV:	ahora a dónde vas ?
+*INV:	a_ver qué vamos a echar ?
+*CHI:	xxx . [+ U]
+%flo:	mita
+%act:	CHI se acerca con PAR y se recuesta en sus piernas
+%spa:	$UN
+%tim:	00:16:28
+*CHI:	xxx . [+ U]
+%flo:	cai o keke
+%act:	CHI se levanta de las piernas de PAR y voltea a verla
+%spa:	$UN
+%tim:	00:16:36
+*PAR:	xxx .
+*INV:	guaú@o [/] guaú@o .
+%act:	INV le acerca el guiñol a CHI
+*INV:	pum@o ay@o la bolsa de mamá .
+*CHI:	pum@o [/] pum@o [/] pum@o [/] pum@o . [+ S]
+%flo:	pum pum pum pum
+%act:	CHI gatea y se aleja
+%spa:	$SP
+*INV:	adiós .
+*CHI:	pum@o [/] pum@o [/] pum@o [/] pum@o . [+ S]
+%flo:	pum pum cum cum
+%act:	INV comienza a recoger los bloques del camión
+%spa:	$SP
+*PAR:	pam@o ?
+*CHI:	xxx . [+ U]
+%flo:	kikiri ga
+%act:	CHI coge la bolsa de PAR
+%spa:	$UN
+%tim:	00:17:07
+*CHI:	xxx . [+ U]
+%flo:	gagururu
+%spa:	$UN
+%tim:	00:17:18
+*INV:	ay@o qué plática .
+*CHI:	pam@o [/] pam@o .
+%flo:	pam pam
+%act:	CHI se acerca hacia INV
+%spa:	$SP
+%tim:	00:17:30
+*INV:	adiós .
+*CHI:	pam@o [/] pam@o [/] pam@o [/] pam@o .
+%flo:	pam pam
+%act:	INV mueve el guiñol y CHI se va
+%spa:	$SP
+%tim:	00:17:40
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira el conejito .
+%act:	INV muestra el pop up y CHI observa y mueve todos los animales
+*INV:	pio@o [/] pio@o .
+*INV:	eso [/] eso apachurrále ay@o .
+*INV:	qué ?
+*INV:	ahora sácalo [/] sácalo eso !
+*INV:	ahora aquí mira ahora aquí .
+*INV:	mira .
+%act:	CHI observa el slide and peak pero CHI regresa con el pop up
+*INV:	qué que salga ?
+*INV:	afuera .
+*INV:	ay@o que salga .
+*INV:	ya salió .
+*CHI:	mira [/] mira . [+ S]
+%flo:	mia mia
+%act:	CHI sigue con el pop up queriendo que abran las puertas
+%spa:	$SP
+*INV:	cuál sacamos ?
+*INV:	éste lo sacamos ?
+*INV:	miaú@o .
+*INV:	qué adiós .
+*INV:	a_ver ahí viene [/] ahí viene miaú@o .
+%act:	CHI vocaliza
+*INV:	mjú ?
+*INV:	a_ver qué me vas a enseñar ?
+%act:	CHI coge un libro y lo empieza a hojear
+*INV:	sácalo [/] sácalo .
+%act:	CHI abre el pop up
+*INV:	qué bien eso !
+*INV:	otro sacamos otro ?
+*INV:	ya salió .
+*INV:	cuál sacamos ?
+*INV:	cuál [/] cuál ?
+*INV:	lo sacamos ?
+*INV:	a_ver éste pío@o [/] pío@o .
+*INV:	ay@o el pollito .
+*INV:	a_ver sácalo pues .
+*INV:	fuerte eso .
+*INV:	sácalo pum@o .
+%act:	CHI abre el pop up y ve al pollo y se sonríe y mira a INV
+*INV:	ay@o el pollito pío@o pío@o .
+*INV:	mira el conejito ahí va eh@o ?
+*INV:	pío@o [/] pío@o .
+*INV:	miaú@o .
+%act:	CHI balbucea e INV le contesta como si le entendiera
+*INV:	sí qué barbaridad .
+*CHI:	ya . [+ S]
+%flo:	ya
+%spa:	$SP
+*INV:	mira quién salió ya viste ?
+*INV:	miaú@o .
+*CHI:	xxx . [+ U]
+%flo:	tita
+%spa:	$UN
+*INV:	ya se fue .
+*CHI:	xxx . [+ U]
+%flo:	coque
+%spa:	$UN
+%tim:	00:23:06
+*INV:	se fue .
+*CHI:	xxx . [+ U]
+%flo:	ita
+%act:	CHI mira a INV hacia la cámara
+%spa:	$UN
+%tim:	00:23:11
+*INV:	dónde está ?
+*CHI:	xxx . [+ U]
+%flo:	ita
+%spa:	$UN
+%tim:	00:23:15
+*INV:	se fué .
+%act:	CHI se queja y luego se va con PAR
+*INV:	pio@o pio@o .
+*INV:	aquí sacamos al conejito ?
+*INV:	afuera .
+*INV:	ay@o guaú@o [/] guaú@o [/] guaú@o .
+*INV:	sácalo pues .
+%act:	CHI deja a PAR y vuelve con el pop up
+*INV:	ahí va eh@o guaú@o guaú@o .
+*INV:	éste ?
+*INV:	ay@o conejo .
+*INV:	sácalo .
+%act:	CHI aprieta los botones del pop up
+*INV:	para afuera sal perrito guaú@c sal .
+*INV:	ay@o ya salió .
+*INV:	guaú@o [/] guaú@o .
+*CHI:	guaú@o [/] guaú@o . [+ S]
+%flo:	guaú guaú
+%spa:	$SP
+*INV:	lo guardamos ?
+*INV:	lo guardamos ya ?
+*INV:	ay@o mamá .
+*CHI:	guaú@o [/] guaú@o . [+ S]
+%flo:	guaú guaú
+%act:	CHI está cerca de PAR y voltea a la cámara
+%spa:	$SP
+%tim:	00:24:57
+*INV:	dónde dejaste al perrito ?
+*INV:	dónde está el guaú@c ?
+*INV:	dónde está ?
+*CHI:	xxx . [+ U]
+%flo:	ida
+%act:	CHI voltea a_ver a INV la emisión parece mira pero no estoy segura
+%spa:	$UN
+*INV:	dónde está ?
+*INV:	el guaú dónde está ?
+*INV:	ya se fué ?
+*INV:	ay@o aquí estaba .
+*INV:	lo sacamos ?
+%act:	CHI aprieta los botones del pop up
+*INV:	ya .
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	CHI se aleja y voltea
+%spa:	$SP
+*INV:	pum@o .
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	esta emisión es seguida de la otra
+%spa:	$SP
+*INV:	pum@o [/] pum@o .
+*INV:	pum@o .
+%act:	CHI como que se queja
+*INV:	pum@o .
+*CHI:	pum@o [/] pum@o . [+ S]
+%flo:	pum pum
+%spa:	$SP
+*INV:	pum@o .
+*CHI:	ay@o . [+ S]
+%flo:	ay
+%spa:	$SP
+*INV:	ay@o .
+%act:	CHI se vuelve a quejar
+*INV:	pues ahí está .
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%spa:	$SP
+*INV:	ay@o .
+*INV:	adiós .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*PAR:	con cuál con éste ?
+%act:	CHI tiene todos los juguetes INV levanta el coche y se lo muestra
+*PAR:	nena mira Pedro .
+%act:	PAR muestra el bebé a CHI
+*PAR:	qué es ?
+*CHI:	qué ? [+ S]
+%flo:	qué
+%act:	CHI coge un plato y lo mira luego lo deja a un lado
+%spa:	$SP
+*PAR:	mira .
+%act:	PAR muestra una ciruela pero CHI observa los platos
+*PAR:	ésta es para las tazas .
+*PAR:	ya no quiere jugar .
+*PAR:	Pedro Pedrito .
+*PAR:	ven vamos a jugar carreras órale .
+%act:	PAR mueve dos carros para que CHI la vea
+*PAR:	run@o [/] run@o .
+*PAR:	run@o Pedrito .
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	CHI trata de alcanzar el carro que tiene PAR
+%spa:	$SP
+*PAR:	órale a_ver tú con uno eh@o ?
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	CHI coge un carro que le pasa PAR y lo empuja
+%spa:	$SP
+*PAR:	tú ése y yo éste .
+*PAR:	run@o ñaán@o ay@o .
+%act:	CHI empuja el carro y se cae
+*PAR:	run@o [/] run@o .
+%act:	PAR empuja el coche y luego CHI llora
+*PAR:	no te gusto y tus uvas ?
+*PAR:	qué se comen ?
+%act:	CHI se come las uvas
+*PAR:	no fuchi no se comen .
+*PAR:	oye y ésto para qué es Pedrito ?
+*PAR:	para qué es ?
+*PAR:	para la nena ?
+*CHI:	sí . [+ A]
+%flo:	sí
+%act:	CHI mira la mamila y luego llora
+%spa:	$AN
+*PAR:	sí ?
+*PAR:	ay@o para la nena mira la nena .
+*PAR:	dale a la nena mi amor eso muy bien la nena ándale .
+*PAR:	pobre nena ya la dejaste sin cuna .
+*CHI:	xxx . [+ U]
+%flo:	beete
+%act:	CHI coge una uva y se la lleva a la boca
+%spa:	$UN
+*PAR:	fuchi .
+*PAR:	y el coche ?
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	PAR le acerca el coche a CHI
+%spa:	$SP
+*PAR:	run@o .
+*PAR:	y el otro mira run@o .
+*CHI:	xxx . [+ U]
+%flo:	yacagicua
+%act:	CHI se acerca al coche que empujo PAR
+%spa:	$UN
+*PAR:	traéte el otro Pedro .
+*PAR:	traitelo así mira .
+*PAR:	eso muy bien .
+*PAR:	muy bien Pedro ahí voy .
+%act:	PAR juega a empujar los coches y CHI también lo hace
+*PAR:	éste el amarillo ?
+*PAR:	run@o [/] run@o .
+*PAR:	y ahora gordo ?
+*PAR:	mira los palos .
+%act:	CHI se acerca hacia PAR y balbucea
+*PAR:	mira Pedro [/] Pedro mira fíjate .
+%act:	CHI se lleva a la boca una taza mientras que PAR le muestra una
+	torre que está construyendo
+*PAR:	Pedrito ?
+*PAR:	vas a dónde ?
+%act:	CHI comienza a gatear y alejarse
+*PAR:	mira .
+%act:	CHI balbucea
+*INV:	como alegas .
+*INV:	qué vas a sacar ?
+*PAR:	no ?
+*CHI:	pum@o [/] pum@o .
+%flo:	pum pum
+%act:	CHI gatea de nuevo y se va y sigue balbuceando
+%spa:	$SP
+*PAR:	que bien Pedro .
+*PAR:	a_ver run@o .
+%act:	CHI empuja el coche y luego PAR se lo regresa
+*PAR:	muy bien run@o .
+*INV:	qué ya te cansaste ?
+%act:	CHI se va gateando y va vocalizando
+*PAR:	ay@o que se cayó Pedro ?
+*CHI:	pum@o . [+ S]
+%flo:	pum
+%act:	CHI gatea y se cae un objeto que por poco le pega
+%spa:	$SP
+*PAR:	se cae y luego te pegas verdad ?
+*PAR:	ven Pedro ven .
+*PAR:	ya no vamos a jugar Pedro ya no ?
+*INV:	a qué quieres jugar .
+%act:	CHI vocaliza
+*CHI:	nena [/] nena . [+ S]
+%flo:	nena nena
+%act:	CHI mira el móises que recoge INV
+%spa:	$SP
+*PAR:	nena .
+%act:	CHI vocaliza
+*PAR:	ay@o la nena .
+%act:	CHI se recuesta sobre el móises
+*PAR:	cariñito [/] cariñito Pedro .
+%act:	PAR muestra los guiñoles y CHI los abraza
+*PAR:	mira es amigo de Rocco eh@o ?
+*PAR:	hola Pedro .
+*PAR:	y éste ?
+*PAR:	Pedro güero ?
+*PAR:	Pedro .
+*PAR:	guaú@o [/] guaú@o .
+*PAR:	y Rocco quién es Rocco ?
+*PAR:	ay@o qué lindo .
+%act:	CHI abraza los guiñoles y luego se va gateando hacia la cámara
+*CHI:	pam@o . [+ S]
+%flo:	pam
+%spa:	$SP
+*CHI:	pam@o [/] pam@o . [+ S]
+%flo:	pam pum
+%act:	después de jugar mucho rato con los guiñoles CHI gatea
+%spa:	$SP
+*PAR:	gordo ?
+*PAR:	Pedrito ?
+*INV:	ve con mamá .
+*PAR:	guaú@o [/] guaú@o [/] guaú@o .
+*CHI:	pam@o [//] pum@o [/] pum@o [/] pum@o . [+ S]
+%flo:	pam pum pum pum
+%spa:	$SP
+*PAR:	ven Pedro .
+*PAR:	hola .
+%act:	CHI se acerca a PAR y se sonríe
+*PAR:	hola .
+@End

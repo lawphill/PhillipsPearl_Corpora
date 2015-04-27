@@ -1,0 +1,396 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Gabriela Target_Child, PAR Amelia Mother, INV Betty
+	Investigator
+@ID:	es|jacksonthal|CHI|1;0.|female|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	30-APR-1994
+@Transcriber:	OMR/RJ
+@Date:	30-APR-1999
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*INV:	hola Gaby .
+*INV:	mira todo lo que tenemos aquí para jugar .
+*CHI:	&=mostrar .
+%act:	CHI muestra un bloque de madera a PAR
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	mira Gaby .
+*INV:	&ih ahí te va .
+*INV:	ay@o !
+%act:	INV le avienta la pelota a CHI y ésta se la regresa
+*INV:	ahí te va .
+*INV:	ee@o .
+*INV:	avientamela avientamela .
+*INV:	ve eh .
+*CHI:	&=mostrar .
+%act:	CHI muestra un ensamble amarillo a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	aquí mira .
+*CHI:	&=señalar .
+%act:	CHI selñala con un bloque de madera hacia el frente
+%gpx:	ns/señalar
+%cod:	espontáneo
+*INV:	mira vamos a hacer una torre .
+*CHI:	&=mostrar .
+%act:	CHI toma la pelota voltea hacia donde está PAR y se la muestra por
+	un momento
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	ay@g xxx . [+ P]
+%flo:	ay e caya
+%spa:	$PI
+*INV:	ay ay ay ay ay .
+*INV:	ahí está .
+*INV:	ahí está .
+*INV:	a_ver vamos a hacer una una torre Gaby mira .
+*INV:	mira Gaby .
+*CHI:	&=señalar .
+%act:	CHI señala con muñeco en mano la tore que hizo INV e
+	inmediatamente a tira
+%gpx:	ns/señalar
+%cod:	espontáneo
+*INV:	ay@g se cayó la torre !
+*INV:	vamos a hacer otra torre .
+*INV:	otra torre vamos a hacer .
+*CHI:	&=dar .
+%act:	CHI le da a PAR un muñeco que trae en la mano
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	mira Gaby .
+*INV:	ay@o !
+*CHI:	&=mostrar .
+%act:	CHI le muestra un muñeco que tiene en la mano a INV ésta lo toma
+	y lo coloca en la parte de atrás del camión
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	gracias !
+*INV:	vamos a llevarlo a pasear .
+*INV:	ay@o se va a pasear el señor .
+*INV:	se va a pasear .
+*INV:	déjeme pasar .
+*INV:	déjeme pasar .
+*INV:	qué pasó Gaby ?
+*INV:	ten .
+*CHI:	&=dar .
+%act:	CHI le da a PAR un muñeco que trae en la mano
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	guardamos los juguetes para que te enseñe otros sí ?
+*CHI:	&=señalar .
+%act:	CHI señala hacia la caja de juguetes que se encuentra frente a
+	ella
+%gpx:	ns/señalar
+%cod:	espontáneo
+*INV:	a_ver ayúdame a echarlos aquí .
+*INV:	vamos a echarlos ahí .
+*INV:	ten .
+*INV:	aquí ahí .
+*CHI:	&=dar .
+%act:	CHI le dá el cuadro a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	tan tan tan .
+*INV:	tan tan tan .
+*INV:	ya vamos a guardar éstos ara que te enseñe otros .
+@New Episode
+@Situation:	Language sample 3
+@Comment:	Stimuli are comb and brush, mirror, purse, farm animals, 
+	truck, family, colored blocks, puppets, tools.
+*CHI:	&=mostrar .
+%act:	CHI muestra un muñeco a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	&=dar .
+%act:	CHI le dá a INV unas pinzas
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	mira .
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI se inclina para tomar un muñeco que está en la alfombra
+%spa:	$SP
+*CHI:	mira [/] ya . [+ S]
+%flo:	ia ya
+%act:	CHI gatea y luego estira la mano como si quisiera alcanzar algo
+%spa:	$SP
+*INV:	mira .
+*INV:	ay@o vamos a arreglar el camión .
+%act:	INV golpea la llanta del camión
+*CHI:	mira &=señalar . [+ SG]
+%act:	CHI señala hacia el frente
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*CHI:	&=dar .
+%act:	CHI le dá un muñeco a INV
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	run@o . [+ S]
+%flo:	rrr
+%act:	CHI empuja el camión sobre la alfombra muy cerquita de INV
+%spa:	$SP
+*INV:	run@o .
+*CHI:	run@o . [+ S]
+%flo:	rrr
+%act:	después de que INV lo hace CHI vuelve a empujar el camión sobre
+	la alfombra
+%spa:	$SP
+*CHI:	&=mostrar .
+%act:	CHI muestra el camión a INV
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	&=dar .
+%act:	CHI le dá el cepillo a PAR
+%gpx:	ns/dar
+%cod:	espontáneo
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI tiene en las manos un collar que estira y sacude
+%spa:	$SP
+*INV:	mira .
+*CHI:	mira &=mostrar &=dar . [+ SG]
+%flo:	ida
+%act:	CHI le dá un muñeco a INV
+%spa:	$SP
+%gpx:	ns/mostrar ns/dar
+%cod:	espontáneo
+%com:	Gd+Gd+W
+*INV:	sí .
+*INV:	aquí .
+*CHI:	aquí . [+ S]
+%flo:	aquí
+%act:	CHI toma el muñeco del camión y lo observa un momento
+%spa:	$SP
+*CHI:	ee@g &=dar . [+ SG]
+%flo:	ee
+%act:	CHI le pasa el muñeco a INV
+%spa:	$SP
+%gpx:	ns/dar
+%cod:	espontáneo
+%com:	Gd+V
+*CHI:	nena . [+ S]
+%flo:	ena
+%act:	CHI se estira hasta alcanzar la muñeca la toma y la observa
+%spa:	$SP
+*CHI:	mira &=mostrar . [+ SG]
+%flo:	ia
+%act:	CHI gira hacia el lado en que está PAR y sostiene frente a ella la
+	muñeca
+%spa:	$SP
+%gpx:	ns/mostrar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	mira .
+*CHI:	éste [/] éste . [+ S]
+%flo:	este ete
+%act:	CHI se estira para tomar el muñeco que INV tiene en las manos
+%spa:	$SP
+*INV:	ay@o ay@o !
+*INV:	hola Gaby .
+%act:	INV toma los guiñoles y juega con CHI
+*INV:	hola mu@o mu@o .
+*INV:	hola Gaby cómo estás ?
+*INV:	hola .
+*INV:	dame de comer tengo hambre .
+*INV:	Gaby tengo hambre .
+*CHI:	&=dar .
+%act:	CHI le mete al chango en la boca un cepillo para que coma
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ammm@o !
+*INV:	quiero más .
+*INV:	Gaby Gaby .
+*CHI:	&=dar .
+%act:	CHI le mete al chango en la boca la muñeca para que coma
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	&uy me lo como ?
+*CHI:	aquí esta . [+ S]
+%flo:	aquí ta
+%act:	CHI se estira y alcanza el muñeco que esta enfrente de ella
+%spa:	$SP
+*CHI:	&=dar .
+%act:	CHI le mete al chango en la boca el muñeco para que coma
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ammm@o !
+*INV:	ammm@o !
+*INV:	ammm@o !
+*CHI:	&=dar .
+%act:	CHI le mete al chango en la boca el muñeco para que coma
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ammm@o ammm@o !
+*INV:	me como a Gaby ?
+*CHI:	&=dar .
+%act:	CHI le mete al chango en la boca el martillo para que coma
+%gpx:	ns/dar
+%cod:	espontáneo
+*INV:	ammm@o ammm@o !
+*INV:	dame dame tengo hambre .
+*INV:	me como tu mano ?
+*CHI:	&=mostrar .
+%act:	CHI sostiene frente a los guiñoles un bloque de madera rojo hasta
+	que estos se acercan y se lo comen
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*INV:	hola hola hola .
+*INV:	listo Paty .
+@New Episode
+@Situation:	Language sample 2
+@Comment:	Stimuli are slide and peak, pop-up, books
+*INV:	mira que bonito !
+%act:	INV le muestra los cuentos a CHI
+*INV:	mira .
+*INV:	aquí mira Gaby .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are dishes, cups, spoons, pitcher, cars, colored
+	blocks, doll and crib, food, duplos, bottle
+*CHI:	éste .
+%flo:	ete
+%spa:	$SP
+*CHI:	e@o ésta . [+ S]
+%flo:	e eta
+%act:	CHI mueve la cabeza de un lado para otro
+%spa:	$SP
+*CHI:	mira .
+%flo:	ea
+%spa:	$SP
+%act:	PAR le da a CHI un biberón
+*CHI:	éste ? [+ S]
+%flo:	ete
+%act:	CHI está en posición de gateo
+%spa:	$SP
+*CHI:	run@o (.) run@o (.) run@o . [+ S]
+%flo:	rrr rrr rrr
+%act:	CHI empuja el carro encima de otros juguetes
+%spa:	$SP
+*CHI:	&=mostrar .
+%act:	CHI jmuestra a INV que está fuera del cuadro un plátano
+%gpx:	ns/mostrar
+%cod:	espontáneo
+*CHI:	qué &=negando . [+ SG]
+%flo:	qué
+%act:	PAR le pasa un limón a CHI y ésta lo toma
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*CHI:	sí &=afirmando . [+ SG]
+%flo:	ii
+%act:	CHI tiene en una mano la manzana y en la otra el limón
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*PAR:	mira hija .
+*CHI:	&=negando .
+%act:	PAR le pasa a CHI la mamila y la acerca a la boca del bebé
+%gpx:	c/negando
+%cod:	espontáneo
+*INV:	aquí si puede hablarle y decirle lo que quiera .
+*PAR:	mira dásela al bebé .
+*CHI:	xxx &=afirmando . [+ UG]
+%flo:	ta
+%act:	PAR le dice algo a CHI y ésta mueve de arriba a abajo la cabeza
+%spa:	$UN
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+X
+*PAR:	mira ten .
+*INV:	un poquito más fuerte .
+*PAR:	ten dásela .
+*PAR:	dásela al bebé .
+*PAR:	ten .
+*PAR:	mira éste .
+%act:	PAR le pasa a CHI un platano y ésta se lo lleva a la boca
+*PAR:	mira ten .
+*CHI:	éste &=afirmando .
+%flo:	éte
+%act:	CHI mira a PAR y afirma moviendo la cabeza
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*CHI:	éste te@g te@g te@o . [+ S]
+%flo:	éte te te te
+%act:	CHI se voltea y da la espalda a la cámara PAR la acomoda
+%spa:	$SP
+*PAR:	ten .
+%act:	PAR le acerca el plato con la rebanada de pan a CHI ésta toma el
+	pan
+*CHI:	&=mostrar &=comer .
+%act:	CHI levanta el pan y se lo muestra a PAR y luego se lo lleva a la
+	boca
+%gpx:	ns/mostrar s/comer
+%cod:	espontáneo
+%com:	Gd+Gr
+*PAR:	mira .
+*PAR:	mira Gaby .
+*PAR:	ten .
+%act:	PAR le da a CHI unas uvas
+*CHI:	éste . [+ S]
+%flo:	te
+%act:	CHI toma las uvas
+%spa:	$SP
+*PAR:	mira (.) mira .
+*PAR:	cómetela .
+%act:	PAR le da una taza anaranjada a CHI
+*PAR:	cómetela .
+*PAR:	cómetela .
+*PAR:	mira (.) mira .
+%act:	PAR le acerca un carrito a CHI
+*CHI:	run@o [/] run@o [/] run@o [/] run@o [/] run@o . [+ S]
+%act:	CHI empuja el carro y lo rueda sobre la alfombra
+%flo:	rrr rrr rrr rrr rrr
+%spa:	$SP
+*PAR:	mira .
+*CHI:	run@o [/] run@o [/] run@o . [+ S]
+%act:	CHI empuja el carro y lo rueda sobre la alfombra
+%flo:	rrr rrr rrr
+%spa:	$SP
+*CHI:	run@o [/] run@o [/] run@o [/] run@o [/] run@o . [+ S]
+%act:	CHI empuja el carro y lo rueda sobre la alfombra
+%flo:	rrr rrr rrr rrr rrr
+%spa:	$SP
+*INV:	vamos a guardar ésto para darle ésto .
+%act:	INV guarda los juguetes y le da a PAR los guiñoles
+*CHI:	ya &=afirmando . [+ SG]
+%flo:	ya
+%act:	CHI le pasa a INV un palo de madera y luego cruza las manos y
+	mirando a INV afirma con la cabeza
+%spa:	$SP
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+W
+*CHI:	vete . [+ S]
+%flo:	vete
+%act:	PAR le acerca el guiñol a CHI y ésta le dice que se vaya también
+	moviendo los brazos
+%spa:	$SP
+*PAR:	mira (.) mira (.) mira .
+*PAR:	Gaby mira .
+*PAR:	Gaby mira el chango .
+*PAR:	mira .
+*PAR:	el changuito .
+*PAR:	mira .
+*CHI:	xxx &=afirmando . [+ UG]
+%flo:	ca
+%act:	PAR le acerca el chango a CHI y ésta viendo hacia el frente afirma
+	con la cabeza
+%spa:	$UN
+%gpx:	c/afirmando
+%cod:	espontáneo
+%com:	Gr+X
+*PAR:	mira el changuito mira .
+*PAR:	Gaby .
+*PAR:	Gaby .
+*PAR:	mira .
+@End

@@ -1,0 +1,103 @@
+@UTF8
+@Begin
+@Languages:	es
+@Participants:	CHI Marcos Target_Child, PAR Verónica Mother, INV Paty
+	Investigator
+@ID:	es|jacksonthal|CHI|0;10.|male|||Target_Child||
+@ID:	es|jacksonthal|PAR|||||Mother||
+@ID:	es|jacksonthal|INV|||||Investigator||
+@Birth of CHI:	30-JUN-1994
+@Transcriber:	RJD
+@Date:	18-MAY-1995
+@Situation:	Rapport
+@Comment:	Stimuli are teddy bear, blocks, car, ball, doll, duplos, 
+	trucks
+@New Episode
+*CHI:	mira [/] mira . [+ S]
+%flo:	ia ia
+%act:	CHI tiene en la mano un carrito
+%spa:	$SP
+*CHI:	mira [= señalar] . [+ SG]
+%flo:	ia
+%act:	CHI trae en una de las manos en carro y en la otra un bloque de
+	madera con el que señala hacia el frente mientras tanto INV revisa
+	una carpeta roja
+%spa:	$SG
+%gpx:	ns/señalar
+%cod:	espontáneo
+%com:	Gd+W
+*INV:	ya ?
+*INV:	mira .
+*INV:	quieres jugar con la mona ?
+*INV:	mira .
+*INV:	ay@o .
+%act:	INV le pone de pie una muñeca enfrente a CHI que al soltarla se
+	cae
+*INV:	ay@o .
+%act:	INV y CHI juegan con los ensambles a construír y deshacer torres
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI toma un conjunto de bloques armados de alfombra y lo levanta
+%spa:	$SP
+*INV:	mira .
+*INV:	mira cuantos .
+*INV:	mira que grande está .
+*INV:	mira ya se va a caer .
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI e INV juegan con los ensambles
+%spa:	$SP
+*INV:	mira .
+*INV:	qué quieres jueguitos ?
+*INV:	mira mira cubos .
+@New Episode
+@Situation:	Language sample 1
+@Comment:	Stimuli are books, abacus, rattle, car, puppets, duplos, 
+	stacking cups
+*PAR:	también le hablo o qué ?
+*INV:	sí como juegas con él .
+*PAR:	mira bebé .
+*PAR:	mira juguetes .
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI juega con el abaco
+%spa:	$SP
+*PAR:	mira .
+*PAR:	mira .
+*CHI:	mira [/] mira . [+ S]
+%flo:	ia ia
+%act:	INV le acerca el abaco que le había quitado de las manos a CHI
+	para que pare de llorar
+%spa:	$SP
+*CHI:	mira . [+ S]
+%flo:	ia
+%act:	CHI juega con el abaco
+%spa:	$SP
+*PAR:	mira hijo .
+%act:	INV le acerca las tacitas a CHI
+*PAR:	sácalos sácalos .
+*INV:	no chiquito no llores .
+*CHI:	mira [/] mira . [+ S]
+%flo:	ia ia
+%act:	CHI se estira y alcanza el carrito
+%spa:	$SP
+*PAR:	mira el xxx mira .
+%act:	INV le muestra un cuento a CHI
+*PAR:	ih@o .
+*CHI:	ah@p &=pedir .
+%act:	CHI estira la mano como piediendole la vaca a PAR
+%gpx:	ns/pedir
+%cod:	espontáneo
+%com:	Gd+P
+*PAR:	mira la vaca .
+%act:	INV juega con CHI a los guiñoles
+*PAR:	mu@o mu@o .
+*CHI:	ya . [+ S]
+%flo:	ya
+%act:	CHI se quita bruscamente con sus manitas a la vaca que PAR le está
+	poniendo en la cara
+%spa:	$SP
+*PAR:	mira bebé Marquitos .
+*PAR:	mira la vaquita .
+*PAR:	marcos marcos .
+@End
