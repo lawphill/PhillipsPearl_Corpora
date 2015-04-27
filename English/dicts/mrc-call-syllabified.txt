@@ -1641,7 +1641,6 @@ pass+word	p@/swRd
 popcorn	pap/kcrn
 princess	prIn/sEs
 redhead	rEd/hEd
-sandman	
 sixpence	sIk/spEns
 soft+ware	scf/twer
 softball	scft/bcl

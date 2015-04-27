@@ -4493,6 +4493,11 @@ mygoodness	mY/gUd/nIs
 ohmygoodness	o/mY/gUd/nIs
 guzenheit@snle	gx/z^nd/hYt
 mms	xmz
+mamamama	ma/mx/ma/mx
+lalalalala	la/lx/la/lx/la
+pottie	pa/ti
+youse	yuz
+sandman	s@nd/m@n
 mmm	xm
 mmming	x/mIG
 mmms	xmz
@@ -6065,7 +6070,7 @@ samuel	s@/myu/xl
 sand	s@nd
 sandal	s@n/dxl
 sandals	s@n/dxlz
-sandman	
+sandman	s@nd/m@n
 sandwich	s@n/dwIC
 sandy	s@n/di
 sang	s@G

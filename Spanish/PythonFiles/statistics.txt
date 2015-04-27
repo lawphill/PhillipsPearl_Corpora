@@ -1,5 +1,0 @@
-Number of utterances: 3351
-Number of words by tokens: 9775
-Number of words by type: 1150
-Words per utterance on average: 2.91703968964
-Phonemes per word on average: 1.89792135255

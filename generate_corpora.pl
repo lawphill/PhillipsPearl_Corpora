@@ -17,22 +17,14 @@ my @needs_syllabic = qw(English Farsi German Japanese Spanish);
 # my script for German, Farsi, English
 
 # english
-system("perl English/scripts/edit-dict-brent.pl");
-system("perl English/scripts/adding-syllabification.pl");
-system("perl English/scripts/syllabify-corpus.pl");
-
-
-
-die();
-
-
-
-
+system("perl English/scripts/edit_dict_brent.pl");
+system("perl English/scripts/adding_syllabification.pl");
+system("perl English/scripts/syllabify_corpus.pl");
 
 # german
 
-
 # spanish
+system("perl Spanish/scripts/create_corpus.pl");
 
 # japanese
 
