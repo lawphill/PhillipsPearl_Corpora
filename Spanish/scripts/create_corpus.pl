@@ -6,7 +6,7 @@ use File::Basename qw(dirname);
 use Cwd qw(abs_path);
 use lib './';
 
-use Syllabification qw(maximum_onset_principle);
+use Syllabification;
 
 # Generate Orthographic & Phonetic Corpora
 system("python Spanish/scripts/dict_convert.py");
@@ -23,41 +23,16 @@ open(my $syl_fh,">",$syl_file) or die("Couldn't open $syl_file: $!\n");
 
 my $vowels = 'aeiou\%\$\#\@\!\&\*\+\-3';
 # IDENTIFY VALID ONSETS
-my %onsets;
-foreach my $line (@phon_lines){
-    my @words = split(/\s+/,$line);
-    foreach my $word (@words){
-       # print "$word\n";
-        my $onset = ''; my $found_vowel = 0;
-        foreach my $char (split(//,$word)){
-            if($found_vowel == 0){
-                if($char =~ /[\%\$\#\@\!\&\*\+\-]/){
-                    $char = '\\' . $char;
-                }
-                if($vowels =~ /$char/){
-                    $found_vowel = 1;
-                }else{
-                    $onset .= $char;
-                }
-            }
-        }
-        $onset =~ s/\\//g;
-       #print "$onset\n"; my $a = <STDIN>;
-        if($onset =~ /^\S+$/){
-            $onsets{$onset} = 1;
-        }
-    }
-}
+my $onset_ref = find_onsets(\@phon_lines,$vowels);
+my %onsets = %{$onset_ref};
+
 # ADD ADDITIONAL ONSETS
 $onsets{'|'} = 1;
 
 # PRINT ONSETS
 my $onset_file = 'Spanish/dicts/valid_onsets.txt';
-open(my $onset_fh,">",$onset_file) or die("Couldn't open $onset_file: $1\n");
-foreach (sort keys %onsets){
-    print $onset_fh "$_\n";
-}
-close($onset_fh);
+my @onset_array = sort keys %onsets;
+print_array(\@onset_array, $onset_file);
 
 # SYLLABIFY AND PRINT FILE, ALSO PRINT ALL SYLLABIFIED WORDS
 my $syl_word_file = 'Spanish/dicts/syllabified_words.txt';

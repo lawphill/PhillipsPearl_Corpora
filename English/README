@@ -1,0 +1,14 @@
+ENGLISH CORPUS
+--------------
+Our English corpus is derived from the Brent corpus, available at http://childes.psy.cmu.edu/data/Eng-NA-MOR/Brent.zip
+
+Specifically, this is an updated version of the UCI Brent Syllables corpus, available at http://childes.psy.cmu.edu/derived/uci_brent_syl.zip
+
+The corpus consists only of child-directed speech where the child was 9 months-of-age or younger. This results in a total of 28,371 utterances.
+
+Syllabification was done in a three step process:
+    1) Syllabification was taken from the MRC Psycholinguistics Database, http://ota.oucs.ox.ac.uk/headers/1054.xml
+    2) If not found there, syllabification was taken from the English Callhome Lexicon, https://catalog.ldc.upenn.edu/LDC97L20
+    3) If not found there, syllabification was done using the Maximum-Onset Principle
+
+Due to licensing, we are unable to provide the relevant files from the English Callhome Lexicon.

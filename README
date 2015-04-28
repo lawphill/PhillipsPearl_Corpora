@@ -1,0 +1,15 @@
+Phillips Pearl Corpora
+
+Used in
+-------
+Phillips, L. & Pearl, L. 2014. Bayesian inference as a viable cross-linguistic word segmentation strategy: It's all about what's useful. Proceedings of the 36th Annual Conference of the Cognitive Science Society, Quebec City, CA: Cognitive Science Society, 2775-2780.
+
+Phillips, L. & Pearl, L. 2014. Bayesian inference as a cross-linguistic word segmentation strategy: Always learning useful things. Proceedings of the Computational and Cognitive Models of Language Acquisition and Language Processing Workshop, EACL, Gothenberg, Sweden.
+
+Corpora
+-------
+The corpora come from seven different languages. Each compiled corpus is available in orthographic form as well as in phonetic form both with and without syllabification. The seven languages are English, German, Spanish, Italian, Farsi, Hungarian, and Japanese. More detail about each set of corpora can be found in their corresponding folder's README.
+
+License
+-------
+See the LICENSE file

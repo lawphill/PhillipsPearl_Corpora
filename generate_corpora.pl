@@ -22,7 +22,8 @@ system("perl English/scripts/adding_syllabification.pl");
 system("perl English/scripts/syllabify_corpus.pl");
 
 # german
-
+system("perl German/scripts/syllabify_corpus.pl");
+die("Stopping before Spanish\n");
 # spanish
 system("perl Spanish/scripts/create_corpus.pl");
 
@@ -30,6 +31,7 @@ system("perl Spanish/scripts/create_corpus.pl");
 
 # farsi
 
+die("Stopped before Unicode\n");
 
 # CONVERT SYLLABIFIED CORPORA TO UNICODE
 my @languages = qw(English German Spanish Italian Farsi Hungarian Japanese);

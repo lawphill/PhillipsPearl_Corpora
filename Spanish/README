@@ -1,0 +1,9 @@
+SPANISH CORPUS
+--------------
+Our Spanish corpus is derived from the Jackson-Thal corpus on CHILDES, http://childes.psy.cmu.edu/data/Romance/Spanish/JacksonThal.zip
+
+We restricted our corpus to speech directed at children 20 months-of-age or younger. This produces a corpus of 9026 utterances.
+
+Converting the orthographic corpus to a phonetic form was done using the Spanish Callhome lexicon. Due to licensing, we cannot provide the relevant files here.
+
+Syllabification was accomplished using the Maximum-Onset Principle.

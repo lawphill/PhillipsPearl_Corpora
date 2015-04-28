@@ -5,7 +5,7 @@ use warnings;
 use Exporter;
 use vars qw(@ISA @EXPORT);
 our @ISA = qw(Exporter);
-our @EXPORT = qw(maximum_onset_principle unicode_conversion train_test_split convert_to_lignos print_array);
+our @EXPORT = qw(maximum_onset_principle unicode_conversion train_test_split convert_to_lignos print_array find_onsets);
 
 sub maximum_onset_principle{
 	my ($word, $vowels, $onset_ref) = @_;
@@ -170,7 +170,7 @@ sub print_array{
 	binmode($filehandle,":utf8");
 
 	for my $i (0..$#{ $array_ref }){
-		if($array_ref->[$i] =~ /^\S+$/){ # Only print if line is non-empty
+		if($array_ref->[$i] !~ /^\s+$/){ # Only print if line is non-empty
 			print $filehandle "$array_ref->[$i]";
 			if($i < $#{ $array_ref }){ print $filehandle "\n"; }
 		}
@@ -178,6 +178,38 @@ sub print_array{
 
 	close($filehandle);
 	return 1;
+}
+
+sub find_onsets{
+    my ($corpus_ref,$vowels) = @_;
+    my %onset_hash;
+    foreach my $line (@{$corpus_ref}){
+        my @words = split(/\s+/,$line);
+
+        foreach my $word (@words){
+            my $onset = ''; my $found_vowel = 0;
+
+            foreach my $char (split(//,$word)){
+                if($found_vowel == 0){
+                    if($char =~ /[\%\$\#\@\!\&\*\+\-]/){
+                        $char = '\\' . $char;
+                    }
+                    if($vowels =~ /$char/){
+                        $found_vowel = 1;
+                    }else{
+                        $onset .= $char;
+                    }
+                }
+            }
+            $onset =~ s/\\//g;
+
+            if($onset =~ /^\S+$/){
+                $onset_hash{$onset} = 1;
+            }
+        }
+    }
+
+    return %onset_hash;
 }
 
 1;
