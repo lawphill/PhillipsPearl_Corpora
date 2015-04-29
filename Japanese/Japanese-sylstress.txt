@@ -402,7 +402,7 @@ a1 A1 A1
 to1/re0/cat1/tA0
 a1/ci0/ci0 to1 ci0/ga1/u0 ka1 so1/re0
 dai1/GO1/bu0 ka1
-A1/I0 o1/to0 I1 o1/to0
+A1//I0 o1/to0 I1 o1/to0
 n1
 yo1/i0/So1 cot1/to0 mat1/te0/te0 yA1
 yo1

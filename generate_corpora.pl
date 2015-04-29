@@ -13,6 +13,8 @@ use Syllabification;
 my @needs_phonetic = qw(English Farsi Japanese Spanish);
 my @needs_syllabic = qw(English Farsi German Japanese Spanish);
 
+system("perl Japanese/scripts/createIPAsylstress.pl -inputfile Japanese/Japanese-ortho.txt -dictfile Japanese/dicts/japanese_dict.txt -sylstressout Japanese/Japanese-sylstress.txt -sylout Japanese/Japanese-syl.txt -ipaout Japanese/Japanese-phon.txt");
+die("");
 # use Lisa's script for japanese & spanish
 # my script for German, Farsi, English
 
@@ -23,13 +25,18 @@ system("perl English/scripts/syllabify_corpus.pl");
 
 # german
 system("perl German/scripts/syllabify_corpus.pl");
-die("Stopping before Spanish\n");
+
 # spanish
 system("perl Spanish/scripts/create_corpus.pl");
 
 # japanese
 
+
 # farsi
+
+# italian
+
+# hungarian
 
 die("Stopped before Unicode\n");
 

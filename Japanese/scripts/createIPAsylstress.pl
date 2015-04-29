@@ -140,7 +140,3 @@ system("perl -p -e \'s\/ \$\/\/\' \< $opt_sylout \> syl.temp");
 system("mv syl.temp $opt_sylout");
 system("perl -p -e \'s\/ \$\/\/\' \< $opt_sylstressout \> sylstress.temp");
 system("mv sylstress.temp $opt_sylstressout");
-
-
-
-
