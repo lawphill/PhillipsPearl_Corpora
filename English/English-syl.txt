@@ -627,12 +627,9 @@ bum
 bum
 k^m hir
 k^m hir
-
 lE/mi lUk @t yu
-
 Its o/ke
 o/ke
-
 k^m an
 lEts lUk Wt/sYd
 yR yR
@@ -678,8 +675,6 @@ Y no yu du
 yEs
 w^t e swi/ti
 ma/mi h@z ga/Cx
-
-
 yur J^st tYrd arnt ya
 se o Ym tYrd
 se ma/mi
@@ -799,7 +794,6 @@ wir J^st
 k^m an
 wi ga/tx
 pUt yUr dY/pR an
-
 ma/mi Iz J^st p^/tIG yUr dY/pR an
 Der wi go
 Der yu go
@@ -820,7 +814,6 @@ yu J^st pUld ma/miz her
 nW wir g^/nx pUt yUr p@nts b@k an
 o w^t ar yu krY/IG x/bWt
 W
-
 DIs wUd bi m^C i/zi/R
 If yu wRnt kI/kIG yUr lI/txl lEgz
 k^m an
@@ -1829,7 +1822,6 @@ o dont kIk ma/mi
 yu kIkt D^ krim rYt Wt ^v ma/miz h@ndz
 DIs Iz g^/nx mek It fil bE/tR mor/gIn
 c
-
 Its o/ke
 Its o/ke
 ma/miz g^/nx mek It fil bE/tR
@@ -4675,7 +4667,6 @@ cl o/vR tWn
 o yu fcr/gat yUr kI/ti
 mi/W
 D^ End ^v D^ lYn
-
 In @nd Wt
 muv an b@k
 ^p @nd dWn
@@ -12122,9 +12113,7 @@ Ym sa/ri
 k^m an
 Ym du/IG It ri/x/li f@st
 @z f@st @z Y k@n
-
 w^ts DIs
-
 wir g^/nx go Wt @nd si D^ skw/Rrxl
 wir g^/nx go si D^ skw/Rrxl
 yEs wi ar
@@ -12174,11 +12163,9 @@ ga/tx pUt an yUr SRt
 so wi k@n go Wt
 ^/DR/wYz yul gEt kold
 J^st p^/tIG an s^m lcG slivz fcr yu so D@t yu wont gEt
-
 o Y no
 Its ri/x/li D@t yUr tYrd
 tYrd be/bi
-
 wir g^/nx go si skwR/x/li
 wir g^/nx go Wt @nd si skwR/x/li nW
 yu @nd mi
@@ -12201,7 +12188,6 @@ Y m^st zIp yu ^p
 yu wa/nx gEt kol/dR
 no no
 no Y no yu dont
-
 Y no
 Y no
 k^m an
@@ -28241,8 +28227,6 @@ no nid tu kip ha/lx/rIG In hir nW
 yu ri/x/li TIGk yu r^/nIG
 bc/lIG ^p yUr fIsts
 wi mYt h@v tu pUt yu In but k@mp R/li
-
-
 wEl If yu nat sli/pIG yu nid tu klin It ^p
 klin It ^p
 ma/mx
@@ -28358,7 +28342,6 @@ ar yu sIG/IG e scG
 a Y dont fil lYk tc/kIG
 yu rx/mEm/bR d@t mu/vi
 fYv part
-
 ma/mx
 yu nid tu lRn hW tu
 Eks/prEs yUr/sElf bx/sYdz ha/lx/rIG cl D^ tYm

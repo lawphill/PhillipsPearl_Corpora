@@ -33,6 +33,7 @@ use utf8;
 
 # default options
 $mode = "syl";
+$verbose = 0;
 
 # begin getting command line options
 process_options();
@@ -40,7 +41,7 @@ if($opt_mode){
   $mode = $opt_mode;
 }
 
-print("Output mode: $mode\n");
+if($verbose==1){ print("Output mode: $mode\n"); }
 
 # open dictfile and dump all the translations into a hash
 
@@ -66,7 +67,7 @@ while(defined($dictfileline = <DICT>)){
 
     $dict{$word} = $ipa_form;
   }else{
-	print STDOUT "$dictfileline\n";
+	if($verbose==1){ print STDOUT "$dictfileline\n"; }
   }
   #print("debug: word = $word, ipa_form = $ipa_form\n");
 
@@ -117,7 +118,7 @@ while(defined($inputfileline = <IN>)){
 
 	print(OUT "$converted_word ");
       }else{
-	print("DEBUG: *** $word_to_find not found in $opt_dictfile\n");
+	if($verbose==1){ print("DEBUG: *** $word_to_find not found in $opt_dictfile\n"); }
       }
   }
  

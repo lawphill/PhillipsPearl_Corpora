@@ -23,8 +23,8 @@ open(my $syl_fh,">",$syl_file) or die("Couldn't open $syl_file: $!\n");
 
 my $vowels = 'aeiou\%\$\#\@\!\&\*\+\-3';
 # IDENTIFY VALID ONSETS
-my $onset_ref = find_onsets(\@phon_lines,$vowels);
-my %onsets = %{$onset_ref};
+my %onsets = find_onsets(\@phon_lines,$vowels);
+#my %onsets = %{$onset_ref};
 
 # ADD ADDITIONAL ONSETS
 $onsets{'|'} = 1;

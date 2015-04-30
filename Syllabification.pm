@@ -5,7 +5,7 @@ use warnings;
 use Exporter;
 use vars qw(@ISA @EXPORT);
 our @ISA = qw(Exporter);
-our @EXPORT = qw(maximum_onset_principle unicode_conversion train_test_split convert_to_lignos print_array find_onsets);
+our @EXPORT = qw(maximum_onset_principle unicode_conversion train_test_split convert_to_lignos print_array find_onsets read_gervain);
 
 sub maximum_onset_principle{
 	my ($word, $vowels, $onset_ref) = @_;
@@ -57,10 +57,10 @@ sub unicode_conversion{
 		$line =~ s/\s+$//;
 
 		my @words = split(/ /,$line);
-		my $uni_line;
+		my $uni_line = '';
 		for my $w (0..$#words){
 			my @syls = split(/\//,$words[$w]);
-			my $unicode_word;
+			my $unicode_word = '';
 			for my $s (0..$#syls){
 				if(!exists($syl_dict{$syls[$s]})){
 					$syl_dict{$syls[$s]} = chr(hex($counter));
@@ -78,8 +78,8 @@ sub unicode_conversion{
 		$uni_corpus[$i] = $uni_line;
 	}
 
-	my $syl_dict_filename = "$lang/dict/unicode-dict.txt";
-	my $word_dict_filename = "$lang/dict/unicode-word-dict.txt";
+	my $syl_dict_filename = "$lang/dicts/unicode-dict.txt";
+	my $word_dict_filename = "$lang/dicts/unicode-word-dict.txt";
 	my $unicode_corpus_filename = "$lang/$lang-uni.txt";
 
 	# PRINT SYLLABLE-TO-UNICODE DICTIONARY
@@ -107,7 +107,6 @@ sub unicode_conversion{
 	binmode($uni_fh,":utf8");
 	for my $i (0..$#uni_corpus){
 		print $uni_fh $uni_corpus[$i];
-		if($i < $#uni_corpus){ print $uni_fh "\n"; }
 	}
 	close($uni_fh);
 
@@ -154,12 +153,13 @@ sub convert_to_lignos{
 
 sub train_test_split{
 	# Take an array of lines, create 5 train/test splits, 90%/10% each
-	my $nmax = $#{ $_ };
+    my @lines = @_; chomp(@lines);
+	my $nmax = $#lines;
 	my $test_start = int(rand($nmax * .9));
 	my $test_end = $test_start + $nmax * .1;
 
-	my @train = @_[0..$test_start-1,$test_end+1..$#_];
-	my @test = @_[$test_start..$test_end];
+	my @train = @lines[0..$test_start-1,$test_end+1..$#_];
+	my @test = @lines[$test_start..$test_end];
 
 	return (\@train,\@test);
 }
@@ -170,7 +170,7 @@ sub print_array{
 	binmode($filehandle,":utf8");
 
 	for my $i (0..$#{ $array_ref }){
-		if($array_ref->[$i] !~ /^\s+$/){ # Only print if line is non-empty
+		if($array_ref->[$i] !~ /^\s*$/){ # Only print if line is non-empty
 			print $filehandle "$array_ref->[$i]";
 			if($i < $#{ $array_ref }){ print $filehandle "\n"; }
 		}
@@ -210,6 +210,41 @@ sub find_onsets{
     }
 
     return %onset_hash;
+}
+
+sub read_gervain{
+    # The Gervain corpora (Italian/Hungarian) are formatted as a single line
+    # With words separated by identifiers for syllable/word/utterance boundaries
+    # Convert this line into a typical corpus
+    # 1 utterance per line, words separated by spaces, syllables separated by '/'
+    my $filename = $_[0];
+    open(my $filehandle, "<",$filename) or die("Couldn't open $filename: $!\n");
+    binmode($filehandle,":utf8");
+    my @lines = <$filehandle>; chomp(@lines);
+    close($filehandle);
+
+    # Look at every item individually
+    my @gervain_corpus = split(/\s+/,pop(@lines));
+    my @corpus;
+    my $corpus_line = 0; $corpus[$corpus_line] = '';
+    foreach (@gervain_corpus){
+        if($_ eq 'WB'){
+            $corpus[$corpus_line] .= ' ';
+        }elsif($_ eq 'WI' or $_ eq 'MB'){
+            $corpus[$corpus_line] .= '/';
+        }elsif($_ =~ /UB/){
+            $corpus[$corpus_line] =~ s/\s+$//; # remove any trailing spaces
+            $corpus_line++;
+            $corpus[$corpus_line] = '';
+
+            #print "Prev line: $corpus[$corpus_line - 1]\nCurr line: $corpus[$corpus_line]\nLine index: $corpus_line\n";
+            #my $a = <STDIN>;
+        }elsif($_ !~ /^\s*$/){
+            $corpus[$corpus_line] .= $_;
+        }          
+    }
+
+    return @corpus;
 }
 
 1;

@@ -130,7 +130,7 @@ def main():
         if fileName.startswith(tuple([chaDir + str(28),chaDir + str(36)])):
                 continue
 
-        if verbose == 0:
+        if verbose == 1:
                 print fileName
         file = open(fileName, 'r')
         lines = file.readlines()

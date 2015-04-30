@@ -38,8 +38,6 @@ if(!$opt_sylout){
 if(!$opt_ipaout){
   $opt_ipaout = $opt_inputfile."\.pho";
 }
-print(STDERR "Reading in from $opt_inputfile\n");
-print(STDERR "and creating $opt_sylstressout, $opt_sylout, and $opt_ipaout\n");
 
 # open dictfile and dump all the translations into a hash
 
@@ -118,7 +116,7 @@ while(defined($inputfileline = <IN>)){
 	$ipa =~ s/\///g;
 	print(IPA "$ipa ");
       }else{
-	print("DEBUG: *** $word_to_find not found in \%dict\n");
+	#print("DEBUG: *** $word_to_find not found in \%dict\n");
       }
   }
     $index++;

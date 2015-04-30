@@ -627,12 +627,9 @@ bum
 bum
 k^m hir
 k^m hir
-
 lEmi lUk @t yu
-
 Its oke
 oke
-
 k^m an
 lEts lUk WtsYd
 yR yR
@@ -678,8 +675,6 @@ Y no yu du
 yEs
 w^t e switi
 mami h@z gaCx
-
-
 yur J^st tYrd arnt ya
 se o Ym tYrd
 se mami
@@ -799,7 +794,6 @@ wir J^st
 k^m an
 wi gatx
 pUt yUr dYpR an
-
 mami Iz J^st p^tIG yUr dYpR an
 Der wi go
 Der yu go
@@ -820,7 +814,6 @@ yu J^st pUld mamiz her
 nW wir g^nx pUt yUr p@nts b@k an
 o w^t ar yu krYIG xbWt
 W
-
 DIs wUd bi m^C iziR
 If yu wRnt kIkIG yUr lItxl lEgz
 k^m an
@@ -1829,7 +1822,6 @@ o dont kIk mami
 yu kIkt D^ krim rYt Wt ^v mamiz h@ndz
 DIs Iz g^nx mek It fil bEtR morgIn
 c
-
 Its oke
 Its oke
 mamiz g^nx mek It fil bEtR
@@ -4675,7 +4667,6 @@ cl ovR tWn
 o yu fcrgat yUr kIti
 miW
 D^ End ^v D^ lYn
-
 In @nd Wt
 muv an b@k
 ^p @nd dWn
@@ -12122,9 +12113,7 @@ Ym sari
 k^m an
 Ym duIG It rixli f@st
 @z f@st @z Y k@n
-
 w^ts DIs
-
 wir g^nx go Wt @nd si D^ skwRrxl
 wir g^nx go si D^ skwRrxl
 yEs wi ar
@@ -12174,11 +12163,9 @@ gatx pUt an yUr SRt
 so wi k@n go Wt
 ^DRwYz yul gEt kold
 J^st p^tIG an s^m lcG slivz fcr yu so D@t yu wont gEt
-
 o Y no
 Its rixli D@t yUr tYrd
 tYrd bebi
-
 wir g^nx go si skwRxli
 wir g^nx go Wt @nd si skwRxli nW
 yu @nd mi
@@ -12201,7 +12188,6 @@ Y m^st zIp yu ^p
 yu wanx gEt koldR
 no no
 no Y no yu dont
-
 Y no
 Y no
 k^m an
@@ -28241,8 +28227,6 @@ no nid tu kip halxrIG In hir nW
 yu rixli TIGk yu r^nIG
 bclIG ^p yUr fIsts
 wi mYt h@v tu pUt yu In but k@mp Rli
-
-
 wEl If yu nat slipIG yu nid tu klin It ^p
 klin It ^p
 mamx
@@ -28358,7 +28342,6 @@ ar yu sIGIG e scG
 a Y dont fil lYk tckIG
 yu rxmEmbR d@t muvi
 fYv part
-
 mamx
 yu nid tu lRn hW tu
 EksprEs yUrsElf bxsYdz halxrIG cl D^ tYm

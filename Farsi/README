@@ -1,0 +1,84 @@
+FARSI CORPUS
+------------
+Farsi derived corpus, created from child-directed speech utterances in the following corpora from CHILDES:
+
+(1) Farsi Family Corpus
+- created by Family, Neiloufar
+- age range of children: 2 to 4 years old
+- naturalistic speech
+- children: Lilia, Minu
+
+(2) Farsi Samadi Corpus
+- created by Samadi, Habibeh
+- age range of children: 2 to 4 years olf
+- naturalistic speech
+- children: Faeze, Mahdi, Shahrzad
+
+Total utterances: 31657
+
+Files included:
+(1) Farsi-ortho.txt = orthographic form
+(2) Farsi-phon.txt = phonemicized form
+(3) Farsi-syl.txt = phonemicized form with syllable boundaries marked
+(4) createIPAsyl.pl = script used to convert from orthographic to (syllabified) phonemic form, given a dictionary
+
+Phonemic encodings used:
+Farsi-specific consonants:
+x	often written as "x", the voiceless velar fricative sound, as in the farsi word "ashpazxone"
+8	often written as "q", the voiced uvular stop sound, as in the farsi word "abportoqal"
+
+Taken from previous English encodings (following Goldwater, Griffiths, & Johnson 2007: Distributional Cues to Word Boundaries: Context is Important)
+Consonants:
+D	THe
+G	Jump
+L	bottLe
+M	rhythM
+N	siNG
+S	SHip
+T	THin
+W	WHen
+Z	aZure
+b	Boy
+c	CHip
+d	Dog
+f	Fox
+g	Go
+h	Hat
+k	Cut
+l	Lamp
+m	Man
+n	Net
+p	Pipe
+r	Run
+s	Sit
+t	Toy
+v	View
+w	We
+y	You
+z	Zip
+~	buttON
+
+Vowels:
+&	thAt
+6	About
+7	bOY
+9	flY
+A	bUt
+E	bEt
+I	bIt
+Q	bOUt
+U	pUt
+a	hOt
+e	bAY
+i	bEE
+o	bOAt
+u	bOOt
+
+Rhotic Vowels:
+#      ARe
+%      fOR
+(      hERE
+)      lURE
+*      hAIR
+3      bIRd
+R      buttER
