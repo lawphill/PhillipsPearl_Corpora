@@ -5,6 +5,7 @@ import glob
 import sys
 import re
 
+# Display debug information, print to statistics file
 verbose = 0
 
 obstruents = {'b':'B', 'd':'D', 'g':'G'}
@@ -212,16 +213,17 @@ def main():
     outFile.close()
     keyErrors.close()
     
-    statisticsFile = open("statistics.txt", 'w')
-    statisticsFile.write("Number of utterances: " + str(globals()["numUtterances"]) + "\n")
-    statisticsFile.write("Number of words by tokens: " + str(globals()["numWords"]) + "\n")
-    statisticsFile.write("Number of words by type: " + str(len(word)) + "\n")
-    averageWordsPerUtterance = float(float(globals()["numWords"]) / float(numUtterances))
-    statisticsFile.write("Words per utterance on average: " + str(averageWordsPerUtterance) + "\n")
-    averagePhonemesPerWord = float(float(sum(globals()["phonemesPerWord"])) / float(len(globals()["phonemesPerWord"])))
-    statisticsFile.write("Phonemes per word on average: " + str(averagePhonemesPerWord))
+    if verbose == 1:
+        statisticsFile = open("statistics.txt", 'w')
+        statisticsFile.write("Number of utterances: " + str(globals()["numUtterances"]) + "\n")
+        statisticsFile.write("Number of words by tokens: " + str(globals()["numWords"]) + "\n")
+        statisticsFile.write("Number of words by type: " + str(len(word)) + "\n")
+        averageWordsPerUtterance = float(float(globals()["numWords"]) / float(numUtterances))
+        statisticsFile.write("Words per utterance on average: " + str(averageWordsPerUtterance) + "\n")
+        averagePhonemesPerWord = float(float(sum(globals()["phonemesPerWord"])) / float(len(globals()["phonemesPerWord"])))
+        statisticsFile.write("Phonemes per word on average: " + str(averagePhonemesPerWord))
     
-    statisticsFile.close()
+        statisticsFile.close()
     
 if __name__ == "__main__":
     main()

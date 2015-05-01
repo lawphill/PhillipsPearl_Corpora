@@ -8,7 +8,9 @@ The corpus consists only of child-directed speech where the child was 9 months-o
 
 Syllabification was done in a three step process:
     1) Syllabification was taken from the MRC Psycholinguistics Database, http://ota.oucs.ox.ac.uk/headers/1054.xml
-    2) If not found there, syllabification was taken from the English Callhome Lexicon, https://catalog.ldc.upenn.edu/LDC97L20
+    2) If not found there, syllabification was taken from the English CALLHOME Lexicon, https://catalog.ldc.upenn.edu/LDC97L20
     3) If not found there, syllabification was done using the Maximum-Onset Principle
 
-Due to licensing, we are unable to provide the relevant files from the English Callhome Lexicon.
+Due to licensing, we are unable to provide the relevant files from the English CALLHOME Lexicon. Without those files, the scripts for syllabification will not function properly. 'dict-Brent.txt' was generated from the CALLHOME lexicon by picking out items that appeared in the Brent corpus.
+
+Phonetic encoding into ASCII was done using Klattese, a description of which can be found here: http://www.people.ku.edu/~mvitevit/Klatt_IPA.pdf

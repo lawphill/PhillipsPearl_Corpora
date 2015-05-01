@@ -153,12 +153,15 @@ sub convert_to_lignos{
 
 sub train_test_split{
 	# Take an array of lines, create 5 train/test splits, 90%/10% each
-    my @lines = @_; chomp(@lines);
-	my $nmax = $#lines;
-	my $test_start = int(rand($nmax * .9));
-	my $test_end = $test_start + $nmax * .1;
+    my ($array_ref,$amt_train) = @_;
+    my @lines = @$array_ref; chomp(@lines);
+    ($amt_train > 0 and $amt_train < 1) or warn("Train \% of $amt_train is an invalid probability\n"), return 0;
 
-	my @train = @lines[0..$test_start-1,$test_end+1..$#_];
+	my $test_start = int(rand($#lines * $amt_train));
+	my $test_end = int($test_start + $#lines * (1 - $amt_train));
+    #print "Test start: $test_start\nTest end: $test_end\n";
+
+	my @train = @lines[0..$test_start-1,$test_end+1..$#lines];
 	my @test = @lines[$test_start..$test_end];
 
 	return (\@train,\@test);
@@ -183,6 +186,9 @@ sub print_array{
 sub find_onsets{
     my ($corpus_ref,$vowels) = @_;
     my %onset_hash;
+
+    ($vowels !~ /^\s*$/) or warn("Warning: No vowels found, behavior may be erratic\n"), return %onset_hash;
+
     foreach my $line (@{$corpus_ref}){
         my @words = split(/\s+/,$line);
 

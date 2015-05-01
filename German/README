@@ -1,0 +1,13 @@
+GERMAN CORPUS
+-------------
+Our German corpus is derived from the Caroline corpus, available on CHILDES at http://childes.psy.cmu.edu/data/Germanic/German/Caroline.zip
+
+The corpus follows a single child from age 0;10 to 4;3
+
+Syllabification was done in the following fashion:
+    1) If syllabification existed from the CELEX2 database (https://catalog.ldc.upenn.edu/LDC96L14), it was used
+    2) Otherwise, syllabification was done using the Maximimum-Onset Principle
+
+Due to licensing, we're unable to provide the appropriate files for syllabification. The 'syllabify_corpus.pl' script will not function properly without it.
+
+A description of the phonetic encoding into ASCII can be found in the file 'transliteration.key'

@@ -1,14 +1,39 @@
-Phillips Pearl Corpora
+PHILLIPS-PEARL CORPORA
+----------------------
+
+Corpora
+-------
+The corpora come from seven different languages. Each compiled corpus is available in orthographic form as well as in phonetic form both with and without syllabification. The seven languages are English, German, Spanish, Italian, Farsi, Hungarian, and Japanese. More detail about each set of corpora can be found in their corresponding folder's README.
+
+Generic Directory Structure
+---------------------------
+/Language/
+    /dicts/
+    /scripts/
+    /test_sets/
+    /train_sets/
+    README
+    corpora
+
+Each /dict/ folder contains dictionary files necessary for syllabification of the language's corpus. Additionally, a unicode-to-word and unicode-to-syllable dictionary is available for reference. 
+/scripts/ contains all perl/python scripts necessary for syllabification.
+Train & test sets are contained in their respective subfolders.
+README files are provided for each language to provide more information about that language's specific corpus.
+
+Each language contains a number of versions all of the same corpus. 
+    Language-ortho.txt: Orthographic representation of the corpus (missing for Italian/Hungarian)
+    Language-phon.txt: Phonetic representation without syllabification marked
+    Language-syl.txt: Phonetic representation with syllabification marked by '/'
+    Language-uni.txt: Syllabic representation, each syllable is represented by a single unicode character
+        Conversion between unicode and phonetically-notated syllables can be found in /dicts/unicode-dict.txt
+    Language-sylstress.txt: Phonetic representation with syllabification marked by '/'
+        stress is noted as a '0' or '1' after the syllable (only for Japanese)
 
 Used in
 -------
 Phillips, L. & Pearl, L. 2014. Bayesian inference as a viable cross-linguistic word segmentation strategy: It's all about what's useful. Proceedings of the 36th Annual Conference of the Cognitive Science Society, Quebec City, CA: Cognitive Science Society, 2775-2780.
 
 Phillips, L. & Pearl, L. 2014. Bayesian inference as a cross-linguistic word segmentation strategy: Always learning useful things. Proceedings of the Computational and Cognitive Models of Language Acquisition and Language Processing Workshop, EACL, Gothenberg, Sweden.
-
-Corpora
--------
-The corpora come from seven different languages. Each compiled corpus is available in orthographic form as well as in phonetic form both with and without syllabification. The seven languages are English, German, Spanish, Italian, Farsi, Hungarian, and Japanese. More detail about each set of corpora can be found in their corresponding folder's README.
 
 License
 -------

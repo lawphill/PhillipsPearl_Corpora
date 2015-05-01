@@ -1,3 +1,57 @@
+k.e0 p.o0|D.e0|m.o0.s a0|s.e0.r k.o0.n e0|s.t.o0
+s.#0|R.a0|l.o0 s.#0|R.a0|l.o0
+a0|B.e0.r B.a0|m.o0.s a0|B.e0.r s.i0 s.e0 o0|J.e0
+-0 k.e0 B.o0|n.i0|t.o0 s.e0 o0|J.e0 a0|B.e0.r l.o0.s m.i0|o0.s
+b.a0|m.o0.s a0|k.i0
+k.#0|r.e0.s k.e0 t.e0 e0.n|s.e0|(.e0 o0|t.r.o0.s x.u0|G.e0|t.e0.s
+k.e0 e0.s i0|x.o0
+m.i0|r.a0
+k.e0 e0.s G.o0.r|D.o0
+t.o0|m.a0 t.o0|m.a0 e0|s.t.o0 e0.s l.o0 k.e0 k.#0|r.e0.s
+a0.l|f.o0.n|s.o0 a0.l|f.o0.n|s.o0 D.o0.n|d.e0 e0|s.t.a0 p.a0|p.a0 p.a0|p.a0
+a0 k.e0 x.u0|G.a0|m.o0.s e0
+b.r.a0|B.o0 B.r.a0|B.o0
+m.i0|r.a0 D.a0|r.@0 l.o0.s k.#0|r.e0.s
+a0|B.e0.r k.e0 B.a0|m.o0.s a0 a0|s.e0.r D.a0|r.@0
+b.a0|m.o0.s a0 x.u0|G.a0.r
+m.i0|r.a0 D.a0|r.@0
+m.i0|r.a0
+t.o0|m.a0 t.o0|m.a0 t.o0|m.a0
+p.+0|l.a0 j.a0 B.i0|s.t.e0 t.o0|D.o0 l.o0 k.e0 t.e0|n.e0|m.o0.s a0|k.i0
+m.i0|r.a0 k.e0 B.o0|n.i0|t.o0
+k.e0 p.a0|s.o0 p.+0|l.a0
+d.a0|s.e0|l.o0 a0 e0|j.a0
+a0|k.i0 m.i0|r.a0
+g.r.a0|s.%0.s
+j.a0
+t.e0 e0.n|s.e0 o0 o0|t.r.o0.s x.u0|G.e0|t.e0.s s.i0
+l.a0 k.a0.m|p.a0|n.i0|t.a0 B.i0|s.t.e0
+r.u0.n
+-0
+-0
+m.i0|r.a0
+u0.n p.e0|R.i0|t.o0 k.o0|m.o0 m.i0|r.a0
+a0|B.e0.r s.a0|k.a0|l.o0
+s.#0|R.a0|l.o0
++0|G.+0.G
++0|G.+0.G
++0|G.+0.G
+-0
+m.u0
+n.o0
+n.o0 a0 l.a0 B.o0|k.a0 n.o0
+l.e0 m.$0.r|D.e0 l.a0 p.a0.n|s.a0 l.e0 m.$0.r|D.e0 l.a0 p.a0.n|s.a0
+d.o0.n|d.e0 e0|s.t.a0 l.a0 B.a0|k.a0 j.a0 s.e0 f.$0 l.a0 B.a0|k.a0
+i0 p.+0|l.a0 t.a0.m|b.#0.n
+m.i0|r.a0 a0|k.a0 e0|s.t.a0 l.a0 B.a0|k.a0
+n.o0 l.o0 B.a0.s a0 D.o0.r|m.i0.r
+b.$0|n.o0 j.o0 B.? a0 D.o0.r|m.i0.r a0.l m.o0|n.o0
+a0|x.a0|x.a0.x
+t.u0 k.#0|r.e0.s e0|s.t.e0
+t.e0 k.#0|r.e0.s e0|s.t.e0
+a0|x.a0|x.a0.x
+m.i0|G.e0|l.i0|t.o0 j.a0 B.i0|s.t.e0 t.o0|D.o0 l.o0 k.e0 t.e0|n.e0|m.o0.s a0|k.i0
+m.i0|r.a0
 m.i0|r.a0
 p.u0.m s.e0 k.a0|j.o0
 -0 e0|s.t.e0 k.a0|R.i0|t.o0 s.e0 B.a0 s.e0 B.a0 a0 p.a0|s.e0|a0.r
@@ -847,57 +901,3 @@ a0 k.e0 k.#0|r.e0.s x.u0|G.a0.r
 n.e0|n.a0
 -0 l.a0 n.e0|n.a0
 k.a0|r.i0|(.i0|t.o0 k.a0|r.i0|(.i0|t.o0 p.e0.D|r.o0
-m.i0|r.a0 e0.s a0|m.i0|G.o0 D.e0 r.o0|k.o0 e0
-o0|l.a0 p.e0.D|r.o0
-#0 s.t.e0
-p.e0.D|r.o0 G.$0|r.o0
-p.e0.D|r.o0
-i0 r.o0|k.o0 k.#0.n e0.s r.o0|k.o0
--0 k.e0 l.i0.n|d.o0
-g.o0.r|D.o0
-p.e0.D|r.i0|t.o0
-b.e0 k.o0.n m.a0|m.a0
-b.e0.n p.e0.D|r.o0
-o0|l.a0
-o0|l.a0
-n.o0 t.e0 k.#0|r.e0.s s.e0.n|t.a0.r
-o0|J.e0 e0.r|n.e0|s.t.o0 m.i0|r.a0
-j.a0 B.i0|s.t.e0 k.e0 p.a0.D|r.e0
-o0|l.a0
-o0|l.a0 x.o0.r|x.e0 e0.r|n.e0|s.t.o0
-p.i0|p.i0 t.o0|m.a0
-j.a0 m.i0|r.a0 l.o0 k.e0 t.e0.N|g.o0 a0|k.i0
-o0|l.a0
-l.a0 s.e0.n|t.a0|m.o0.s
-a0|B.e0.r a0|B.r.e0 t.u0.s p.#0.r|n.i0|t.a0.s
-p.i0|p.i0
-t.e0 G.u0|s.t.a0 l.a0 m.u0|(.e0|k.a0 o0 n.o0
-e0|s.t.a0 f.e0|a0
-e0|s.t.a0 m.!0 f.e0|a0
-a0|j.i0 B.a0 o0|t.r.a0 B.e0.s
-o0|t.r.a0 B.e0.s
-o0|l.a0
-t.e0 G.u0|s.t.o0 l.a0 m.u0|(.e0|k.a0 x.o0.r|x.e0
-j.a0 l.a0 B.? a0 G.&0.r|D.a0.r
-m.i0|r.a0 l.o0 k.e0 t.e0.N|g.o0
-m.i0|r.a0
-a0|s.e0|m.o0.s u0|n.a0 t.o0|R.e0
-!0 s.e0 k.a0|j.o0
-o0|t.r.a0 B.e0.s
-m.i0|r.a0
-o0 a0|s.i0
-t.o0|m.a0
-m.e0 l.o0 D.a0.s
-g.r.a0|s.%0.s k.e0 o0|B.e0|D.#0.n|t.e0
-m.i0|r.a0
-n.o0 t.e0 G.u0|s.t.a0 e0.l k.a0|m.@0.n
-j.a0 t.e0 e0|s.t.a0 D.a0.n|d.o0 G.r.i0|p.a0
-d.a0|m.e0|l.o0 G.r.a0|s.%0.s
-j.o0 l.o0 B.? a0 p.o0|n.e0.r e0.n e0.l k.a0|m.@0.n p.i0|p.i0
-g.r.a0|s.%0.s
-a0|o0|r.a0 m.i0|r.a0 l.o0 k.e0 B.? a0|s.e0.r
-x.o0.r|x.e0 m.i0|r.a0
-o0|l.a0 k.o0|m.o0 e0|s.t.a0.s
-t.e0 l.o0 k.#0|r.e0.s p.o0|n.e0.r
-m.i0|r.a0 s.i0|G.o0 j.o0
-!0
