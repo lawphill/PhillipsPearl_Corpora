@@ -2,24 +2,22 @@
 
 # The goal of this script is to translate all function words/morphemes into the same formatting as in the Gervain corpus
 
-open(FUNC,"<hungarian_funcwords.txt") or die("coudlnt' open hungarian_funcwords for reading\n");
-@func_raw = <FUNC>;
-chomp(@func_raw);
+open(FUNC,"<Hungarian/funcwords-raw.txt") or die("coudlnt' open funcwords-raw.txt for reading: $!\n");
+@func_raw = <FUNC>; chomp(@func_raw);
 close(FUNC);
 
-open(MORPH,"<hungarian_morphemes.txt") or die("couldn't open hungarian_morphemes for reading\n");
-@morph_raw = <MORPH>;
-chomp(@morph_raw);
+open(MORPH,"<Hungarian/morphemes-raw.txt") or die("couldn't open morphemes-raw.txt for reading: $!\n");
+@morph_raw = <MORPH>; chomp(@morph_raw);
 close(MORPH);
 
-open(OUT_FUNC,">hungarian_funcwords_ipa.txt") or die("couldn't open funcwords_ipa.txt\n");
-open(OUT_MORPH,">hungarian_morph_ipa.txt") or die("couldn't open morph_ipa.txt\n");
+open(OUT_FUNC,">Hungarian/funcwords-phon.txt") or die("couldn't open funcwords-phon.txt\n");
+open(OUT_MORPH,">Hungarian/morphemes-phon.txt") or die("couldn't open morphemes-phon.txt\n");
 
 for($i=0;$i<@func_raw;$i++){
 	$new_line = &modify($func_raw[$i]);
 	if($new_line !~ /^\s*$/){
 		print OUT_FUNC "$new_line";
-		if($i+1!=@func_raw){ print OUT_FUNC "\n"; }
+		if($iM<$#func_raw){ print OUT_FUNC "\n"; }
 	}
 }
 
@@ -27,7 +25,7 @@ for($i=0;$i<@morph_raw;$i++){
 	$new_line = &modify($morph_raw[$i]);
 	if($new_line !~ /^\s*$/){
 		print OUT_MORPH "$new_line";
-		if($i+1!=@morph_raw){ print OUT_MORPH "\n"; }
+		if($i<$#morph_raw){ print OUT_MORPH "\n"; }
 	}
 }
 

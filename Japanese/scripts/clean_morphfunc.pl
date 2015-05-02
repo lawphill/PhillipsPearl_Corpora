@@ -2,16 +2,16 @@
 
 # Clean up the morph & funcwords Japanese files, removing extra information and turning the remaining words into their IPA equivalents.
 
-open(MORPH,"<morph_text_japanese.txt") or die("couldn't open morph_text_japanese.txt\n");
+open(MORPH,"<Japanese/morphemes-ortho.txt") or die("couldn't open morphemes-ortho.txt: $!\n");
 @morph = <MORPH>; chomp(@morph);
 close(MORPH);
 
-open(FUNC,"<funcwords_text_japanese.txt") or die("couldn't open funcwords_text_japanese.txt\n");
+open(FUNC,"<Japanese/funcwords-ortho.txt") or die("couldn't open funcwords-ortho.txt: $!\n");
 @func = <FUNC>; chomp(@func);
 close(FUNC);
 
-open(OUTM,">../../analysis/morph_japanese.txt") or die("couldn't open morph_japanese.txt for writing\n");
-open(OUTF,">../../analysis/funcwords_japanese.txt") or die("couldn't open funcowrds_japanese.txt for writing\n");
+open(OUTM,">Japanese/morphemes-phon.txt") or die("couldn't open morphemes-phon.txt for writing: $!\n");
+open(OUTF,">Japanese/funcwords-phon.txt") or die("couldn't open funcwords-phon.txt for writing: $!\n");
 
 # Convert Morphology
 for($i=0;$i<@morph;$i++){
@@ -20,7 +20,7 @@ for($i=0;$i<@morph;$i++){
 	$word = &translate($word);
 
 	print OUTM "$word";
-	if($i+1!=@morph){ print OUTM "\n"; }
+	if($i<$#morph){ print OUTM "\n"; }
 }
 close(OUTM);
 
@@ -31,14 +31,14 @@ for($i=0;$i<@func;$i++){
 	$word = &translate($word);
 
 	print OUTF "$word";
-	if($i+1!=@func){ print OUTF "\n"; }
+	if($i<$#func){ print OUTF "\n"; }
 }
 close(OUTF);
 
 sub remove_extra{
 	my $line = $_[0];
 	$line =~ /^\-?([\w ]*)[\:\-\[\]\(\)]?.*$/;
-	$1;
+	return $1;
 }
 
 sub translate{
@@ -54,5 +54,5 @@ sub translate{
 	$word =~ s/desu/desW/g;
 	$word =~ s/sh/S/g;
 
-	$word;	
+	return $word;	
 }

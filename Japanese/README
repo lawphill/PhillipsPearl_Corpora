@@ -1,5 +1,101 @@
 JAPANESE CORPUS
 ---------------
-Our Japanese corpus is derived from the Noji, Ishii, and Miyata corpora from CHILDES. A detailed list of files used can be found in JapaneseCHILDESfiles.rtf
+Our Japanese corpus is derived from the Noji, Ishii, and Miyata corpora from CHILDES. A detailed list of files is given below.
+
+Transcription was done using standard romanization for Japanese. Phonetic encoding is generally straightforward. Where non-obvious, a note has been made in 'transcription_key.txt'
 
 
+Corpus Files
+------------
+Child tiers: CHI or SUM (Noji) or TAI (Miyata/Tai)
+
+0-2
+Noji 000 [no CDS content]
+Noji 001 [no CDS content]
+
+2-4
+Noji 002 
+Noji 003 
+
+4-6
+Noji 004
+
+6-8
+Ishii 00601
+Noji 006
+Noji 007
+
+8-10
+Ishii 00800
+Ishii 00822
+Ishii 00907
+Ishii 00920
+Noji 008
+Noji 009
+
+10-12
+Ishii 01004
+Ishii 01110
+Noji 010
+Noji 011
+
+12-14
+Ishii 10000
+Ishii 10008
+Ishii 10011
+Ishii 10021
+Ishii 10029
+Ishii 10106
+Ishii 10111
+Noji 100
+Noji 101
+
+14-16
+Ishii 10206
+Ishii 10220
+Ishii 10313
+Noji 102
+Noji 103
+
+16-18
+Ishii 10405
+Ishii 10420
+Ishii 10505
+Ishii 10519
+Miyata/Aki aki01
+Miyata/Ryo r10303
+Miyata/Ryo r10306
+Miyata/Ryo r10320
+Miyata/Ryo r10327
+Miyata/Ryo r10516
+Miyata/Ryo r10522
+Miyata/Tai t930930
+Miyata/Tai t931007a
+Miyata/Tai t931007b
+Noji 104
+Noji 105
+
+18-20
+Ishii 10600
+Ishii 10616
+Ishii 10704
+Ishii 10721
+Miyata/Aki aki02
+Miyata/Aki aki03
+Miyata/Ryo r10605
+Miyata/Ryo r10613
+Miyata/Ryo r10619
+Miyata/Ryo r10626
+Miyata/Ryo r10712
+Miyata/Ryo r10721
+Miyata/Ryo r10731
+Miyata/Tai t931014
+Miyata/Tai t931021a
+Miyata/Tai t931021b
+Miyata/Tai t931029
+Miyata/Tai t931103
+Miyata/Tai t931111
+Miyata/Tai t931118
+Miyata/Tai t931125
+Noji 106
+Noji 107

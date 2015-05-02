@@ -6,16 +6,16 @@ use utf8;
 
 # Using :utf8 to deal with accented characters in the original files.
 
-open(MORPH,"<ItalianMorphemes.txt") or die("couldn't open ItalianMorphemes.txt\n");
+open(MORPH,"<Italian/morphemes-ortho.txt") or die("couldn't open morphemes-ortho.txt: $!\n");
 @morph = <MORPH>; chomp(@morph);
 close(MORPH);
 
-open(FUNC,"<ItalianFunctionWords.txt") or die("couldn't open ItalianFunctionWords.txt\n");
+open(FUNC,"<Italian/funcwords-ortho.txt") or die("couldn't open funcwords-ortho.txt: $!\n");
 @func = <FUNC>; chomp(@func);
 close(FUNC);
 
-open(OUTM,">../../../analysis/morph_italian.txt") or die("couldn't open morph_italian.txt for writing\n");
-open(OUTF,">../../../analysis/funcwords_italian.txt") or die("couldn't open funcowrds_italian.txt for writing\n");
+open(OUTM,">Italian/morphemes-phon.txt") or die("couldn't open morphemes-phon for writing: $!\n");
+open(OUTF,">Italian/funcwords-phon.txt") or die("couldn't open funcowrds-phon for writing: $!\n");
 
 # Convert Morphology
 for($i=0;$i<@morph;$i++){
@@ -24,7 +24,7 @@ for($i=0;$i<@morph;$i++){
 	$word = &translate($word);
 
 	print OUTM "$word";
-	if($i+1!=@morph){ print OUTM "\n"; }
+	if($i<$#morph){ print OUTM "\n"; }
 }
 close(OUTM);
 
@@ -35,7 +35,7 @@ for($i=0;$i<@func;$i++){
 	$word = &translate($word);
 
 	print OUTF "$word";
-	if($i+1!=@func){ print OUTF "\n"; }
+	if($i<$#func){ print OUTF "\n"; }
 }
 close(OUTF);
 

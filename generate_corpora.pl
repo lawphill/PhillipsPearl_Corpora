@@ -11,6 +11,7 @@ use Syllabification;
 my $verbose = 1;
 
 # CREATE PHONETIC/SYLLABIFIED CORPORA
+# CONVERT FUNCTION WORD/MORPHOLOGY LISTS INTO PHONETIC FORMAT
 
 # use Lisa's script for japanese & spanish
 # my script for German, Farsi, English
@@ -28,24 +29,28 @@ system("perl German/scripts/syllabify_corpus.pl");
 # spanish
 if($verbose==1){ print "Pre-processing SPANISH...\n"; }
 system("perl Spanish/scripts/create_corpus.pl");
+system("perl Spanish/scripts/clean_morphfunc.pl");
 
 # japanese
 if($verbose==1){ print "Pre-processing JAPANESE...\n"; }
 system("perl Japanese/scripts/createIPAsylstress.pl -inputfile Japanese/Japanese-ortho.txt -dictfile Japanese/dicts/japanese_dict.txt -sylstressout Japanese/Japanese-sylstress.txt -sylout Japanese/Japanese-syl.txt -ipaout Japanese/Japanese-phon.txt");
+system("perl Japanese/scripts/clean_morphfunc.pl");
 
 # farsi
 if($verbose==1){ print "Pre-processing FARSI...\n"; }
 system("perl Farsi/scripts/createIPAsyl.pl -inputfile Farsi/Farsi-ortho.txt -outputfile Farsi/Farsi-syl.txt -dictfile Farsi/dicts/farsi_dict.txt -mode syl");
 system("perl Farsi/scripts/createIPAsyl.pl -inputfile Farsi/Farsi-ortho.txt -outputfile Farsi/Farsi-phon.txt -dictfile Farsi/dicts/farsi_dict.txt -mode pho");
+system("perl Farsi/scripts/clean_morphfunc.pl");
 
 # italian
 if($verbose==1){ print "Pre-processing ITALIAN...\n"; }
 system("perl Italian/scripts/convert_corpus.pl");
+system("perl Italian/scripts/translate_to_ipa.pl");
 
 # hungarian
 if($verbose==1){ print "Pre-processing HUNGARIAN...\n"; }
 system("perl Hungarian/scripts/convert_corpus.pl");
-
+system("perl Hungarian/scripts/translate_to_ipa.pl");
 
 # CONVERT SYLLABIFIED CORPORA TO UNICODE
 my @languages = qw(English German Spanish Italian Farsi Hungarian Japanese);

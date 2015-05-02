@@ -5,8 +5,8 @@ use utf8;
 
 # Clean up the morph & funcwords Spanish files, removing extra information and turning the remaining words into their IPA equivalents.
 # Using :utf8 to deal with accented characters in the original files.
-my $ortho_morphology_file = 'Spanish/Spanish-morphology-ortho.txt';
-my $ortho_funcwords_file = 'Spanish/Spanish-funcwords-ortho.txt';
+my $ortho_morphology_file = 'Spanish/morphemes-ortho.txt';
+my $ortho_funcwords_file = 'Spanish/funcwords-ortho.txt';
 
 open(my $morphology_fh,"<",$ortho_morphology_file) or die("couldn't open $ortho_morphology_file: $!\n");
 my @ortho_morphology = <$morphology_fh>; chomp(@ortho_morphology);
@@ -16,8 +16,8 @@ open(my $func_fh,"<",$ortho_funcwords_file) or die("couldn't open $ortho_funcwor
 my @ortho_funcwords = <$func_fh>; chomp(@ortho_funcwords);
 close($func_fh);
 
-my $phon_morphology_file = 'Spanish/Spanish-morphology.txt';
-my $phon_funcwords_file = 'Spanish/Spanish-funcwords.txt';
+my $phon_morphology_file = 'Spanish/morphemes-phon.txt';
+my $phon_funcwords_file = 'Spanish/funcwords-phon.txt';
 
 # Convert Morphology
 open(my $morph_out_fh,">",$phon_morphology_file) or die("couldn't open $phon_morphology_file: $!\n");
@@ -30,7 +30,7 @@ close($morph_out_fh);
 # Convert Function Words
 open(my $func_out_fh,">",$phon_funcwords_file) or die("couldn't open $phon_funcwords_file: $!\n");
 for my $i (0..$#ortho_funcwords){
-	print $func_out_fh &translate($ortho_funcwords[$i]);
+	print $func_out_fh translate($ortho_funcwords[$i]);
 	if($i<$#ortho_funcwords){ print $func_out_fh "\n"; }
 }
 close($func_out_fh);

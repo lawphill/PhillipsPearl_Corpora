@@ -4,16 +4,16 @@ use utf8;
 
 # Clean up the morph & funcwords Farsi files, removing extra information and turning the remaining words into their IPA equivalents.
 
-open(MORPH,"<FarsiMorphemes.txt") or die("couldn't open FarsiMorphemes.txt\n");
+open(MORPH,"<Farsi/morphemes-ortho.txt") or die("couldn't open morpheme-ortho.txt\n");
 @morph = <MORPH>; chomp(@morph);
 close(MORPH);
 
-open(FUNC,"<FarsiFunctionWords.txt") or die("couldn't open FarsiFunctionWords.txt\n");
+open(FUNC,"<Farsi/funcwords-ortho.txt") or die("couldn't open funcwords-ortho.txt\n");
 @func = <FUNC>; chomp(@func);
 close(FUNC);
 
-open(OUTM,">../../analysis/morph_farsi.txt") or die("couldn't open morph_farsi.txt for writing\n");
-open(OUTF,">../../analysis/funcwords_farsi.txt") or die("couldn't open funcowrds_farsi.txt for writing\n");
+open(OUTM,">Farsi/morphemes-phon.txt") or die("couldn't open morph-phon.txt for writing\n");
+open(OUTF,">Farsi/funcwords-phon.txt") or die("couldn't open funcwords-phon.txt for writing\n");
 
 # Convert Morphology
 for($i=0;$i<@morph;$i++){
